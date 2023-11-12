@@ -1,0 +1,1905 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:mcn2021virtual
+X-WR-CALDESC:Event Calendar
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+PRODID:-//Sched.com MCN 2021 VIRTUAL//EN
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211005T160000Z
+DTEND:20211005T161500Z
+SUMMARY:Welcome to MCN 2021\, Get Inspired!
+DESCRIPTION:Join us to kick off MCN 2021 with a brief welcome and an overview of the conference schedule and platforms.
+CATEGORIES:PLENARY/KEYNOTE
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:47790f30a3d0707633bb1657e01f3009
+URL:http://mcn2021virtual.sched.com/event/47790f30a3d0707633bb1657e01f3009
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211005T163000Z
+DTEND:20211005T170000Z
+SUMMARY:Opening Keynote: heather ahtone: Decolonizing the Museum: what does it mean to serve the community?
+DESCRIPTION:Hear from heather ahtone\, Senior Curator at the First Americans Museum (FAM) in Oklahoma.\n\nDecolonizing the Museum: what does it mean to serve the community?\n\nThis keynote will share Dr. ahtone's reflections on how media enacts the First Americans Museum's curatorial methodology working with Respect\, Reciprocity\, Relationships\, and Responsibility. As a new museum\, just opened in September 2021\, FAM serves the 39 tribal nations in Oklahoma telling a national story of resilience\, resistance\, and survival.
+CATEGORIES:PLENARY/KEYNOTE
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:668117eced8b6d21a00ee8c3da3e2300
+URL:http://mcn2021virtual.sched.com/event/668117eced8b6d21a00ee8c3da3e2300
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211005T171500Z
+DTEND:20211005T174500Z
+SUMMARY:AMA with Conference Program Co-Chairs
+DESCRIPTION:New to MCN? Or a seasoned pro? Join Program Co-Chairs Jessica Warchall and Max Evjen for a quick "How to MCN" and Ask Me Anything about the conference.\n\nWe’ll show you what you can expect from this virtual experience\, from engaging sessions to informative workshops and professional development sessions\, with social experiences throughout. You’ll find out how to make the most of this virtual experience!
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:94c2e62bb735de2539748549bbede43c
+URL:http://mcn2021virtual.sched.com/event/94c2e62bb735de2539748549bbede43c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211005T171500Z
+DTEND:20211005T181500Z
+SUMMARY:Networking Kickoff sponsored by LIVDEO
+DESCRIPTION:To kick the mingling factor right on this first day\, join Don Youngberg and Eric Longo to meet other MCN 2021 attendees and learn how to make new friends in the virtual environment.\n\nBrought to you by LIVDEO.
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:d40fe55ede4d3be134d3bf6f061448d8
+URL:http://mcn2021virtual.sched.com/event/d40fe55ede4d3be134d3bf6f061448d8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211005T190000Z
+DTEND:20211005T200000Z
+SUMMARY:IGNITE
+DESCRIPTION:Join your host extraordinaire nikhil trivedi for MCN 2021 IGNITE and be inspired by the following thought-provoking and daring talks from these fab speakers:\n\nSpeculative Fiction: A Dispatch from the Year 3021\, by Jeremy Munro.The Museums of 2100\, by Emily Crum.Are Museums a Cult? by Seema Rao.Can Muse-Tech just move on? by Andrea Montiel de Shuman.Let It Burn: The Smoke & Mirrors of Social Media “Success”\, by Adriel Luis.Nobody understands my job\, and that's a problem\, by Kate Meyers Emery\, PhD.I am an educator\, I speak for the learners\, by Miranda Kerr.A few things I learned in my 10 years with MCN; and quite a bit more\, by Eric Longo.WATCH NOW
+CATEGORIES:PLENARY/KEYNOTE
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:36687b92948a238b9ccfdc6dc6d6307e
+URL:http://mcn2021virtual.sched.com/event/36687b92948a238b9ccfdc6dc6d6307e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211006T140000Z
+DTEND:20211006T144500Z
+SUMMARY:Let's Talk Web2: web design and development leveraging Wordpress
+DESCRIPTION:Interested in learning more about how we can help you with web design and development? Join us during this open office hour to ask questions and chat with our team!\nMembers of our team will be on the call for general Q&A and will also be available to hop into a breakout room to talk one-on-one. Learn more at www.lynch2.com.
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:2ee6faf13d6ac81b69b316456db308b7
+URL:http://mcn2021virtual.sched.com/event/2ee6faf13d6ac81b69b316456db308b7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211006T140000Z
+DTEND:20211006T144500Z
+SUMMARY:Wake Up Call: Showcase Your Collections Online with Argus
+DESCRIPTION:Enhance the Experience. Encourage Engagement. Enable Efficiency\n\nLucidea’s team will take you on a live tour of Argus\, Lucidea’s unrivaled museum collections management system\, focusing on 2 key aspects of showcasing collections online: capabilities that enhance the virtual visitor experience and ways to encourage user engagement. In addition\, they’ll demonstrate how an integrated portal fosters efficiency\, for both museum staff and CMS users
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 3\, Virtual
+SEQUENCE:0
+UID:7ba189cb341dff3fed5ccc20238de0f7
+URL:http://mcn2021virtual.sched.com/event/7ba189cb341dff3fed5ccc20238de0f7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211006T143000Z
+DTEND:20211006T150000Z
+SUMMARY:Decades of DAM: Get to Know Capture
+DESCRIPTION:What’s it like to have been in the digital asset industry for over 20 years? What are the learnings from decades of experience?\n\nIn this presentation\, digital asset management (DAM) and media library vendor Capture Ltd\, reflects on the evolution of the platform and services that they offer. This will include a short demonstration of the technology that’s currently used by many cultural and heritage organisations across the globe. There will also be time for Q&A.\n\nhello@capture.co.uk
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:0e74cf0d1e34b1fc4385dae1e76ce7f9
+URL:http://mcn2021virtual.sched.com/event/0e74cf0d1e34b1fc4385dae1e76ce7f9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211006T150000Z
+DTEND:20211006T163000Z
+SUMMARY:Digital Presence and Personal (or Organizational) Digital Strategy (Workshop 3)
+DESCRIPTION:Workshops require advance registration on Eventbrite. Each workshop is $75.\n\nWe are often introduced to new platforms that we adopt without thinking much about how we operate in the digital sphere and whether or not we wish to change our behavior in one way or another. It may be difficult to understand the big picture of our digital presence\, hard to keep track of just how invested we are in digital platforms.  Even if we understand our digital presence\, we may wish to engage certain audiences in one way or another but not know where to start\, or how to plan effectively for that engagement.  In this workshop\, we will explore David O. White's Visitor and Resident Model for digital presence\, and will explore Jasper Visser and Jim Richardson's Digital Engagement Framework\, both as a means for being thoughtful about one's own digital presence\, and for building a strategy around one's digital engagement.
+CATEGORIES:WORKSHOP
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:92d7a045c58d7b6f25de528ffc059167
+URL:http://mcn2021virtual.sched.com/event/92d7a045c58d7b6f25de528ffc059167
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211006T150000Z
+DTEND:20211006T163000Z
+SUMMARY:Transform White Supremacy: Critical Leadership Skills for the 21st Century (Workshop 1)
+DESCRIPTION:Workshops require advance registration on Eventbrite. Each workshop is $75.\n\nThe past year has illuminated for many how embedded racism and white supremacy really are in our societies. For leaders and those who wish to grow\, the capacities to identify\, talk about\, and intervene around white supremacy and its consequence are critical. This 90-minute workshop is a special introduction to a 4-part workshop series that will  provide space for honest discussion\, provide resources to embed into your daily work\, and support participants in feeling confident about addressing white supremacy and racism.
+CATEGORIES:WORKSHOP
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:37235d7ffc8910df04b274b293a34cdf
+URL:http://mcn2021virtual.sched.com/event/37235d7ffc8910df04b274b293a34cdf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211006T170000Z
+DTEND:20211006T183000Z
+SUMMARY:An Introduction to Evaluation Planning & Strategies for Digital Programs: A DIY Workshop for Busy Museum Practitioners (Workshop 4)
+DESCRIPTION:Workshops require advance registration on Eventbrite. Each workshop is $75.\n\nThis workshop will share practitioner-friendly evaluation strategies so attendees feel more confident evaluating their digital programs. In a “hands-on\, minds-on” approach\, this workshop will examine questions such as: How can we frame useful questions? How do we reach audiences? What are the ethical guidelines when conducting evaluations in online spaces? It’s an opportunity to build skills in evaluative-thinking as practitioners look to measure\, improve\, and refine their digital programs.
+CATEGORIES:WORKSHOP
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:8f9770bf480ef8a47e6530e4f263a9f1
+URL:http://mcn2021virtual.sched.com/event/8f9770bf480ef8a47e6530e4f263a9f1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211006T190000Z
+DTEND:20211006T203000Z
+SUMMARY:Building Your Museum’s User Experience Capacity (Workshop 2)
+DESCRIPTION:Workshops require advance registration on Eventbrite. Each workshop is $75.\n\nIn this session\, we will introduce User Experience Capacity-Building (UXCB: https://prattdx.org/research/uxcb/) as a flexible way for museum professionals to develop an effective UX practice in their institution. Covering the fundamentals of the UXCB process as well as examples\, templates\, and case studies\, attendees will come away with the knowledge and tools to create a UXCB strategy that launches or accelerates their museum’s transformation to a more visitor-centered\, digital-focused culture.
+CATEGORIES:WORKSHOP
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:e27f8c3d6580012152951c68dc516be4
+URL:http://mcn2021virtual.sched.com/event/e27f8c3d6580012152951c68dc516be4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211006T190000Z
+DTEND:20211006T203000Z
+SUMMARY:Don't Be Creepy: Digital Listening & Audience Progress (Workshop 5)
+DESCRIPTION:Workshops require advance registration on Eventbrite. Each workshop is $75.\n\nIn this session\, I’ll invite participants to reflect on the ways that they’re listening to their audiences today. We’ll map our organizations’ listening practices to several frameworks to identify opportunities for improvement. We’ll ask why we’re listening and examine the degree to which our methods match our goals. We’ll examine how listening in a variety of contexts and at depth can help us improve our communications and connect with the communities we aspire to support.
+CATEGORIES:WORKSHOP
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:65468f152fc5696aa0a936c76ef8a697
+URL:http://mcn2021virtual.sched.com/event/65468f152fc5696aa0a936c76ef8a697
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T000000Z
+DTEND:20211007T001500Z
+SUMMARY:Welcome to Asia and Pacific region
+DESCRIPTION:Kick off the Asia/Pacific track with your track co-leads.
+CATEGORIES:ASIA/PACIFIC
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:d79a6076ff9edf31596167b19b6aa29a
+URL:http://mcn2021virtual.sched.com/event/d79a6076ff9edf31596167b19b6aa29a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T001500Z
+DTEND:20211007T010000Z
+SUMMARY:digitalpasifik.org – Reflections on designing and delivering a website that aims to serve as a bridge between worlds
+DESCRIPTION:The aim of the Pacific Virtual Museum pilot is to make visible and accessible the digitised cultural heritage of the people in and of the Pacific. The pilot team have worked with a co-design group from across the Pacific\, and delivered a site that leverages and presents metadata only\, on a site designed to work usefully across the Pacific\, on low bandwidth networks and mobile devices.\n\nWe have sought to enable Pacific people to access the content and taonga held by GLAM sector\, as well as honour the work of that same GLAM sector.\n\nOur talk will reflect on some challenges and opportunities of the pilot and what these might mean for museums and other cultural heritage institutions in the Pacific\, as well as those seeking to access Pacific cultural heritage.\n\nhttps://youtu.be/vv5fSguATqQ
+CATEGORIES:ASIA/PACIFIC
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:d4bf7016b8e9f39427c9f855411eeed7
+URL:http://mcn2021virtual.sched.com/event/d4bf7016b8e9f39427c9f855411eeed7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T001500Z
+DTEND:20211007T010000Z
+SUMMARY:Exploring Digital Horizons With Asia’s Cultural Institutions
+DESCRIPTION:How has Asia’s cultural landscape emerged from the past year’s challenges with new resilience and digital approaches? Join Eric Longo\, Executive Director of MCN\, and Fei Lu\, Staff Writer at Jing Culture & Commerce\, in a conversation with Asian cultural organizations\, including China’s Museum 2050\, Tokyo’s teamLab\, and the National Gallery Singapore\, on what digital means to them now. Learn about the region’s digital innovation and vitally\, how they’re planning for a digital future.\n\nPanelists:\nTakashi Kudo\, Communications Director\, teamLabChris Lee\, Assistant Chief Executive\, National Gallery SingaporeLeigh Tanner\, Co-Founder\, Museum 2050\nModerators:\nEric Longo\, Executive Director\, MCNFei Lu\, Staff Writer\, Jing Culture & Commerce
+CATEGORIES:ASIA/PACIFIC
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:bceaa447fcaf30026a85c77df97b107a
+URL:http://mcn2021virtual.sched.com/event/bceaa447fcaf30026a85c77df97b107a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T011500Z
+DTEND:20211007T020000Z
+SUMMARY:Expanding Digital Cultural Leadership
+DESCRIPTION:Dr. Lizzie Muller and Dr. Keir Winesmith will explore a range of digital and cultural leadership perspectives from Australia and beyond. Covering pre/during/post-covid approaches to digital leadership\, a newly established CEO mentoring program and the bi-monthly Data Salon for cultural workers interested or involved in the use of cultural data\, this session will cover a range of practices and possibilities.
+CATEGORIES:ASIA/PACIFIC
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:1d60b01972581b84c5774d878a053775
+URL:http://mcn2021virtual.sched.com/event/1d60b01972581b84c5774d878a053775
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T021500Z
+DTEND:20211007T030000Z
+SUMMARY:What did we learn in Asia and Pacific region? (Recap)
+DESCRIPTION:Review and discuss the key ideas that came out of the day with co-leads and presenters. 
+CATEGORIES:ASIA/PACIFIC
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:96339202824d674ac79c74686ab0e22b
+URL:http://mcn2021virtual.sched.com/event/96339202824d674ac79c74686ab0e22b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T160000Z
+DTEND:20211007T170000Z
+SUMMARY:DEAI in MCN Roundtable
+DESCRIPTION:Do you feel MCN is a supportive environment\, and you can openly express my ideas\, opinions and beliefs? Does the content of the conference demonstrate awareness of and openness to DEAI?\n\nJoin this discussion hosted by DEAI Advisory Board members to help us shape our journey.
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:430dc147f4118dbee13eedf3a57dab00
+URL:http://mcn2021virtual.sched.com/event/430dc147f4118dbee13eedf3a57dab00
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T160000Z
+DTEND:20211007T164500Z
+SUMMARY:SIG Roundtable: Human-Centered Design
+DESCRIPTION:A discussion on the different approaches and methodologies that help institutions understand their audiences\, better serve their needs\, and expand their offerings to engage a wider and more diverse spectrum of people.
+CATEGORIES:SIG ROUNDTABLE
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:6c2e6b29e1f22e793aeee810210b9151
+URL:http://mcn2021virtual.sched.com/event/6c2e6b29e1f22e793aeee810210b9151
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T160000Z
+DTEND:20211007T164500Z
+SUMMARY:New monetization strategies for digital collections
+DESCRIPTION:Our mission at Livdeo is to provide cultural institutions with technical solutions that support inclusive layers of mediation for all audiences.  How are we connecting with audiences when the physical doors are closed or with audiences from the other side of the world that will never reach the museums' doors?  Collections are the museums' tangible value assets. But they lack multiple descriptions\, narrative lenses\, or multilingual information. Museums need to give collections « superpowers » to let all audiences engage with artworks from any perspective\, anywhere\, and not only those on display.  The exhibitions beyond museums physical walls represent new opportunities. Any wall may become a revenue-generating art asset through augmented reality.  FeelTheArt let all audiences\, regardless of the place and language\, experience art trough augmented reality in complete new ways and create new sustainable revenue streams for cultural institution. \n\nSponsored by LIVDEO.
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 3\, Virtual
+SEQUENCE:0
+UID:927b9bc82384ce74c894872a195c0022
+URL:http://mcn2021virtual.sched.com/event/927b9bc82384ce74c894872a195c0022
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T170000Z
+DTEND:20211007T171500Z
+SUMMARY:Welcome to Leadership & Strategy
+DESCRIPTION:Kick off the Leadership & Strategy track with your track co-leads.
+CATEGORIES:LEADERSHIP & STRATEGY
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:dbfb1b331cadbe31701173db929eb243
+URL:http://mcn2021virtual.sched.com/event/dbfb1b331cadbe31701173db929eb243
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T171500Z
+DTEND:20211007T180000Z
+SUMMARY:Bridging 'soft' skills with digital skills
+DESCRIPTION:In this campfire session\, Dr Lauren Vargas will introduce regenerative practices and the awareness of how emotional skills strengthen digital skills to help any size museum develop leaderful guides and guidance. In discussion with campfire session participants\, the group will explore what emotional skills are needed to support key digital capabilities\, and then discuss how these skills might be developed in their own organizations.
+CATEGORIES:LEADERSHIP & STRATEGY
+LOCATION:Channel 3\, Virtual
+SEQUENCE:0
+UID:0928e261c2404adad5c8e315326943e2
+URL:http://mcn2021virtual.sched.com/event/0928e261c2404adad5c8e315326943e2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T171500Z
+DTEND:20211007T180000Z
+SUMMARY:Virtual exhibition strategy: Leveraging digital to highlight new voices and expanded content
+DESCRIPTION:How can we include new voices in interpretation? This session will address this question with thoughts on the strategy behind the Spencer Museum’s new approach to online exhibition content. Using a flexible web template to create virtual exhibitions that are not exact replicas of in-gallery offerings has allowed for sharing content beyond what is created by curators and educators. This new strategy also facilitates virtual-only exhibitions developed collaboratively with external partners.
+CATEGORIES:LEADERSHIP & STRATEGY
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:a6cc2cbda07b04bc576554c6131a8e28
+URL:http://mcn2021virtual.sched.com/event/a6cc2cbda07b04bc576554c6131a8e28
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T171500Z
+DTEND:20211007T180000Z
+SUMMARY:Why and How We Digital
+DESCRIPTION:This session offers a framework for developing digital strategies through a lens of experiential design. While we often think of a series of objectives\, outcomes\, and content as the primary drivers of development\, that's an internally driven point of view. Let's view it from the other direction and more fundamentally think about when\, how\, and why we create digital experiences and what it takes to get to those destinations.
+CATEGORIES:LEADERSHIP & STRATEGY
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:a8c84939584ac634fb24651402704329
+URL:http://mcn2021virtual.sched.com/event/a8c84939584ac634fb24651402704329
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T181500Z
+DTEND:20211007T190000Z
+SUMMARY:Audio Audacity: Bold Steps in Accessibility\, Audience Impact & Strategy for Audio Content
+DESCRIPTION:This past year\, audio was the breakout star of the digital world through channels such as podcasts\, Clubhouse\, and audio-guides. The panel addresses: 1. How to select which type of audio-based content to create; 2. How each platform re-conceptualizes audiences as listeners\, enables live participant contribution\, & encourages co-creation\, and; 3. How to ensure engagement with people who are Deaf and/or hard of hearing.
+CATEGORIES:LEADERSHIP & STRATEGY
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:9a3a23435cc9e7e171e58d986497b9f6
+URL:http://mcn2021virtual.sched.com/event/9a3a23435cc9e7e171e58d986497b9f6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T181500Z
+DTEND:20211007T190000Z
+SUMMARY:Imagining the Future of Online Art Collections
+DESCRIPTION:What should be our path forward to create impactful online collections? In this session\, participants will join together to imagine how museums' significant investments surrounding online art collections might be extended and repurposed to advance access to the works of BIPOC creators\, unlock the creative archives of under-represented artists\, and represent the knowledge of our communities among the scholarly art-historical content typically collected by museums.
+CATEGORIES:LEADERSHIP & STRATEGY
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:8ba2ad157a110452641edede93b11f94
+URL:http://mcn2021virtual.sched.com/event/8ba2ad157a110452641edede93b11f94
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T181500Z
+DTEND:20211007T190000Z
+SUMMARY:Streaming the Museum: Can Museums Compete with Big Streaming?
+DESCRIPTION:Recent video-streaming projects from the Hammer Museum\, the Louisiana Museum of Modern Art\, and Art21 borrow design and process from streaming services like Netflix. While the cultural sector has always competed with Big Entertainment for the attention of audiences\, the competition was more direct during the pandemic\, leaving the screen as a main stage for culture and entertainment. What have cultural organizations learned from commercial streaming platforms? Is it possible to play in the same pool and compete with those platforms?
+CATEGORIES:LEADERSHIP & STRATEGY
+LOCATION:Channel 3\, Virtual
+SEQUENCE:0
+UID:bd793dbd0cec47e69a3951ea32cecdd9
+URL:http://mcn2021virtual.sched.com/event/bd793dbd0cec47e69a3951ea32cecdd9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T191500Z
+DTEND:20211007T200000Z
+SUMMARY:Leadership & Strategy Recap
+DESCRIPTION:Review and discuss the key ideas that came out of the day with co-leads and presenters. More about how this session will be structured soon.
+CATEGORIES:LEADERSHIP & STRATEGY
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:258e197d4181d196d7332c9841db306b
+URL:http://mcn2021virtual.sched.com/event/258e197d4181d196d7332c9841db306b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T200000Z
+DTEND:20211007T210000Z
+SUMMARY:Funders’ Office Hours: Getty Foundation
+DESCRIPTION:Make an appointment with a program officer to discuss possibilities for funding your digital project. Representatives from several foundations are available to consult during the conference.\n\nGetty Foundation\n\nSchedule a conversation with Associate Director Anne Helmreich via Calendly.\n\nBrief description of the foundation and the digital projects they fund:\n\nThe Getty Foundation fulfills the philanthropic mission of the Getty Trust by supporting individuals and institutions committed to advancing the greater understanding and preservation of the visual arts in Los Angeles and throughout the world. Since 2013\, the Getty Foundation’s Digital Art History initiative has supported both introductory and advanced training in the technical and conceptual aspects of digital practice for art historians\, academics\, and museum professionals. In addition\, we have provided direct support for a small number of DAH projects since 2018\, with a focus on spatial analysis (historical GIS\, digital mapping\, and 3D modeling of built cultural heritage) and image analysis (machine vision\, pattern recognition\, and visual search). Prior to launching the DAH initiative\, the Foundation organized the Online Scholarly Cataloguing Initiative (OSCI)\, which from 2009 to 2015 supported nine museums piloting the transition of the scholarly museum collection catalogue to online platforms. The Foundation is not currently accepting new proposals in the Digital Art History initiative\, as we are in the early stages of a strategic analysis of the initiative’s goals. We invite conversations with colleagues that can help us assess the state of the field\, particularly in light of the digital turn experienced across the museum sector as a result of the COVID-19 pandemic\, so that we can understand better the current needs and future directions. We plan to relaunch the DAH initiative in spring 2022.
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Virtual
+SEQUENCE:0
+UID:67c02cdbd482fe646383e173541fdbbe
+URL:http://mcn2021virtual.sched.com/event/67c02cdbd482fe646383e173541fdbbe
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T200000Z
+DTEND:20211007T210000Z
+SUMMARY:Funders’ Office Hours: Knight Foundation
+DESCRIPTION:Make an appointment with a program officer to discuss possibilities for funding your digital project. Representatives from several foundations are available to consult during the conference.\n\nKnight Foundation\n\nSchedule a conversation with Koven J. Smith\, Senior Director/Arts\, via Calendly.\n\nThe Knight Foundation believes that great art attaches people to place and to each other. Investing in arts and culture is central to Knight’s effort to build stronger\, better informed and more engaged communities\, the foundation of a healthy democracy. \n\nWe fund artists and arts organizations that create\, present and provide access to artistic excellence and inspire engagement. We invest across genres and increase the impact of our work by focusing funding in the eight communities (Miami\, Macon\, Charlotte\, Philadelphia\, Akron\, Detroit\, St. Paul\, and San Jose) where Knight has offices.\n\nOur investments focus on:\nAuthenticity and Inclusion: We fund to accelerate trends and activity naturally occurring in each community and support artists and organizations that reflect the diversity of the communities where we work. \nDevelopment of Talent and Organizations: We seek to increase the capacity of artists and the sustainability of arts organizations.\nTransformation: We invest in the use of technology to create new ways to explore and make art\, to express culture\, and to reach\, expand and engage diverse audiences.\n\n\n\n\n
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Virtual
+SEQUENCE:0
+UID:43f19d4b9c93bb3ac44e14d747c8fd61
+URL:http://mcn2021virtual.sched.com/event/43f19d4b9c93bb3ac44e14d747c8fd61
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T200000Z
+DTEND:20211007T210000Z
+SUMMARY:Funders’ Office Hours: Kress Foundation
+DESCRIPTION:Make an appointment with a program officer to discuss possibilities for funding your digital project. Representatives from several foundations are available to consult during the conference.\n\nKress Foundation\n\nSchedule a conversation with Deputy Director Lisa W. Schermerhorn via Calendly.\n\nBrief Description of the Foundation:\nThe Kress Foundation devotes its resources to advancing the study\, conservation and enjoyment of European art\, architecture and archaeology from antiquity to the pre-modern era. Kress offers a range of grants and fellowships in defined program areas for historians of art and architecture\, art conservators\, and art museum professionals.\n\nDigital Projects Funded:\nThe Digital Art History Grants program is intended to foster new forms of research and collaboration as well as new approaches to teaching and learning. Support may also be offered for innovative experiments in the field of digital art history; for promising initiatives in online publishing; for the digitization of important visual resources (especially essential art history photographic archives) in the area of pre-modern European art history; and of primary textual sources (especially the literary and documentary sources of European art history).\n\n
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Virtual
+SEQUENCE:0
+UID:2bf2d2274a13e8de05198632840d8573
+URL:http://mcn2021virtual.sched.com/event/2bf2d2274a13e8de05198632840d8573
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T200000Z
+DTEND:20211007T210000Z
+SUMMARY:Funders’ Office Hours: Thoma Foundation
+DESCRIPTION:Make an appointment with a program officer to discuss possibilities for funding your digital project. Representatives from several foundations are available to consult during the conference.\n\nThoma Foundation\n\nSchedule a conversation with Sarah Rovang\, Program Officer\, via Calendly.\n\nThe Carl & Marilynn Thoma Foundation recognizes the power of the arts to challenge and shift perceptions\, spark creativity\, and connect people across cultures. We lend and exhibit artworks from our collection and support innovative individuals and pivotal initiatives in the arts.\nThe Foundation runs several programs that support digital projects:\nThe Digital Changemaker Grant empowers small- and medium-size arts and cultural organizations to advance their digital strategies by funding innovative projects that reimagine the role and use of technology to engage audiences\, promote digital innovation\, and create community. The Thoma Foundation’s quarterly Grants for Nonprofits are available for diverse digital projects\, including online convening\, virtual exhibitions\, and more.Accredited museums are invited to borrow (for free!) from Thoma’s extensive collection of Digital & Media Art.\n\n\n\n\n
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Virtual
+SEQUENCE:0
+UID:381c5524c9337c05240248a91775a8f4
+URL:http://mcn2021virtual.sched.com/event/381c5524c9337c05240248a91775a8f4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211007T200000Z
+DTEND:20211007T210000Z
+SUMMARY:Speed Networking 1 sponsored by Collector Systems
+DESCRIPTION:Join facilitators Don Youngberg and Eric Longo to meet other MCN attendees with some speed networking!\nEach session consists of a series of breakout rooms with several participants.Tell us where you're from\, what you're curious about\, and more—just be quick!Advance sign-up required.\nBrought to you by Collector Systems.
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:52590beb14123fc8a514956218ca13a7
+URL:http://mcn2021virtual.sched.com/event/52590beb14123fc8a514956218ca13a7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211012T130000Z
+DTEND:20211012T140000Z
+SUMMARY:Maximise visitor numbers without impacting visitor experience
+DESCRIPTION:Join us to get a full understanding of how we are working with museums to help them increase visitor numbers and ticket sales without impacting visitor experience. Learn how our system works and see a full demo of anonymised data on our Dashboard.\n\nThis session is sponsored by Hoxton AI.
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:5f9a4065a497301acc680b08406fd6b0
+URL:http://mcn2021virtual.sched.com/event/5f9a4065a497301acc680b08406fd6b0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211012T140000Z
+DTEND:20211012T150000Z
+SUMMARY:Timing\, Budget\, and Solution Considerations When Updating Your Website
+DESCRIPTION:It can be challenging to identify the right time for a new website\, and the options can feel overwhelming.\n\nJoin Adage as we work to understand the various scalable options for your website. It is important to choose the right solution for your organization today--and for years to come. The session will cover budget stewardship and ensuring your technology and user experience remain optimized.\n\nLearning Objectives:\n- Identify when it is time to build a new website\n- Understand the various options\n- Create a path forward with a rightsized solution\n- Budget time\, money\, and resources for the initial project and ongoing support\n\nBrought to you by Adage who will have office hours following the session.
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:3cf159744d2339de8535d650a2e1e5ee
+URL:http://mcn2021virtual.sched.com/event/3cf159744d2339de8535d650a2e1e5ee
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211012T160000Z
+DTEND:20211012T164500Z
+SUMMARY:SIG Roundtable: Imaging + IP + DAM
+DESCRIPTION:Addressing the challenges of complex assets\, including video\, RTI\, photogrammetry\, and other layered scientific/computational imaging products.
+CATEGORIES:SIG ROUNDTABLE
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:d13b03578e8024edfa4fcc046dea280d
+URL:http://mcn2021virtual.sched.com/event/d13b03578e8024edfa4fcc046dea280d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211012T160000Z
+DTEND:20211012T164500Z
+SUMMARY:Help us Help you: How can L2 build tools that better serve the museum space?
+DESCRIPTION:In the spring of 2020 L2 launched Donate2 as a way to help our clients have an easier way to fundraise during the pandemic. From there we added Flex2 forms\, allowing for membership and events\, and Stream2 forms\, which opened the door for monetizing streaming content through our partnership with Brightcove. What started out as quick donations to help development teams evolved into cart-free transactions that are utilized organization wide. Our ability to rapidly turn feedback into features allows our clients the ability to offer their patrons seamless solutions.\n\nEvery step of the way has been guided by conversations with members of the community. We have spent the better part of the past 20 years partnering with Arts and Cultural and we've seen that our clients work more efficiently if they have the right data in the right place at the right time - not all the data in all the places. We achieve this by helping to connect the dots across siloed systems. We integrate with tools you love and use instead of reinventing the wheel so you can build the stack that meets your unique needs.\n\nDuring this session we will start off with an intro into L2\, what we currently offer\, and a few examples of how museums are using our tools today and then we want to hear from you. We'll ask questions like...\n\n-How could technology help you grow your member and donor base?\n-What are the pain points with your current donation/membership/digital streaming platform?\n-How can we partner to help you and other museums continue to grow?\n\nL2 Interactive is sponsoring this session.
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:e58e52da47e722f40dcc4f0759878d06
+URL:http://mcn2021virtual.sched.com/event/e58e52da47e722f40dcc4f0759878d06
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211012T170000Z
+DTEND:20211012T171500Z
+SUMMARY:Welcome to Business Models\, Financial Sustainability & Capacity Building
+DESCRIPTION:Kick off the Business Models\, Financial Sustainability & Capacity Building track with your track co-leads.
+CATEGORIES:BUSINESS & SUSTAINABILITY & CAPACITY BUILDING
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:1a0d92181e6427e315b0fc2f204356f6
+URL:http://mcn2021virtual.sched.com/event/1a0d92181e6427e315b0fc2f204356f6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211012T171500Z
+DTEND:20211012T180000Z
+SUMMARY:A Tale of Two Journals: Collaboration and Sustainability in Digital Publishing
+DESCRIPTION:What drives museums to engage in sustainable digital publishing? How can these initiatives align with website strategies that allow for integrated and nimble re-use of content? In this presentation\, cross-departmental teams from each institution will discuss how two digital journals—the AIC’s Art Institute Review and the Met’s Perspectives—have provided the museums with flexible tools\, sustainable publishing solutions\, and strategies for fulfilling their missions as research-driven institutions.
+CATEGORIES:BUSINESS & SUSTAINABILITY & CAPACITY BUILDING
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:0d14030644b409dede91f3f2ab66c803
+URL:http://mcn2021virtual.sched.com/event/0d14030644b409dede91f3f2ab66c803
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211012T171500Z
+DTEND:20211012T180000Z
+SUMMARY:All Hands On Deck: Recognizing Rapid Digital Growth During COVID-19 and Planning for Future Sustainability
+DESCRIPTION:COVID-19 made digital projects–for our museum\, mainly Collections Online–a priority\, because it was the only way we could share our collection\, and our staff could collaboratively work on them during stay-at-home orders. As we look post-pandemic\, we recognize that few of our staff have digital work as a named job responsibility. We must examine how to continue advancing digital projects and urge broader recognition of the role of every staff member in digital project success post-pandemic.
+CATEGORIES:BUSINESS & SUSTAINABILITY & CAPACITY BUILDING
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:02684d8f2ed6fbaa2b6fe81dfbde99f8
+URL:http://mcn2021virtual.sched.com/event/02684d8f2ed6fbaa2b6fe81dfbde99f8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211012T171500Z
+DTEND:20211012T180000Z
+SUMMARY:If You Give a Museum an iPad: Capacity Building on 98 Timelines
+DESCRIPTION:In Fall 2020 MANY received IMLS CARES funding for the "Building Capacity\, Creating Sustainability\, Growing Accessibility" Project. 98 museums across New York were selected to participate in this two-year project. Receiving hardware\, software\, and training\, 200+ museum professionals work to share their collections and reach audiences who cannot physically visit their museums. One year on\, this presentation highlights the success\, challenges and lessons learned of capacity building at scale.
+CATEGORIES:BUSINESS & SUSTAINABILITY & CAPACITY BUILDING
+LOCATION:Channel 3\, Virtual
+SEQUENCE:0
+UID:a6bfbd03b024505f5f9c247444ed1f11
+URL:http://mcn2021virtual.sched.com/event/a6bfbd03b024505f5f9c247444ed1f11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211012T181500Z
+DTEND:20211012T190000Z
+SUMMARY:Education Programming During Covid-19 Lockdown: Is Digital Sustainable?
+DESCRIPTION:Digital transformation trends during museum closures are presented in results from nationwide surveys. The successes and challenges of going virtual (particularly for small and mid-sized institutions) are highlighted. Attitudes towards future digital programming were also assessed. This session offers participants the opportunity to understand their institution’s experience in light of larger trends and brainstorm ways of successfully incorporating digital education going forward.
+CATEGORIES:BUSINESS & SUSTAINABILITY & CAPACITY BUILDING
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:40c4285484ead36dd9c23e3b28534f85
+URL:http://mcn2021virtual.sched.com/event/40c4285484ead36dd9c23e3b28534f85
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211012T181500Z
+DTEND:20211012T190000Z
+SUMMARY:The Effectiveness and Durability of Digital Preservation and Curation Systems
+DESCRIPTION:As a variety of digital preservation systems have emerged to address the changing needs of cultural heritage organizations\, Ithaka S+R has undertaken an IMLS funded research project to assess the effectiveness and durability of different approaches to cloud and local preservation. We compare community based systems and commercial systems\, interviewing representatives of system providers as well as their users.
+CATEGORIES:BUSINESS & SUSTAINABILITY & CAPACITY BUILDING
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:b10c359b8dbcacc2f0db5e3aa9f6135a
+URL:http://mcn2021virtual.sched.com/event/b10c359b8dbcacc2f0db5e3aa9f6135a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211012T191500Z
+DTEND:20211012T200000Z
+SUMMARY:Business Models\, Financial Sustainability & Capacity Building Recap
+DESCRIPTION:Review and discuss the key ideas that came out of the day with co-leads and presenters. More about how this session will be structured soon.
+CATEGORIES:BUSINESS & SUSTAINABILITY & CAPACITY BUILDING
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:16ea6425039de06e04f238bf10a4a06f
+URL:http://mcn2021virtual.sched.com/event/16ea6425039de06e04f238bf10a4a06f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211012T200000Z
+DTEND:20211012T210000Z
+SUMMARY:Speed Networking 2 sponsored by Adage
+DESCRIPTION:Join facilitators Don Youngberg and Eric Longo to meet other MCN attendees with some speed networking!\nEach session consists of a series of breakout rooms with several participants.Tell us where you're from\, what you're curious about\, and more—just be quick!Every session lasts only 30 minutes and accommodates up to 80 participants.Advance sign-up required.\nBrought to you by Adage.
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:1a6d370ceffe30b5b6772ca3e7e9f8f0
+URL:http://mcn2021virtual.sched.com/event/1a6d370ceffe30b5b6772ca3e7e9f8f0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211013T140000Z
+DTEND:20211013T144500Z
+SUMMARY:Book Club: One by One
+DESCRIPTION:In our complex\, fast-changing knowledge economy\, the ability to manage one’s thoughts and feelings is essential to business success. The ability to manage emotions in a mindful\, values-driven\, and productive way is known as emotional agility. You are invited to join the ‘One by One’ research team in an exclusive book club discussion about how this skill is necessary for digital content development\, conversation\, and community. Together\, we will consider key concepts from the book\, Emotional Agility: Get Unstuck\, Embrace Change\, and Thrive\, by renowned psychologist Susan David. There is no need to read the entire book. We will be discussing Chapters 1 (Rigidity to Agility) and 9 (Emotional Agility at Work).\n\nWhen you confirm your registration for the 45-minute book club discussion in your time zone\, you will receive a free copy of the book (via post or email). Participation is limited to a total of 20 people.\n\nAbout ‘One by One’\n‘One by One’ is a multi-partner international initiative led by the University of Leicester School of Museum Studies and Southern University of New Orleans\, bringing together cultural organisations\, policy makers\, academics\, professional bodies\, support agencies\, and communities of practice\, to build digitally confident museums. ‘One by One’ helps museums of any size better define\, improve\, measure and embed the digital literacy of their staff and volunteers in all roles and at all levels. \n\n
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:445a9f676148952630baa7bfef5ec004
+URL:http://mcn2021virtual.sched.com/event/445a9f676148952630baa7bfef5ec004
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211013T140000Z
+DTEND:20211013T150000Z
+SUMMARY:AMA: Translation for Cultural Institutions
+DESCRIPTION:Since its founding in 1986\, Eriksen has been the premier language service provider for arts and culture\, assisting institutions of all types (art\, history\, science\, gardens\, zoos)\, with all services (Zoom interpreting\, captioning\, typesetting)\, and in more than 100 languages (Latin American Spanish\, Simplified Chinese\, Western Armenian). Ask me anything.\n\nEriksen Translations is sponsoring this session.
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 3\, Virtual
+SEQUENCE:0
+UID:7d7d415e3c8f130190a2689d852b4ae2
+URL:http://mcn2021virtual.sched.com/event/7d7d415e3c8f130190a2689d852b4ae2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211013T143000Z
+DTEND:20211013T150000Z
+SUMMARY:Decades of DAM: Get to Know Capture
+DESCRIPTION:What’s it like to have been in the digital asset industry for over 20 years? What are the learnings from decades of experience?\n\nIn this presentation\, digital asset management (DAM) and media library vendor Capture Ltd\, reflects on the evolution of the platform and services that they offer. This will include a short demonstration of the technology that’s currently used by many cultural and heritage organisations across the globe. There will also be time for Q&A.\n\nCapture is sponsoring this session.
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:7408acd6c1692280a8f35434663b4d06
+URL:http://mcn2021virtual.sched.com/event/7408acd6c1692280a8f35434663b4d06
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211013T150000Z
+DTEND:20211013T151500Z
+SUMMARY:Welcome to the Middle East and Africa
+DESCRIPTION:Kick off the Middle East and Africa track with your track co-leads.
+CATEGORIES:MIDDLE EAST/AFRICA
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:30f61e28badd443407531ca1d3f7edc2
+URL:http://mcn2021virtual.sched.com/event/30f61e28badd443407531ca1d3f7edc2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211013T150000Z
+DTEND:20211013T154500Z
+SUMMARY:Mercury Editor: Effortless\, drag-and-drop publishing for Drupal
+DESCRIPTION:Webinar Sign up\n\nIntroducing Mercury Editor: Effortless drag-and-drop publishing for Drupal\, brought to you by Aten Design Group.\n\nMercury Editor brings flexible\, highly visual\, easy-to-use content editing to Drupal. It works with existing Drupal websites\, without any licensing fees or restrictions.\n\nIn this webinar\, we’ll walk through the components of a new\, easy-to-use\, drag-and-drop authoring experience based on Layout Paragraphs\, that empowers teams to publish rich\, beautiful content in Drupal\, quickly. This session is for everyone in the Drupal community\, from developers to designers to UX specialists. It is especially for marketing\, communications and content management teams to build\, edit\, and publish beautiful content in their Drupal websites with ease.\n\nAten Design Group is sponsoring this session.
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:03904f31130dfeedcd56c10c8392e47e
+URL:http://mcn2021virtual.sched.com/event/03904f31130dfeedcd56c10c8392e47e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211013T151500Z
+DTEND:20211013T160000Z
+SUMMARY:A conversation with colleagues from the Nigerian National Commission for Museums & Monuments
+DESCRIPTION:This conversation will explore "What is Digital Now?" in museums from the perspective four panelists affiliated with National Commission for Museums & Monuments.  
+CATEGORIES:MIDDLE EAST/AFRICA
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:eab3e6c5dafd0ef0611a83538c02feba
+URL:http://mcn2021virtual.sched.com/event/eab3e6c5dafd0ef0611a83538c02feba
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211013T151500Z
+DTEND:20211013T160000Z
+SUMMARY:Cultural Preservation in Conflict Zones: Lessons from the Middle East and North Africa
+DESCRIPTION:The last decade has proven human’s capacity for cultural heritage destruction. Peter Herdrich\, Co-founder of the Antiquities Coalition in the United States\, and Abdelhamid Salah\, the Chairman of the Egyptian Heritage Rescue Foundation in Cairo\, work on the ground with partners in the Middle East and North Africa to preserve and protect museum\, library\, and archival collections. During this session. they’ll discuss their work with the National Museum of Yemen\, religious minority communities in Northern Iraq\, and museum collections across North Africa. They’ll also provide a step-by-step guide to prioritizing work in the most challenging conflict environments.
+CATEGORIES:MIDDLE EAST/AFRICA
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:4b26b1b575355de0e2f84707f5ada7fa
+URL:http://mcn2021virtual.sched.com/event/4b26b1b575355de0e2f84707f5ada7fa
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211013T151500Z
+DTEND:20211013T160000Z
+SUMMARY:New horizons: reflecting on the digital cultural landscape of the Arabian Peninsula
+DESCRIPTION:The Arabian Peninsula is witnessing a period of unprecedented growth in its museums and cultural organisations. In the context of ambitious visions for the future\, switched-on audiences and a wealth of intangible heritage\, what is the role of digital now? Join our panel of museum practitioners – Christophe Buffet\, Ghaida Sawalha and Rachel Teskey – as they survey recent major cultural projects in the region and discuss how digital is opening up new horizons for visitor experiences and storytelling.
+CATEGORIES:MIDDLE EAST/AFRICA
+LOCATION:Channel 3\, Virtual
+SEQUENCE:0
+UID:02aad6af797592913b17857d3c3a8609
+URL:http://mcn2021virtual.sched.com/event/02aad6af797592913b17857d3c3a8609
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211013T161500Z
+DTEND:20211013T170000Z
+SUMMARY:A conversation about digital engagement in Africa
+DESCRIPTION:
+CATEGORIES:MIDDLE EAST/AFRICA
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:2c83d896a2aa79d74e9e3eb740b0212f
+URL:http://mcn2021virtual.sched.com/event/2c83d896a2aa79d74e9e3eb740b0212f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211013T161500Z
+DTEND:20211013T170000Z
+SUMMARY:Building a locally global digital program in Qatar
+DESCRIPTION:What does it take to build a digital program that is both local in its focus and global in its reach?\n\nQatar Museums (QM) oversee several museums and sites that feature local and regional art and artists and encapsulate Qatar's rich cultural heritage. In 2020\, a new Digital Experience team was established and tasked with developing a digital strategy and program that put local and regional audiences at its core\, while bringing Qatar’s unique perspective to an international audience.\n\nThis conversation covers the strategy and goals of the team\, as well as the implications of building new capabilities and expanded skillsets within the organization — all during a global pandemic.
+CATEGORIES:MIDDLE EAST/AFRICA
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:16efd75bbc3ca45cd0c043e4d1c22839
+URL:http://mcn2021virtual.sched.com/event/16efd75bbc3ca45cd0c043e4d1c22839
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211013T171500Z
+DTEND:20211013T180000Z
+SUMMARY:What did we learn in the Middle East and Africa? (Recap)
+DESCRIPTION:Review and discuss the key ideas that came out of the day with co-leads and presenters. More about how this session will be structured soon.
+CATEGORIES:MIDDLE EAST/AFRICA
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:1f5bc420f8ac1915e438cdb4c3dad162
+URL:http://mcn2021virtual.sched.com/event/1f5bc420f8ac1915e438cdb4c3dad162
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211013T180000Z
+DTEND:20211013T190000Z
+SUMMARY:Speed Networking 3 sponsored by Eriksen Translations
+DESCRIPTION:Join facilitators Don Youngberg and Eric Longo to meet other MCN attendees with some speed networking!\n\nEach session consists of a series of breakout rooms with several participants.Tell us where you're from\, what you're curious about\, and more—just be quick!Advance sign-up required.\nBrought to you by Eriksen Translations. 
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:abfff11325e0a14e9e2dd116399d0a62
+URL:http://mcn2021virtual.sched.com/event/abfff11325e0a14e9e2dd116399d0a62
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211013T190000Z
+DTEND:20211013T194500Z
+SUMMARY:AMA: Cultural Futures submissions
+DESCRIPTION:Case Studies for Cultural Futures is an initiative to collect insights from cultural organizations’ experiments with new technology—from launching custom websites and apps to building AR and VR experiences to implementing new project-management tools. We hope this resource will foster an open exchange of knowledge that can help the entire field learn from each other’s challenges and successes\, and grow into the future.\n\nChat with Shauna and Anna about the resource\, get support submitting your project to the Cultural Futures resource—or who you might nominate to submit to the resource—and answer any other questions you may have.
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:98a10441ccc9ccb1b91b5cd1f3f5bf50
+URL:http://mcn2021virtual.sched.com/event/98a10441ccc9ccb1b91b5cd1f3f5bf50
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211014T151500Z
+DTEND:20211014T160000Z
+SUMMARY:The Anti-Demo: Using real visitor data to evaluate the world of mobile guides.
+DESCRIPTION:Join Guru Experience Co. as they discuss real visitor data from before\, during\, and after lockdowns. This data will provide you a glimpse of what visitors are actually doing with mobile guides\, to help inspire and guide you through successful implementation within your own digital strategy. Are audiences ready for a full Bring-Your-Own-Device strategy? Are all BYOD solutions created equal? How do you know what type of BYOD solution might work best for both your audience needs and institutional goals? Audience members are welcome to participate in sharing their own data\, relating their own success stories\, and questioning how they might be able to improve their current mobile guides.\n\nGuru Experience is sponsoring this session.
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:95ffff692b027e9a6bedb7273be77a20
+URL:http://mcn2021virtual.sched.com/event/95ffff692b027e9a6bedb7273be77a20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211014T160000Z
+DTEND:20211014T164500Z
+SUMMARY:SIG Roundtable: Educational and Interpretive Media
+DESCRIPTION:How do we ensure the content and experiences we produce\, both onsite and online\, is as accessible as possible? What are the common roadblocks to truly accessible content and how can we use best practices and/or problem-solving strategies to get around them? And\, how do we know our efforts are working? We’ll open a dialogue around accessibility and evaluation in educational and interpretive experiences across the sector.
+CATEGORIES:SIG ROUNDTABLE
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:bb583d410200471efd0eb5e54a4718f9
+URL:http://mcn2021virtual.sched.com/event/bb583d410200471efd0eb5e54a4718f9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211014T160000Z
+DTEND:20211014T164500Z
+SUMMARY:SIG Roundtable: IT
+DESCRIPTION:Roundtable discussion on the issues IT departments are encountering and an opportunity to share with colleagues facing the same issues. How you are managing the increasing demands on IT as the move to digital has accelerated due to Covid.\n\nWe are also interested in getting your thoughts on how to stay more connected since moving to the MCN portal\, and formats for discussions on the following topics identified in our recent survey:\n\n-CRM\n-Cloud Hosting\n-IT Security/Breaches\n-Policies and Procedures\n-Infrastructure & Network Operations
+CATEGORIES:SIG ROUNDTABLE
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:d89d54a9b7ffdeb2dd17e2b48840c44f
+URL:http://mcn2021virtual.sched.com/event/d89d54a9b7ffdeb2dd17e2b48840c44f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211014T160000Z
+DTEND:20211014T164500Z
+SUMMARY:SIG Roundtable: Media Production & Branding
+DESCRIPTION:Discussion on the furute of the Media Production and Branding SIG. How can this SIG and community support your work? What topics and issues are most pressing right now\, and how can the SIG be a resource? I will also demonstrate the new SIG portion of the new member portal.\n\nPasscode to join: 2021
+CATEGORIES:SIG ROUNDTABLE
+LOCATION:Channel 3\, Virtual
+SEQUENCE:0
+UID:b4e60c8e159eddd788d2264ef3fdb99e
+URL:http://mcn2021virtual.sched.com/event/b4e60c8e159eddd788d2264ef3fdb99e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211014T170000Z
+DTEND:20211014T171500Z
+SUMMARY:Welcome to Interpretation\, Storytelling & Education
+DESCRIPTION:Kick off the Interpretation\, Storytelling & Education track with your track co-leads.
+CATEGORIES:INTERPRETATION & STORYTELLING & EDUCATION
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:d95c46447777d645318155276ec01b60
+URL:http://mcn2021virtual.sched.com/event/d95c46447777d645318155276ec01b60
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211014T171500Z
+DTEND:20211014T180000Z
+SUMMARY:All It Takes is Staff Time: A Lightning Round of Low-to-No Budget Projects
+DESCRIPTION:Massive budgets\, well-funded partners\, robust digital departments; these are some of the factors that typically make incredible digital projects successful\, but also make them out of reach for most museums to replicate or attempt. In this 45 minute session of lightning talks\, a dozen people from a variety of institutions will share scrappy\, low to no-budget\, department of one projects with the MCN community.
+CATEGORIES:INTERPRETATION & STORYTELLING & EDUCATION
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:1fca45600e92bb504f7ee9851fdd29aa
+URL:http://mcn2021virtual.sched.com/event/1fca45600e92bb504f7ee9851fdd29aa
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211014T171500Z
+DTEND:20211014T180000Z
+SUMMARY:Culture Bridge: Converting In-Gallery Experiences Into Online Teacher Resources
+DESCRIPTION:Using the BMA's eLearning platform Culture Bridge\, we will demonstrate how converting pre-existing in-gallery digital interactives into online teacher resources is a game-changer for not only museums with a small budget\, but also for educators trying to bridge the widening gap between the classroom and reduced tour offerings. The session will begin with an overview and then move to a Q&A guided by polls.
+CATEGORIES:INTERPRETATION & STORYTELLING & EDUCATION
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:359a30fbc58e2ac9746344f5714748a3
+URL:http://mcn2021virtual.sched.com/event/359a30fbc58e2ac9746344f5714748a3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211014T171500Z
+DTEND:20211014T180000Z
+SUMMARY:Hammer Channel: : An open source video platform
+DESCRIPTION:Hammer Channel is a living archive of public programming at the Hammer Museum. Using open source principles\, access to the Hammer Museum's exceptional public programming is now available for the world to enjoy online at https://channel.hammer.ucla.edu/. In this panel we'll give an intro the to project and describe how your museum can benefit from the work to date.
+CATEGORIES:INTERPRETATION & STORYTELLING & EDUCATION
+LOCATION:Channel 3\, Virtual
+SEQUENCE:0
+UID:3553d72dc558dbe7b5e2a022914b753d
+URL:http://mcn2021virtual.sched.com/event/3553d72dc558dbe7b5e2a022914b753d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211014T181500Z
+DTEND:20211014T190000Z
+SUMMARY:Digital Storytelling with Open Collections
+DESCRIPTION:In this session\, we discuss the growth of creator-led spaces\, and what it could mean for open collections. We showcase some of the stories told by participants of the first Digital Storytelling Festival hosted by Europeana and The Heritage Lab. We hope to invite our jury and participants to join us & reflect on creating a global storytelling festival.
+CATEGORIES:INTERPRETATION & STORYTELLING & EDUCATION
+LOCATION:Channel 3\, Virtual
+SEQUENCE:0
+UID:94f9283d0be29b497d23e882e158924a
+URL:http://mcn2021virtual.sched.com/event/94f9283d0be29b497d23e882e158924a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211014T181500Z
+DTEND:20211014T190000Z
+SUMMARY:Hybrid Museum Experiences: The good\, the bad\, and the lessons learned
+DESCRIPTION:Our focus is the rise of hybrid in-person-and-online museum experiences during the rapidly changing pandemic. Questions posed and discussed include: Is hybridity the bridge back to “normal”? Is there a place for hybrid in a post-pandemic world? Do these experiences serve equity\, inclusion\, and accessibility needs? How are resources managed? What role can co-creation play in hybrid environments? Participants will co-generate a lessons-learned document to share with the MCN community.
+CATEGORIES:INTERPRETATION & STORYTELLING & EDUCATION
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:efee07977dbe0a995ab6a2926b0ba285
+URL:http://mcn2021virtual.sched.com/event/efee07977dbe0a995ab6a2926b0ba285
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211014T181500Z
+DTEND:20211014T190000Z
+SUMMARY:Origins Immersive Theater: Bringing Tribal Origin Stories to Life
+DESCRIPTION:The First Americans Museum (FAM) collaborated with tribal communities to bring to life an authentic telling of tribal origin stories in an immersive theater environment\, designed by Batwin + Robin Productions\, that allows audiences to experience stories that take place in all realms. Engaging tribal members from concept to completion and every aspect of production allowed for authentic storytelling in which tribes were able to share their origin stories in their own unique and unexpected way.
+CATEGORIES:INTERPRETATION & STORYTELLING & EDUCATION
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:776a8581fac0b524a608a6130ea46f85
+URL:http://mcn2021virtual.sched.com/event/776a8581fac0b524a608a6130ea46f85
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211014T191500Z
+DTEND:20211014T200000Z
+SUMMARY:Interpretation\, Storytelling & Education Recap
+DESCRIPTION:Review and discuss the key ideas that came out of the day with co-leads and presenters. 
+CATEGORIES:INTERPRETATION & STORYTELLING & EDUCATION
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:dd5c6f09380aa23310d52ab7c108191b
+URL:http://mcn2021virtual.sched.com/event/dd5c6f09380aa23310d52ab7c108191b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211014T200000Z
+DTEND:20211014T210000Z
+SUMMARY:Speed Networking 4 sponsored by Nubart
+DESCRIPTION:Join facilitators Don Youngberg and Eric Longo to meet other MCN attendees with some speed networking!\nEach session consists of a series of breakout rooms with several participants.Tell us where you're from\, what you're curious about\, and more—just be quick!Advance sign-up required.\nBrought to you by Nubart.
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:509aeb7146dc20824a9788fabad0190e
+URL:http://mcn2021virtual.sched.com/event/509aeb7146dc20824a9788fabad0190e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211019T140000Z
+DTEND:20211019T144500Z
+SUMMARY:How to make a digital audio guide profitable for your venue
+DESCRIPTION:Digital audio guides (such as native apps or PWAs) are very difficult to monetize. They mostly end up being an expense borne by the museum in the name of visitor service\, and small museums can often not afford it. With its Audio Guide Visitors Keep\, Nubart offers an elegant way of monetization that is very well accepted by visitors. The secret lies in offering a non-transferable but reusable access card that also allows the printing of a sponsor's logo.\n\nNubart is sponsoring this session.
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:4b12872f095bb02002d9cf3a144557a6
+URL:http://mcn2021virtual.sched.com/event/4b12872f095bb02002d9cf3a144557a6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211019T150000Z
+DTEND:20211019T154500Z
+SUMMARY:How to encourage your visitors to interact with your venue using an audio guide.
+DESCRIPTION:Most audio guides are a passive element for the visitor. However\, they can also be a perfect tool for visitors to interact with the museum. Nubart's audio guide cards allow visitors to easily exchange documents with museum staff\, or leave voice messages explaining their story or testimony. Ideal for historical museums\, but also to propose photo contests or other similar initiatives. Come and we will help you find ways to implement it!\n\nNubart is sponsoring this session.
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:e30292693672cbb00f60ba13215de147
+URL:http://mcn2021virtual.sched.com/event/e30292693672cbb00f60ba13215de147
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211019T160000Z
+DTEND:20211019T164500Z
+SUMMARY:SIG Roundtable: Data & Insights + Strategy
+DESCRIPTION:How do data and trends shape museum strategies moving forward\, particularly in regard to audience engagement? We’ll open the floor to discuss emerging trends and insights\, and share how these areas have impacted how we engage and interact with our visitors\, both virtual and on-site.
+CATEGORIES:SIG ROUNDTABLE
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:ce458596ccf934a333ac0f3f9b261a03
+URL:http://mcn2021virtual.sched.com/event/ce458596ccf934a333ac0f3f9b261a03
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211019T170000Z
+DTEND:20211019T171500Z
+SUMMARY:Welcome to Ethical Responsibilities of Museums
+DESCRIPTION:Kick off the Ethical Responsibilities of Museums track with your track co-leads.
+CATEGORIES:ETHICAL RESPONSIBILITY
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:6d363e98c45744e22f71aa83dc6d8162
+URL:http://mcn2021virtual.sched.com/event/6d363e98c45744e22f71aa83dc6d8162
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211019T171500Z
+DTEND:20211019T180000Z
+SUMMARY:Conflicts of interest: Ethics\, risk\, museums & self
+DESCRIPTION:This panel investigates risk at the intersection of institutions and the internet. To build a collective framework of online ethics for museums\, we must first consider the frictions between risk and benefit between institutions and individuals. Panelists from various perspectives share how safety and agency vary across platforms and demographics\, discrepancies between museums embracing values in spirit versus in practice\, and responsibilities of museums for stewarding public agency and consent.
+CATEGORIES:ETHICAL RESPONSIBILITY
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:314d1c835804945d3dc92d848b43767a
+URL:http://mcn2021virtual.sched.com/event/314d1c835804945d3dc92d848b43767a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211019T171500Z
+DTEND:20211019T180000Z
+SUMMARY:Inclusive Design: A Methodology\, Not a Budget Line
+DESCRIPTION:Sina and Corey will lead the campfire talk with a 10-minute discussion on the inclusive design ecosystem\, its ethos and methodology\, and a quick elaboration of its facets. Then\, having pre-selected 5 participants equipped with unique topics from the MCN Inclusive Design and Accessibility Slack Channel\, will facilitate a group discussion across the disparate 5 topics\, demonstrating how and why being inclusive is a methodology to be applied\, not a project or budget line item. Link to topic submission form: https://t.co/GikoqZSwDl
+CATEGORIES:ETHICAL RESPONSIBILITY
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:7446ba9884d525117c2097d4a989635b
+URL:http://mcn2021virtual.sched.com/event/7446ba9884d525117c2097d4a989635b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211019T181500Z
+DTEND:20211019T190000Z
+SUMMARY:Building Accountability
+DESCRIPTION:In late summer of 2020\, a small group of MASS Action members began analyzing BLM statements put out by museums. This session will give an overview of the data and the difficulties in analyzing public statements that were placed on museums' websites and social media. Panelists will also address how this data can be used to empower museum workers and the general public\, and the ways museums have (or have not) carried their public commitments forward on readily accessible platforms.
+CATEGORIES:ETHICAL RESPONSIBILITY
+LOCATION:Channel 3\, Virtual
+SEQUENCE:0
+UID:bfbb5d4574523e5a657d55797c8ed7ae
+URL:http://mcn2021virtual.sched.com/event/bfbb5d4574523e5a657d55797c8ed7ae
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211019T181500Z
+DTEND:20211019T190000Z
+SUMMARY:Embracing Minds of All Kinds: Making Digital Content Usable For People with Cognitive Disabilities
+DESCRIPTION:Cognitive disabilities are among the most prevalent types of disabilities\, yet experts have struggled to provide web accessibility best practices around this area due to cognitive disabilities being such a broad category. However\, recent work by standards groups has begun to address this deficiency. In this session\, you’ll learn about the challenges people with these disabilities experience on the web and learn design patterns that will empower you to make your digital work more accessible.\n\nPresentation slides
+CATEGORIES:ETHICAL RESPONSIBILITY
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:d59140fac88854791d28a68a075d9d4a
+URL:http://mcn2021virtual.sched.com/event/d59140fac88854791d28a68a075d9d4a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211019T181500Z
+DTEND:20211019T190000Z
+SUMMARY:How to Unionize Your Museum
+DESCRIPTION:This session will be a practical how-to discussion of the process of unionization\, where attendees can learn from the real-life experience of people who have organized in the museum workplace. We’ll cover the enormous benefits of collective bargaining\, including rights\, benefits\, and protections won by existing museum unions. But we’ll also have frank discussion of the major and myriad obstacles to unionizing. Museum workers need a space to talk about labor issues without fear of retaliation.
+CATEGORIES:ETHICAL RESPONSIBILITY
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:2394d612153d4b7e3fd28790346694c7
+URL:http://mcn2021virtual.sched.com/event/2394d612153d4b7e3fd28790346694c7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211019T191500Z
+DTEND:20211019T200000Z
+SUMMARY:Ethical Responsibilities of Museums Recap
+DESCRIPTION:Review and discuss the key ideas that came out of the day with co-leads and presenters. More about how this session will be structured soon.
+CATEGORIES:ETHICAL RESPONSIBILITY
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:0f9e3dea69bcc2ae1c34c1de65b5f366
+URL:http://mcn2021virtual.sched.com/event/0f9e3dea69bcc2ae1c34c1de65b5f366
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211019T200000Z
+DTEND:20211019T210000Z
+SUMMARY:Speed Networking 5 sponsored by Aten Design Group
+DESCRIPTION:Join facilitators Don Youngberg and Eric Longo to meet other MCN attendees with some speed networking!\nEach session consists of a series of breakout rooms with several participants.Tell us where you're from\, what you're curious about\, and more—just be quick!Advance sign-up required.\nBrought to you by Aten Design Group.
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:db25c859732e072a182239b6065a8b13
+URL:http://mcn2021virtual.sched.com/event/db25c859732e072a182239b6065a8b13
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211020T140000Z
+DTEND:20211020T144500Z
+SUMMARY:Let's Talk Prospect2: email and marketing automation leveraging ActiveCampaign
+DESCRIPTION:Interested in learning more about how we can help with your email and marketing automation? Join us during this open office hour to ask questions and learn more about our partnership with ActiveCampaign and our optional Tessitura Integration! Members of our team will be on the call for general Q&A and will also be available to hop into a breakout room to talk one-on-one. Learn more at www.prospect2.com.\n\nL2 Interactive is sponsoring this session.
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:a46a815c3129dddb9d28c2ce45df8215
+URL:http://mcn2021virtual.sched.com/event/a46a815c3129dddb9d28c2ce45df8215
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211020T143000Z
+DTEND:20211020T150000Z
+SUMMARY:Decades of DAM: Get to Know Capture
+DESCRIPTION:What’s it like to have been in the digital asset industry for over 20 years? What are the learnings from decades of experience?\n\nIn this presentation\, digital asset management (DAM) and media library vendor Capture Ltd\, reflects on the evolution of the platform and services that they offer. This will include a short demonstration of the technology that’s currently used by many cultural and heritage organisations across the globe. There will also be time for Q&A.\n\nCapture is sponsoring this session.
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:42902ea37549dfebde9b7f6abb7e59ad
+URL:http://mcn2021virtual.sched.com/event/42902ea37549dfebde9b7f6abb7e59ad
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211020T150000Z
+DTEND:20211020T151500Z
+SUMMARY:Welcome to Europe
+DESCRIPTION:Kick off the Europe track with your track co-leads.
+CATEGORIES:EUROPE
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:f09e2082046a120ff2f2ecb684636788
+URL:http://mcn2021virtual.sched.com/event/f09e2082046a120ff2f2ecb684636788
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211020T151500Z
+DTEND:20211020T160000Z
+SUMMARY:Natural History Museum of Denmark: An open source natural history collection
+DESCRIPTION:Working in partnership the Natural History Museum of Denmark and Cogapp\, using open source principles and building upon existing biodiversity repositories have delivered an open-source\, IIIF-enabled\, natural history online collection platform. In this session\, we will talk through the project and explore how it can be leveraged by others to present further natural history collections online. We'll discuss our plans and the future potential for this project in the wider community.
+CATEGORIES:EUROPE
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:f7e7802ea6a2d159c70d374c37eb69f2
+URL:http://mcn2021virtual.sched.com/event/f7e7802ea6a2d159c70d374c37eb69f2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211020T151500Z
+DTEND:20211020T160000Z
+SUMMARY:The Hybrid Museum (Session 1 of 2)
+DESCRIPTION:What will the hybrid of the museums look like\, after Covid and the current digital transformation? Will the audience of visual art\, follow that consumer path of the music industry\, where art is explored digitally\, virtually first and then “live” at the museum? What will digital first mean for curators? Have the borders of our audience shifted from geographical borders to time zones?
+CATEGORIES:EUROPE
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:b317a0fafe6e7e5e312107fb40cccc49
+URL:http://mcn2021virtual.sched.com/event/b317a0fafe6e7e5e312107fb40cccc49
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211020T161500Z
+DTEND:20211020T170000Z
+SUMMARY:Entering the Field: Museum Studies' Students Perspectives on Digital Literacy
+DESCRIPTION:We invite participants to join us in a conversation about students' experiences and perspectives of digital literacy as taught in Museum Studies programmes. The session will encourage attendees to question the role of these academic courses to foster confidence and transparency for emerging practitioners. Our aim is to provide a space to reexamine the existing relationship between academia and GLAM institutions for a more sustainable practice-led partnership.
+CATEGORIES:EUROPE
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:f106f24c69217fa41510b145bef6930e
+URL:http://mcn2021virtual.sched.com/event/f106f24c69217fa41510b145bef6930e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211020T161500Z
+DTEND:20211020T170000Z
+SUMMARY:The Hybrid Museum (Session 2 of 2)
+DESCRIPTION:In this session we will look at one project that was initiated by Sørlandets Kunstmuseum in Norway\, to explore one idea of a hybrid museum\, a digital twin of the museum and the exhibition\, Microworld Kristiansand by the artists Genetic Moo. With us in this session we will have director of Lumen Art Projects\, Jack Addis and digital curator and researcher Filip Pais who took part in this experimental project to developed SKMU virtual space on the LIKELIKE platform. We will also hear from the artists Genetic Moo\, who was the first artists to explore this opportunity artist in virtual residency. Their in house exhibition Microworld Kristiansand\, was recreated for the www.virtuell.skmu.no
+CATEGORIES:EUROPE
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:f4b189781c20a2d726e25cdab26722dd
+URL:http://mcn2021virtual.sched.com/event/f4b189781c20a2d726e25cdab26722dd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211020T171500Z
+DTEND:20211020T180000Z
+SUMMARY:What did we learn in Europe? (Recap)
+DESCRIPTION:Review and discuss the key ideas that came out of the day with co-leads and presenters. More about how this session will be structured soon.
+CATEGORIES:EUROPE
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:5554e4c03de0e3dc4a1fa4599b5248cd
+URL:http://mcn2021virtual.sched.com/event/5554e4c03de0e3dc4a1fa4599b5248cd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211020T180000Z
+DTEND:20211020T190000Z
+SUMMARY:Speed Networking 6 sponsored by cogapp
+DESCRIPTION:Join facilitators Don Youngberg and Eric Longo to meet other MCN attendees with some speed networking!\nEach session consists of a series of breakout rooms with several participants.Tell us where you're from\, what you're curious about\, and more—just be quick!Advance sign-up required.\nBrought to you by cogapp.
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:aa5de2ffda53de762db05bbb0163ae28
+URL:http://mcn2021virtual.sched.com/event/aa5de2ffda53de762db05bbb0163ae28
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211020T190000Z
+DTEND:20211020T194500Z
+SUMMARY:AMA: Cultural Futures submissions
+DESCRIPTION:Case Studies for Cultural Futures is an initiative to collect insights from cultural organizations’ experiments with new technology—from launching custom websites and apps to building AR and VR experiences to implementing new project-management tools. We hope this resource will foster an open exchange of knowledge that can help the entire field learn from each other’s challenges and successes\, and grow into the future.\n\nChat with Shauna and Anna about the resource\, get support submitting your project to the Cultural Futures resource—or who you might nominate to submit to the resource—and answer any other questions you may have.
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:f34ed21c10a2fa71e4823a773e93384e
+URL:http://mcn2021virtual.sched.com/event/f34ed21c10a2fa71e4823a773e93384e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T150000Z
+DTEND:20211021T160000Z
+SUMMARY:Cogapp office hours – ask us anything
+DESCRIPTION:Cogapp has decades of experience delivering digital projects in the GLAM sector. Members of our team will be available to discuss anything you might have on your mind related to digital. Whether it's online exhibitions\, digital strategy\, applications of IIIF or indeed any other digital conundrum you might have\, please come along and say hello.\n\nCogapp is sponsoring this session.
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:b10cf79a15906f3892461d592d16fde0
+URL:http://mcn2021virtual.sched.com/event/b10cf79a15906f3892461d592d16fde0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T160000Z
+DTEND:20211021T164500Z
+SUMMARY:SIG Roundtable: IIIF
+DESCRIPTION:A chance to ask any of your burning questions about IIIF and museums\, and get an answer from the group. Have a think about what you want to know\, and we'll try to use the session to answer everyone's queries.Meeting notes available at https://docs.google.com/document/d/112A4vNGA0AQiq6ATd_4AakXQHgs7UzUXBbwbtRDPD_4/edit#
+CATEGORIES:SIG ROUNDTABLE
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:677b6f67992defaddc364822e3e4bbcc
+URL:http://mcn2021virtual.sched.com/event/677b6f67992defaddc364822e3e4bbcc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T170000Z
+DTEND:20211021T171500Z
+SUMMARY:Welcome to Experience Design & Immersive Technologies
+DESCRIPTION:Kick off the Experience Design & Immersive Technologies track with your track co-leads.
+CATEGORIES:EXPERIENCE DESIGN & IMMERSIVE TECH
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:6c064536c1ece1d3910e61d61b2713cb
+URL:http://mcn2021virtual.sched.com/event/6c064536c1ece1d3910e61d61b2713cb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T171500Z
+DTEND:20211021T180000Z
+SUMMARY:Can’t Touch This: the Promise and Perils of Gestural Interaction
+DESCRIPTION:We’ll use this session to share our learnings about what is exciting and interesting for gesture-based interactives in museums\, as well as what is partially—and deeply—problematic. We’ll share a mix of past experiences\, prototypes and R&D\, and new sketches and ideas built out just for this talk. The latter half of our Campfire session will be a guided discussion\, giving participants a chance to share their own experiences\, ask questions\, and dive deeper into topics they choose.\n\nSlides are available here! (Presentation link sadly does not have GIFs)
+CATEGORIES:EXPERIENCE DESIGN & IMMERSIVE TECH
+LOCATION:Channel 3\, Virtual
+SEQUENCE:0
+UID:e5af728ed768a41ea7afd42b49dafd5c
+URL:http://mcn2021virtual.sched.com/event/e5af728ed768a41ea7afd42b49dafd5c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T171500Z
+DTEND:20211021T180000Z
+SUMMARY:Climate Change and the Digital Experience: Developing Arctic Adventure at the Museum of Science\, Boston
+DESCRIPTION:This session will focus on the new Arctic Adventure exhibition\, which explores how technology is used in the Arctic and how these technologies are used to uncover evidence of and impacts of climate change. Speakers from MOS and Moment Factory will reflect on their experiences creating an immersive\, accessible\, content-rich exhibition that highlights the challenges/benefits of applying digital projection technologies to exhibits that transport visitors to the Arctic.
+CATEGORIES:EXPERIENCE DESIGN & IMMERSIVE TECH
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:3ea8f814dcbb72f5a06b6bbf35a009a5
+URL:http://mcn2021virtual.sched.com/event/3ea8f814dcbb72f5a06b6bbf35a009a5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T171500Z
+DTEND:20211021T180000Z
+SUMMARY:Learning from an Open Approach: Activating Smithsonian Open Access as a Commissioning Case Study
+DESCRIPTION:Cooper Hewitt’s Interaction Lab launched Activating Smithsonian Open Access (ASOA) to create new digital experiences with the Smithsonian’s Open Access dataset. Thanks to Verizon 5G Labs\, we awarded seven teams with $10\,000 to prototype their ideas alongside structured support from Smithsonian\, Verizon and external experts.\n\nThis panel will include ASOA leaders\, stakeholders\, evaluators\, and participants to share a comprehensive picture of what we learned and how it will affect future work.
+CATEGORIES:EXPERIENCE DESIGN & IMMERSIVE TECH
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:78909681e8ffc482bf17491ab8824416
+URL:http://mcn2021virtual.sched.com/event/78909681e8ffc482bf17491ab8824416
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T181500Z
+DTEND:20211021T190000Z
+SUMMARY:A Journey through Transition
+DESCRIPTION:The presentation is about our API journey through the museum’s digital infrastructure transition. Since Cooper Hewitt debuted the API in 2012\, it has been a valuable tool for its audiences. Yet in 2021\, as we emerge out of the pandemic and multiple crises\, the team found a redeveloped API is much needed in response to the new challenges. In collaboration with Knowledge Integration and Surface Impression\, we want to share what we learned from this journey\, both internally and with our audiences.
+CATEGORIES:EXPERIENCE DESIGN & IMMERSIVE TECH
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:b18657a584fac46d9bd8bb016556fe97
+URL:http://mcn2021virtual.sched.com/event/b18657a584fac46d9bd8bb016556fe97
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T181500Z
+DTEND:20211021T190000Z
+SUMMARY:A Novel Approach: Literary Tools in Experience Design
+DESCRIPTION:For museum people\, “storytelling” has been a buzzword for years. But beyond “everything is a story\,” what can we learn from literature about how we tell stories in spaces?\n\nIn this session\, we’ll share an approach to developing digital (and analog) experiences using techniques from literature to invite visitors to inhabit a story. Participants will put these tools into practice in a creative play and visioning session where we’ll all take on the role of creative storytellers.
+CATEGORIES:EXPERIENCE DESIGN & IMMERSIVE TECH
+LOCATION:Channel 3\, Virtual
+SEQUENCE:0
+UID:f6b3e7c784a0ca2abf978def4aa90fbf
+URL:http://mcn2021virtual.sched.com/event/f6b3e7c784a0ca2abf978def4aa90fbf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T181500Z
+DTEND:20211021T190000Z
+SUMMARY:Expanding and Enriching Metadata through Engagement with Communities
+DESCRIPTION:This panel discusses how cultural institutions are engaging various communities to co-create academic research and/or object metadata in order to increase representation and access to collections; highlighting how this is done in different ways to engage specific audiences and goals\, i.e. graduate student assistantships\, museum interactive experiences\, crowdsourcing\, and professional action groups.
+CATEGORIES:EXPERIENCE DESIGN & IMMERSIVE TECH
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:75fdacd81bb425f76cf5787cf30972fa
+URL:http://mcn2021virtual.sched.com/event/75fdacd81bb425f76cf5787cf30972fa
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T191500Z
+DTEND:20211021T200000Z
+SUMMARY:Experience Design & Immersive Technologies Recap
+DESCRIPTION:Review and discuss the key ideas that came out of the day with co-leads and presenters. More about how this session will be structured soon.
+CATEGORIES:EXPERIENCE DESIGN & IMMERSIVE TECH
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:22e1114fe3481e9c3fab8c3dfb5ac577
+URL:http://mcn2021virtual.sched.com/event/22e1114fe3481e9c3fab8c3dfb5ac577
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T200000Z
+DTEND:20211021T210000Z
+SUMMARY:Funders’ Office Hours: Canada Documentary Heritage Communities Program
+DESCRIPTION:Make an appointment with a program officer to discuss possibilities for funding your digital project. Representatives from several foundations are available to consult during the conference.\n\nCanada Documentary Heritage Communities Program\n\nSchedule a conversation with Ihtesham Rashid\, Manager\, by emailing ihtesham.rashid@bac-lac.gc.ca. A meeting invitation will be sent shortly thereafter.\n\nLibrary and Archives Canada (LAC) provides $1.5 million in contributions each year through the DHCP (“the Program”). This is a conditional payment issued to a recipient organization for a specific purpose\, as outlined in a funding contribution agreement. LAC and the recipient organization sign a contribution agreement\, which specifies the terms and conditions to receive payment. Every recipient organization is required to submit an interim report and a final report to LAC. LAC receives applications once every year through a call for proposals and funds the best project proposals after rigorous reviews of eligibility\, feasibility and merit.\n\nObjectives: The DHCP aims to ensure that Canada's continuing memory is documented and accessible to current and future generations.\nThe DHCP provides financial assistance to the Canadian documentary heritage community for activities that:increase access to\, and awareness of\, Canada's local documentary heritage organizations and their holdings; andincrease the capacity of local documentary heritage organizations to better sustain and preserve Canada's documentary heritage\nWho can apply: Local documentary heritage organizations eligible to apply to the DHCP are non-profit organizations that hold collections of mainly local or regional significance:ArchivesGenealogical organizations/societiesHistorical societiesIndigenous organizations/government institutionsLibrariesOrganizations with an archival component\nWhat can be funded: The DHCP can provide funding for specific projects that relate to either or both of the program's objectives.\nObjective 1: Increase access to\, and awareness of\, Canada's local documentary heritage organizations and their holdings.Objective 2: Increase the capacity of local documentary heritage organizations to better sustain and preserve Canada's documentary heritage.\nMore information: Documentary Heritage Communities Program
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Virtual
+SEQUENCE:0
+UID:713dbb83d10386a955a6d4f9e4283a8a
+URL:http://mcn2021virtual.sched.com/event/713dbb83d10386a955a6d4f9e4283a8a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T200000Z
+DTEND:20211021T210000Z
+SUMMARY:Funders’ Office Hours: Getty Foundation
+DESCRIPTION:Make an appointment with a program officer to discuss possibilities for funding your digital project. Representatives from several foundations are available to consult during the conference.\n\nGetty Foundation\n\nSchedule a conversation with Associate Director Anne Helmreich via Calendly.\n\nSchedule a conversation with Senior Program Officer Heather MacDonald via Calendly.\n\nBrief description of the foundation and the digital projects they fund:\n\nThe Getty Foundation fulfills the philanthropic mission of the Getty Trust by supporting individuals and institutions committed to advancing the greater understanding and preservation of the visual arts in Los Angeles and throughout the world. Since 2013\, the Getty Foundation’s Digital Art History initiative has supported both introductory and advanced training in the technical and conceptual aspects of digital practice for art historians\, academics\, and museum professionals. In addition\, we have provided direct support for a small number of DAH projects since 2018\, with a focus on spatial analysis (historical GIS\, digital mapping\, and 3D modeling of built cultural heritage) and image analysis (machine vision\, pattern recognition\, and visual search). Prior to launching the DAH initiative\, the Foundation organized the Online Scholarly Cataloguing Initiative (OSCI)\, which from 2009 to 2015 supported nine museums piloting the transition of the scholarly museum collection catalogue to online platforms. The Foundation is not currently accepting new proposals in the Digital Art History initiative\, as we are in the early stages of a strategic analysis of the initiative’s goals. We invite conversations with colleagues that can help us assess the state of the field\, particularly in light of the digital turn experienced across the museum sector as a result of the COVID-19 pandemic\, so that we can understand better the current needs and future directions. We plan to relaunch the DAH initiative in spring 2022.
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Virtual
+SEQUENCE:0
+UID:18ca68a040d9ab3dcd2a4c6dc351b622
+URL:http://mcn2021virtual.sched.com/event/18ca68a040d9ab3dcd2a4c6dc351b622
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T200000Z
+DTEND:20211021T210000Z
+SUMMARY:Funders’ Office Hours: Institute of Museum and Library Services
+DESCRIPTION:Make an appointment with a program officer to discuss possibilities for funding your digital project. Representatives from several foundations are available to consult during the conference. \n\n\nInstitute of Museum and Library Services\n\nSchedule a conversation with Helen J. Wechsler\, Supervisory Grants Management Specialist.\n\n\nThe mission of IMLS is to advance\, support\, and empower America’s museums\, libraries\, and related organizations through grantmaking\, research\, and policy development.\n\n\nSeveral museum grant programs are available to support digital projects:\nMuseums for America and Inspire! Grants for Small Museums: These two grant programs support the development of digital tools and resources that help museums meet their individual strategic goals in relation to education programing\, community engagement\, and collections stewardship.Museums Empowered: This grant program supports projects that use professional development and training to generate systemic change within individual museums of all types and sizes. One of the four project categories for this program is Digital TechnologyNational Leadership Grants for Museums: This grant program offers museums\, universities\, and nonprofits that serve the museum profession\, an opportunity to take the lead on a high priority issue facing the museum field in the digital arena. Projects should address a need in the field and result in tools\, resources\, or findings that can be broadly used or adapted by others.\n
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Virtual
+SEQUENCE:0
+UID:476b5708742c1110819048e1fcd709da
+URL:http://mcn2021virtual.sched.com/event/476b5708742c1110819048e1fcd709da
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T200000Z
+DTEND:20211021T210000Z
+SUMMARY:Funders’ Office Hours: Knight Foundation
+DESCRIPTION:Make an appointment with a program officer to discuss possibilities for funding your digital project. Representatives from several foundations are available to consult during the conference.\n\nKnight Foundation\n\nSchedule a conversation with Koven J. Smith\, Senior Director/Arts\, via Calendly.\n\nThe Knight Foundation believes that great art attaches people to place and to each other. Investing in arts and culture is central to Knight’s effort to build stronger\, better informed and more engaged communities\, the foundation of a healthy democracy. \n\nWe fund artists and arts organizations that create\, present and provide access to artistic excellence and inspire engagement. We invest across genres and increase the impact of our work by focusing funding in the eight communities (Miami\, Macon\, Charlotte\, Philadelphia\, Akron\, Detroit\, St. Paul\, and San Jose) where Knight has offices.\n\nOur investments focus on:\nAuthenticity and Inclusion: We fund to accelerate trends and activity naturally occurring in each community and support artists and organizations that reflect the diversity of the communities where we work. Development of Talent and Organizations: We seek to increase the capacity of artists and the sustainability of arts organizations.Transformation: We invest in the use of technology to create new ways to explore and make art\, to express culture\, and to reach\, expand and engage diverse audiences.\n\n\n\n
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Virtual
+SEQUENCE:0
+UID:58892ddb849e765f02d4b9750da225fc
+URL:http://mcn2021virtual.sched.com/event/58892ddb849e765f02d4b9750da225fc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T200000Z
+DTEND:20211021T210000Z
+SUMMARY:Funders’ Office Hours: Kress Foundation
+DESCRIPTION:Make an appointment with a program officer to discuss possibilities for funding your digital project. Representatives from several foundations are available to consult during the conference.\n\nKress Foundation\n\nSchedule a conversation with Deputy Director Lisa W. Schermerhorn via Calendly.\n\nBrief Description of the Foundation:\nThe Kress Foundation devotes its resources to advancing the study\, conservation and enjoyment of European art\, architecture and archaeology from antiquity to the pre-modern era. Kress offers a range of grants and fellowships in defined program areas for historians of art and architecture\, art conservators\, and art museum professionals.\n\nDigital Projects Funded:\nThe Digital Art History Grants program is intended to foster new forms of research and collaboration as well as new approaches to teaching and learning. Support may also be offered for innovative experiments in the field of digital art history; for promising initiatives in online publishing; for the digitization of important visual resources (especially essential art history photographic archives) in the area of pre-modern European art history; and of primary textual sources (especially the literary and documentary sources of European art history).\n\n
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Virtual
+SEQUENCE:0
+UID:d70a2c28a8fb301c408c8c93882eba90
+URL:http://mcn2021virtual.sched.com/event/d70a2c28a8fb301c408c8c93882eba90
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T200000Z
+DTEND:20211021T210000Z
+SUMMARY:Funders’ Office Hours: National Endowment for the Humanities
+DESCRIPTION:Make an appointment with a program officer to discuss possibilities for funding your digital project. Representatives from several foundations are available to consult during the conference.\n\nNational Endowment for the Humanities\n\nSchedule a conversation with Sheila A Brennan\, Senior Program Officer\, Office of Digital Humanities\, via Calendly.\n\nThe National Endowment for the Humanities (NEH) supports research\, education\, preservation\, public programs in the humanities. Each division at the NEH offers programs that can support digital projects and engaging in digital methods across the humanities for different audiences. The following divisions offer grant programs of particular interest to MCN attendees:Office of Digital Humanities (ODH) offers grant programs that fund project teams experimenting with digital technologies to develop new methodologies and approaches to the humanities research\, teaching and learning\, public engagement\, and scholarly communications and publishing.Division of Preservations and Access’s programs focus on ensuring the long-term and wide availability of cultural heritage resources\, often through digital means\, including enhancing access to these materials through interfaces such as maps or other types of visualizations.Division of Public Programs supports humanities projects designed to reach large and diverse public audiences using many different formats\, such as museum exhibition websites or on-site interactives\, podcasts\, digital games\, mobile websites\, and Virtual Reality experiences.Office of Challenge Grants: run programs that strengthen institutional and organizational capacity for work in the humanities\, including digital infrastructure.\nResources for applicants:\n\nWhat Grant Program Fits My Digital Project?Match your project with an NEH grant programFunding Digital Projects at the NEH flyer
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Virtual
+SEQUENCE:0
+UID:576ded370ee7e39624ab813acbffe1fc
+URL:http://mcn2021virtual.sched.com/event/576ded370ee7e39624ab813acbffe1fc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T200000Z
+DTEND:20211021T210000Z
+SUMMARY:Funders’ Office Hours: Thoma Foundation
+DESCRIPTION:Make an appointment with a program officer to discuss possibilities for funding your digital project. Representatives from several foundations are available to consult during the conference.\n\nThoma Foundation\n\nSchedule a conversation with Sarah Rovang\, Program Officer\, via Calendly.\n\nThe Carl & Marilynn Thoma Foundation recognizes the power of the arts to challenge and shift perceptions\, spark creativity\, and connect people across cultures. We lend and exhibit artworks from our collection and support innovative individuals and pivotal initiatives in the arts.\nThe Foundation runs several programs that support digital projects:\nThe Digital Changemaker Grant empowers small- and medium-size arts and cultural organizations to advance their digital strategies by funding innovative projects that reimagine the role and use of technology to engage audiences\, promote digital innovation\, and create community. The Thoma Foundation’s quarterly Grants for Nonprofits are available for diverse digital projects\, including online convening\, virtual exhibitions\, and more.Accredited museums are invited to borrow (for free!) from Thoma’s extensive collection of Digital & Media Art.\n\n\n\n\n
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Virtual
+SEQUENCE:0
+UID:9d0434767f3a4619ab707e9810ce0f31
+URL:http://mcn2021virtual.sched.com/event/9d0434767f3a4619ab707e9810ce0f31
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T200000Z
+DTEND:20211021T210000Z
+SUMMARY:Speed Networking 7 sponsored by Guru
+DESCRIPTION:Join facilitators Don Youngberg and Eric Longo to meet other MCN attendees with some speed networking!\nEach session consists of a series of breakout rooms with several participants.Tell us where you're from\, what you're curious about\, and more—just be quick!Advance sign-up required.\nBrought to you by Guru.
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:5f4ebac497e70a8704f28bd778056392
+URL:http://mcn2021virtual.sched.com/event/5f4ebac497e70a8704f28bd778056392
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211021T210000Z
+DTEND:20211021T220000Z
+SUMMARY:Spacial Chat Happy Hour #1
+DESCRIPTION:Join us for happy hour in the MCN 2021 Spatial Chat “Museum” where you can contribute an object\, meme\, or label to our virtual museum. Head over to the “Calm” space to experience some museum yoga\, meditation\, and more to relax your mind between sessions. The “Nightlife” room provides the opportunity to learn from a couple of museums how to mix cocktails\, test out some karaoke\, hang out with your colleagues\, and more! Check the #MCN2021 Slack Channel for the link and password!\n\nPlease note that you can access captions in Spacial Chat through Google Chrome: https://help.spatial.chat/hc/en-us/articles/4406143472018-Live-Captioning-
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:855282e17738bbbf8267e50de3d973f7
+URL:http://mcn2021virtual.sched.com/event/855282e17738bbbf8267e50de3d973f7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211026T153000Z
+DTEND:20211026T163000Z
+SUMMARY:Discover the Power of Workflow Automation for Collections Management
+DESCRIPTION:Learn how to do more with less by automating critical processes for efficiency and consistency. Axiell’s workflow engine handles administrative tasks to give museum\, archive and library staff more time to focus on their areas of expertise. We’d love to share with you how this technology works and what it can do for your organization!\n\nAxiell is sponsoring this session.
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:c59a72b6ded6cead24ea00b56eea6628
+URL:http://mcn2021virtual.sched.com/event/c59a72b6ded6cead24ea00b56eea6628
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211026T160000Z
+DTEND:20211026T164500Z
+SUMMARY:SIG Roundtable: Social Media
+DESCRIPTION:What have we learned in 2021 and what's coming in 2022. We'll discuss navigating social media within the context of institutional priorities\, what's happening in the larger landscape of social media\, and open the floor to discuss emerging strategies and concerns.
+CATEGORIES:SIG ROUNDTABLE
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:0ee1bf4c18f84a9985f42765827c41d6
+URL:http://mcn2021virtual.sched.com/event/0ee1bf4c18f84a9985f42765827c41d6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211026T170000Z
+DTEND:20211026T171500Z
+SUMMARY:Welcome to Why Museums?
+DESCRIPTION:Kick off the Why Museums? track with your track co-leads.
+CATEGORIES:WHY MUSEUMS?
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:99ef06d765d6aa3136cece6fa6ce8038
+URL:http://mcn2021virtual.sched.com/event/99ef06d765d6aa3136cece6fa6ce8038
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211026T171500Z
+DTEND:20211026T180000Z
+SUMMARY:It's not your fault: Stories of Resilience\, Revisited. We’re going to need a better boat.
+DESCRIPTION:What has 2020 taught you about resilience? Can you bounce back? Over and over? The Digital Pivot overtaxed our resilience\, leaving us stuck—in our situations\, problems\, thinking—tighter than the Ever Given in the Suez. Is there a tugboat that works? Should we even dig out? Offload? We’ll look at what we’ve learned about our practices & the industry as our pathways narrowed and burdens increased.
+CATEGORIES:WHY MUSEUMS?
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:8b51b883593875f22390cde7dc59ce18
+URL:http://mcn2021virtual.sched.com/event/8b51b883593875f22390cde7dc59ce18
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211026T171500Z
+DTEND:20211026T180000Z
+SUMMARY:One brick less in the wall: the case of the Baden State Museum
+DESCRIPTION:The Baden State Museum is developing its digital strategy. In view of an extensive renovation\, visitors have been redefined as active users\, digital user IDs have been introduced and a citizens' council has been established. Projects to build a digital platform and explore artificial intelligence are intended to accelerate dialogue and empowerment. In this Campfire session\, we will explore the potential of these developments as steps towards the museum without walls.
+CATEGORIES:WHY MUSEUMS?
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:2273d5e84a78587e340dd2bb16ee04dc
+URL:http://mcn2021virtual.sched.com/event/2273d5e84a78587e340dd2bb16ee04dc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211026T171500Z
+DTEND:20211026T180000Z
+SUMMARY:Stronger Together: Facing Retaliatory Tactics In Cultural Institutions
+DESCRIPTION:As we witnessed during the last couple of years\, when staff organize seeking better practices and working conditions at institutions that have been unethical\, colonial and/or toxic\, we are often met with diverse patterns of control\, abuse and retaliation. Boards and other decision makers can have unimaginable resources that most of us simply do not have access to: crisis management firms\, expensive lawyers\, PR firms\, powerful friends\, media influence\, etc. The consequence of generations and generations of lack of accountability and transparency has left a sour taste in museum workers across the field; some leaving the field entirely\, some too exhausted to even think of options\, others stuck wanting to leave but unable to\, others hoping that they can say the right thing for things to change for the better. \n\nThis environment has particularly affected BIPOC and colleagues with disabilities\, who are subjected to constant acts of discrimination.\n\nStaff in many museums have lived in fear of being honest about the working conditions that we are subjected to\, taking a stand can sound terrifying\, even inconceivable.\n\nThis session will be an honest conversation about identifying patterns of narcissistic abuse in the museum sector\, understanding how trauma makes us complicit in abusive systems and how we can protect each other from retaliatory practices. We will share examples of different types of tactics that decision makers have used to silence staff\, control the narrative of the situation or even engage in union busting tactics. We will make time to build hope: this situation is not hopeless. It doesn't have to be. But that is up to us. \n\nThis session is NOT under Chatham House Rules. I invite participants to attend as an act of courage and solidarity with those who have put themselves in danger to make the field better and more equitable for all of us.
+CATEGORIES:WHY MUSEUMS?
+LOCATION:Channel 3\, Virtual
+SEQUENCE:0
+UID:c09c8a2a563cd09fdacb68530cf481a3
+URL:http://mcn2021virtual.sched.com/event/c09c8a2a563cd09fdacb68530cf481a3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211026T181500Z
+DTEND:20211026T190000Z
+SUMMARY:Collective Relevance: Curating Black Art & History Through Independent Praxis
+DESCRIPTION:The purpose of this interactive presentation is to introduce participants to ART | library deco an online African American digital library and repository. Participants will have the opportunity to subscribe to the library online in real time\, interact with the library while listening to the presentation\, visit the repository\, and learn how to be included in two open access projects: ARCHIVE-it! & Black COVID-19 Index.
+CATEGORIES:WHY MUSEUMS?
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:4b640829323fae1e7b68b09b59af9370
+URL:http://mcn2021virtual.sched.com/event/4b640829323fae1e7b68b09b59af9370
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211026T181500Z
+DTEND:20211026T190000Z
+SUMMARY:Museums in 3021: Irrelevance? Or a Culture Built on Stewardship
+DESCRIPTION:It is 3021\, museums disappeared a long time ago after waves of death and rebirth. The empty buildings are toured to show the reminiscent of dusty marble walls and empty offices: it is a reminder of what shall never be repeated again\, a reminder of the death of museums.\n\nYou can imagine it\, can’t you? \n\nIn Barry Lord’s book Art & Energy he puts forth that culture can be tied to the dominant form of energy in a society. He sees a struggle between the culture of consumption\, from the era of oil and natural gas\, and the culture of stewardship\, rising out of things like renewable energy. The culture of consumption prizes consumable experiences (including museum visits) in which ideologies are fashion and humans are a commodity. The culture of stewardship\, however\, fosters values of local engagement\, preservation\, sustainability\, and transparency.\n\nThis session will take these ideas to their logical extreme - in the case of the culture of consumption we will look at a future where there is nothing left for the public in museums or for museum professionals after continued trauma that museums perpetuate on staff and marginalized populations; where technology and the digital are used for control\, surveillance\, and oppression\, where museums are consigned to irrelevance and the dustbin of history. Humanity moved on. Boards and directors are gone. \n\nFor the culture of stewardship\, the session will use the lens of solarpunk science fiction: we will look at museums in 3021 and what a culture of stewardship in museums could look like. Cultural heritage institutions are often viewed as being rooted in the past\, rather than at the cultural vanguard. With the coming of a culture of stewardship we as museum professionals have a rare opportunity to intervene not just in our cultural organizations\, but to the public in general to foster values of equity\, preservation and sustainability.\n\nThe session will end with looking at the direct future - realizing that between these two extremes there is a path forward - but pursuing it would require surmounting complex and even painful challenges. However\, tackling those challenges would reform the digital and the field at large.
+CATEGORIES:WHY MUSEUMS?
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:de7bf5ff640f001a8c8ed2f837c58ffd
+URL:http://mcn2021virtual.sched.com/event/de7bf5ff640f001a8c8ed2f837c58ffd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211026T191500Z
+DTEND:20211026T200000Z
+SUMMARY:Why Museums? Recap
+DESCRIPTION:Review and discuss the key ideas that came out of the day with co-leads and presenters. More about how this session will be structured soon.
+CATEGORIES:WHY MUSEUMS?
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:a54c201d8c0866cf6b2ff17d72a970b4
+URL:http://mcn2021virtual.sched.com/event/a54c201d8c0866cf6b2ff17d72a970b4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211026T200000Z
+DTEND:20211026T204500Z
+SUMMARY:Museum Trivia Network sponsored by zetcom
+DESCRIPTION:Museum professionals know a ton of facts! Compete for the *Top Score* in this high-stakes game of Museum Trivia. Get ready to answer\, score\, and win a prize! \n\nMuseum Trivia Network is designed by the MCN community to have fun\, laugh together\, share facts\, and make new friends. Join us at this exciting Zoom event. \n\nAccessible visuals and text reader available.\n\nBrought to you by zetcom.
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 3\, Virtual
+SEQUENCE:0
+UID:871f4a83a88cb2205990b7778c0b0fce
+URL:http://mcn2021virtual.sched.com/event/871f4a83a88cb2205990b7778c0b0fce
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211026T200000Z
+DTEND:20211026T210000Z
+SUMMARY:Speed Networking 8 sponsored by Digital Transitions
+DESCRIPTION:Join facilitators Don Youngberg and Eric Longo to meet other MCN attendees with some speed networking!\nEach session consists of a series of breakout rooms with several participants.Tell us where you're from\, what you're curious about\, and more—just be quick!Advance sign-up required.\nBrought to you by Digital Transitions.
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:1cadbeb3c4ff08d01aa13a8cbb52885b
+URL:http://mcn2021virtual.sched.com/event/1cadbeb3c4ff08d01aa13a8cbb52885b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211027T140000Z
+DTEND:20211027T144500Z
+SUMMARY:Let's Talk Donate2 Stream2 Flex2: cart-free transactions leveraging Stripe\, Brightcove\, and more
+DESCRIPTION:Interested in learning more about how we can help you grow your member and donor base with cart-free transactions? Join us during this open office hour to ask questions\, see real word examples from our clients covering donation forms to gated streaming video\, and chat with our team! Members of our team will be on the call for general Q&A and will also be available to hop into a breakout room to talk one-on-one. Learn more at www.donate2.com.\n\nL2 Interactive is sponsoring this session.
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:5ec85e46fa785fd20282b2940b31a0d4
+URL:http://mcn2021virtual.sched.com/event/5ec85e46fa785fd20282b2940b31a0d4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211027T143000Z
+DTEND:20211027T150000Z
+SUMMARY:Decades of DAM: Get to Know Capture
+DESCRIPTION:What’s it like to have been in the digital asset industry for over 20 years? What are the learnings from decades of experience?\n\nIn this presentation\, digital asset management (DAM) and media library vendor Capture Ltd\, reflects on the evolution of the platform and services that they offer. This will include a short demonstration of the technology that’s currently used by many cultural and heritage organisations across the globe. There will also be time for Q&A.\n\nCapture is sponsoring this session.
+CATEGORIES:SPONSOR HOURS
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:675c20da5aad3ad4fc7b2b4a6b7acd6d
+URL:http://mcn2021virtual.sched.com/event/675c20da5aad3ad4fc7b2b4a6b7acd6d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211027T160000Z
+DTEND:20211027T161500Z
+SUMMARY:Welcome to Latin America
+DESCRIPTION:Kick off the Latin America track with your track co-leads.
+CATEGORIES:LATIN AMERICA
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:7390559bed871e43ad8f30d2ae007b8b
+URL:http://mcn2021virtual.sched.com/event/7390559bed871e43ad8f30d2ae007b8b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211027T161500Z
+DTEND:20211027T170000Z
+SUMMARY:Building Digital Capabilities at MALI (Museo de Arte de Lima)
+DESCRIPTION:From the beginning of the pandemic\, Museo de Arte de Lima\, with help of organizations such as Fundacion Telefonica\, has been designing and experimenting new ways of mediating art through digital technologies in order to drive cross-sectional changes across the organization. From Web Art in collaboration with local artists\, to the implementation of management tools and data scrums\, our team at MALI has been experiencing new ways of understanding the public as well as its relation to the museum’s art collection.\n\nIn this panel we would like to share our learnings from this experience and open up a discussion regarding the challenges of driving digital change in a non profit organization in South America.
+CATEGORIES:LATIN AMERICA
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:8cc7559e993c32b0e260faa11ce78192
+URL:http://mcn2021virtual.sched.com/event/8cc7559e993c32b0e260faa11ce78192
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211027T161500Z
+DTEND:20211027T170000Z
+SUMMARY:Small and Medium Museums Thriving on Digital
+DESCRIPTION:With fewer visitors at premises and always a shortage of resources – budgetary\, human\, technological- is it possible for small and medium museums to not just survive but thrive?\nWe’ll discuss opportunities brought to the forefront by digital with Spanish and Latin American museums\, review some of the best practices of that museums and identify the biggest challenges ahead of us.\n\nWe will also explain REMED\, an international museums network created during lockdown to help Spanish speaking professionals with the accelerated implementation of digital strategies.
+CATEGORIES:LATIN AMERICA
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:0e6c36bd5881ca253f9a58eb7d5b4f13
+URL:http://mcn2021virtual.sched.com/event/0e6c36bd5881ca253f9a58eb7d5b4f13
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211027T171500Z
+DTEND:20211027T180000Z
+SUMMARY:Current Horizons of Latin American Museums
+DESCRIPTION:Digital is threatening museums worldwide\, but what is the panorama when speaking about Latin América? What can we learn from Latin American museums? In this panel we present a dialog between three main figures of Latin America: Américo Castilla\, director of the Fundación TyPA\, Argentina\, Andrés Roldán\, Director of the Parque Explora\, Colombia\, and Florencia Croizet\, Museo Evita\, Argentina\, moderated by Ana Martí director of REMED
+CATEGORIES:LATIN AMERICA
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:adeea07c68a410f429b8545531291068
+URL:http://mcn2021virtual.sched.com/event/adeea07c68a410f429b8545531291068
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211027T180000Z
+DTEND:20211027T190000Z
+SUMMARY:Intercept: the Open Source Solution to Event Management
+DESCRIPTION:In 2018\, Richland Library (SC) embarked on an ambitious goal: to engage with customers by tracking their attendance at programs and events and making recommendations based on their activity on their website. Three years\, and much trial and error later\, this open source customer engagement and event management system\, developed by Aten Design Group and Richland Library\, with a grant from the Knight Foundation\, is being used by RAILS\, a consortium of Illinois libraries and Camden County Library System (NJ)\, a mid-sized suburban county system\, in addition to Richland’s urban\, suburban and rural libraries.\n\nAll three systems use Intercept’s base code in different ways\, all three are contributing to building up this new community\, and all three depend on Intercept to engage their users\, helping customers find more of what they love.\n\nJoin Sally Shaughnessy\, Aten’s VP of Client Services and Project Manager for Richland’s Intercept build\, along with Richland\, RAILS and Camden County for a discussion on why Intercept is still the most flexible events management option for not just libraries\, but any nonprofit with events and programming.\n\nAten Design Group is producing this webinar.\n\nREGISTER HERE!
+CATEGORIES:SPONSOR HOURS
+LOCATION:Virtual
+SEQUENCE:0
+UID:23f077c433c0d941d03c6c5c860e7cdf
+URL:http://mcn2021virtual.sched.com/event/23f077c433c0d941d03c6c5c860e7cdf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211027T181500Z
+DTEND:20211027T190000Z
+SUMMARY:What did we learn in Latin America? (Recap)
+DESCRIPTION:Review and discuss the key ideas that came out of the day with co-leads and presenters. More about how this session will be structured soon.
+CATEGORIES:LATIN AMERICA
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:ad4cae63e7b8a2bf2bfd3166f5e39f73
+URL:http://mcn2021virtual.sched.com/event/ad4cae63e7b8a2bf2bfd3166f5e39f73
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211027T190000Z
+DTEND:20211027T200000Z
+SUMMARY:Speed Networking 9 sponsored by Capture
+DESCRIPTION:Join facilitators Eric Longo and Anna Chiaretta Lavatelli to meet other MCN attendees with some speed networking!\nEach session consists of a series of breakout rooms with several participants.Tell us where you're from\, what you're curious about\, and more—just be quick!Advance sign-up required.\nBrought to you by Capture.\n\n\n
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:b38941db81234a45a73c29cfdf14c167
+URL:http://mcn2021virtual.sched.com/event/b38941db81234a45a73c29cfdf14c167
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211028T160000Z
+DTEND:20211028T164500Z
+SUMMARY:Mentorship Office Hours
+DESCRIPTION:Join us for an informal AMA (which should really be called 'Ask Us Anything') about the MCN Mentorship program.\n\n\nSince its inception in 2017\, MCN has matched about 20-25 pairs annually (the program runs January through November) and offers a unique professional development opportunity whether you are a veteran or a newbie in the museum tech community.\n\nIf you have questions about how it works\, is it worth it\, are you ready\, in what capacity will you serve\, what's a typical year like? then this AMA session is for you.\n\n\nApplications for the 2022 program open on October 28 and are due by midnight ET on Wednesday\, November 24\, 2021.\n\nMentorship is an exclusive benefit of membership so you need to be a current member of MCN to participate in mentorship.
+CATEGORIES:PROFESSIONAL DEVELOPMENT
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:0ecf709d4ec2f39bb9b00423072764b4
+URL:http://mcn2021virtual.sched.com/event/0ecf709d4ec2f39bb9b00423072764b4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211028T170000Z
+DTEND:20211028T174500Z
+SUMMARY:An AMA with Museum Consultants
+DESCRIPTION:A panel of museum consultants will take any and all questions! We’ll tackle broad questions about why we chose this path\, business development\, and marketing; and then drill down into topics like rates\, work-life balance\, and navigating client relationships and expectations\, as well as how museum staff can best work with consultants. With two rounds of breakout groups\, participants will be able to ask their questions and tailor their session experience.
+CATEGORIES:PROFESSIONAL DEVELOPMENT
+LOCATION:Channel 3\, Virtual
+SEQUENCE:0
+UID:8125fe8e629c32ebeb3b01e25741ed1a
+URL:http://mcn2021virtual.sched.com/event/8125fe8e629c32ebeb3b01e25741ed1a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211028T170000Z
+DTEND:20211028T174500Z
+SUMMARY:Cover Letters and Interviews: What is the Job Market Now?
+DESCRIPTION:This professional development session will lead participants through creating short and effective cover letters\, in discussing why cover letters are important\, and will engage in strategies for successful interviews\, whether they be in person\, over video conference software\, or over phone. I will not have all the answers\, so this will be a participatory session for presenter and attendees to generate strategies that we can share widely. This session is for everyone: EMP's\, Mid-Level Career Professionals\, or Veterans in the field\, since there may be anytime that somone will be on the job market\, and our discussion will rely on your thoughts and ideas.
+CATEGORIES:PROFESSIONAL DEVELOPMENT
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:c2c6e59194ef69c3e14606e0e880bd49
+URL:http://mcn2021virtual.sched.com/event/c2c6e59194ef69c3e14606e0e880bd49
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211028T170000Z
+DTEND:20211028T174500Z
+SUMMARY:Make that Network Werk\, Werk\, Werk for EMPs
+DESCRIPTION:In this professional development session\, we hope to tackle some ways that emerging museum professionals can use social media and NEMPN for networking\, resource sharing\, and professional development. We hope to touch on Museum Twitter\, conferences\, professional organizations\, and the new NEMPN members' space as ways to engage with other emerging and established museum professionals.
+CATEGORIES:PROFESSIONAL DEVELOPMENT
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:c9962dfd810d9ebea8fccf33f3288f0f
+URL:http://mcn2021virtual.sched.com/event/c9962dfd810d9ebea8fccf33f3288f0f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211028T180000Z
+DTEND:20211028T184500Z
+SUMMARY:Behind the Scenes: Understanding the Invisible Work of Museum Computing
+DESCRIPTION:This professional development session will engage participants in a round table discussion of the challenges\, problems\, and strategic solutions related to the invisible work of museum computing. Drawing upon preliminary results from 50 oral histories conducted in spring 2021 with museum tech professionals\, this session will explore the invisibility of museum tech projects\, and examine the wide-ranging responsibilities of museum tech professionals that take place behind-the-scenes in museums.
+CATEGORIES:PROFESSIONAL DEVELOPMENT
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:c069e87cb88b0b2dabc5ccbc33d6e5a6
+URL:http://mcn2021virtual.sched.com/event/c069e87cb88b0b2dabc5ccbc33d6e5a6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211028T180000Z
+DTEND:20211028T184500Z
+SUMMARY:Stop\, Cooperate\, and LISTEN: Learning and Sharing in the Digital Workplace
+DESCRIPTION:In this session\, we’ll invite participants to practice listening at depth through a variety of exercises. We will compare the tradeoffs in using questions\, reflective statements\, and silence/non-verbal communication as techniques to elicit a deep understanding of people’s inner thinking and guiding principles.
+CATEGORIES:PROFESSIONAL DEVELOPMENT
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:a22a8fa26685cecbdcb892b743298fa9
+URL:http://mcn2021virtual.sched.com/event/a22a8fa26685cecbdcb892b743298fa9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211028T190000Z
+DTEND:20211028T194500Z
+SUMMARY:Developing and Managing a Successful Internship Program
+DESCRIPTION:In this session\, participants learn about how to develop a project-based internship program that they can implement in their department. We will discuss different types of internships\, how to structure them so that they have the best chance at success\, and how your leadership is key to the process. Come with a project in mind and leave with concepts and example planning documents to help take the next steps.
+CATEGORIES:PROFESSIONAL DEVELOPMENT
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:759125ea0da5f43a644a627569030705
+URL:http://mcn2021virtual.sched.com/event/759125ea0da5f43a644a627569030705
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211028T190000Z
+DTEND:20211028T194500Z
+SUMMARY:How to Train Staff to Support Social Media Efforts
+DESCRIPTION:Drawing from recent experience working together on an IMLS-funded workshop series to educate and inspire New-York Historical Society staff to be more involved with the museum’s social media\, social media manager Emily Haight and consultant Lucy Redoglia will share their insights and strategy with attendees.
+CATEGORIES:PROFESSIONAL DEVELOPMENT
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:1a805dab2803fb0573f0dd86e1816e10
+URL:http://mcn2021virtual.sched.com/event/1a805dab2803fb0573f0dd86e1816e10
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211028T200000Z
+DTEND:20211028T210000Z
+SUMMARY:Cultural Futures Introduction and Listening Session
+DESCRIPTION:Join Salome and Eric to hear about MCN's collaborative project with NEW INC: Case Studies for Cultural Futures\, check out some case studies included in the resource\, talk about how you can contribute\, and share your feedback to guide next steps.\n\nYou can also nominate a project you'd like to see documented in the resource with this form.
+CATEGORIES:PLENARY/KEYNOTE
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:f53162bb949a65f07a472a392c96b91f
+URL:http://mcn2021virtual.sched.com/event/f53162bb949a65f07a472a392c96b91f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211028T210000Z
+DTEND:20211028T220000Z
+SUMMARY:Spacial Chat Happy Hour #2
+DESCRIPTION:Join us for Happy Hour in the MCN 2021 Spatial Chat “Museum” where you can contribute an object\, meme\, or label to our virtual museum. Head over to the “Calm” space to experience some museum yoga\, meditation\, and more to relax your mind between sessions. The “Nightlife” room provides the opportunity to learn from a couple of museums how to mix cocktails\, test out some karaoke\, hang out with your colleagues\, and more! Check the #MCN2021 Slack Channel for the link and password!\n\nPlease note that you can access captions in Spacial Chat through Google Chrome: https://help.spatial.chat/hc/en-us/articles/4406143472018-Live-Captioning-
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:e3dfcba2a595661fe3462a6daffc206c
+URL:http://mcn2021virtual.sched.com/event/e3dfcba2a595661fe3462a6daffc206c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211109T170000Z
+DTEND:20211109T171500Z
+SUMMARY:Welcome to Big Ideas!
+DESCRIPTION:Kick off the Big Ideas track with your track co-leads.
+CATEGORIES:BIG IDEAS
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:6f344b8a552aeb5e70304d7cb345cb58
+URL:http://mcn2021virtual.sched.com/event/6f344b8a552aeb5e70304d7cb345cb58
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211109T171500Z
+DTEND:20211109T180000Z
+SUMMARY:Big Ideas Keynote: Porchia Moore
+DESCRIPTION:What is digital in the context of today’s civil rights movement\, and the growing backlash against it? What big ideas are needed to advance equity within our digital work? Join nikhil and Porchia for a candid conversation on all this and more.
+CATEGORIES:PLENARY/KEYNOTE
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:afec161432a6b5d3162346b0daa6d789
+URL:http://mcn2021virtual.sched.com/event/afec161432a6b5d3162346b0daa6d789
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211109T181500Z
+DTEND:20211109T190000Z
+SUMMARY:The Mythologies of Museums
+DESCRIPTION:In an era of radical introspection and desire for change\, we need to understand our shared mythologies about museums\, practical examples of how we can do things differently\, and the ripple effect across the organization for our most basic decisions. This session uses a panel to discuss and interrogate these fundamental myths: Collections\, Academic / Scholarly Purpose\, Digital Will Save Us\, Sources of Money\, Programming\, Question of Campus / Buildings\, and Staffing. We can do things differently.
+CATEGORIES:BIG IDEAS
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:5d4221a7f48dd3fa0a59d19a9fd058b3
+URL:http://mcn2021virtual.sched.com/event/5d4221a7f48dd3fa0a59d19a9fd058b3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211109T181500Z
+DTEND:20211109T190000Z
+SUMMARY:We can do more together: sharing a collection management system
+DESCRIPTION:Since the mid-1990s\, six museums in Western Massachusetts have shared one CMS. The arrangement enables significant collaboration on research and exhibitions\, reduces certain costs and regional collection redundancies\, and allows the public to search all six repositories’ collections at once. Using the example of a current project to correct metadata about and enhance access to Indigenous American collections\, this session will detail how the shared CMS promotes collaborative data creation\, management\, and cost-sharing.
+CATEGORIES:BIG IDEAS
+LOCATION:Channel 4\, Virtual
+SEQUENCE:0
+UID:2e03f8daff872b32c491e8d9da590ee9
+URL:http://mcn2021virtual.sched.com/event/2e03f8daff872b32c491e8d9da590ee9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211109T181500Z
+DTEND:20211109T190000Z
+SUMMARY:“It’s not a companion.” One story. Two exhibitions.
+DESCRIPTION:Online exhibitions are often “companion websites” to a museum exhibition. During the development of the US Holocaust Memorial Museum’s new special exhibition\, Burma’s Path to Genocide\, we created two experiences to meet the needs of audiences while adhering to the same guiding principles and content goals. This session will explore digital storytelling for web and physical spaces and share techniques for making decisions that are audience-centered and subject-centered.
+CATEGORIES:BIG IDEAS
+LOCATION:Channel 3\, Virtual
+SEQUENCE:0
+UID:44c04616a5f0c0fdf95986208856414d
+URL:http://mcn2021virtual.sched.com/event/44c04616a5f0c0fdf95986208856414d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211109T191500Z
+DTEND:20211109T200000Z
+SUMMARY:Digital Collections as Product
+DESCRIPTION:This session will approach the question: "What is the future of online collections?" As many examples move from standalone project to long-running product\, what do they look like and who are they for? How do they fit within a museum's digital content architecture—and within the context of the internet as a whole? As they shift beyond an object-centered model focused on data publishing to a user-centered one\, how does that impact how they are designed\, developed\, maintained\, and funded?
+CATEGORIES:BIG IDEAS
+LOCATION:Channel 2\, Virtual
+SEQUENCE:0
+UID:f49d714edb8651f45b2e68deec39c99d
+URL:http://mcn2021virtual.sched.com/event/f49d714edb8651f45b2e68deec39c99d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211109T191500Z
+DTEND:20211109T200000Z
+SUMMARY:Lost Jobs\, Found Voices: A Documentary Theatre Exploration of Professional Loss
+DESCRIPTION:What does a digital record of the professional loss we experienced in 2020 look like? We propose a project using creative storytelling to document stories of professional loss experienced. Cultural workers experienced displacement—whether through layoffs\, untenable working conditions\, or family caregiving. We propose a project that we will debut during MCN 2021— a documentary audio play based on interviews conducted with museum workers who experienced pandemic-related career transitions.
+CATEGORIES:BIG IDEAS
+LOCATION:Channel 4\, Virtual
+SEQUENCE:0
+UID:36cd0da3ac47705d1705fca7d114916c
+URL:http://mcn2021virtual.sched.com/event/36cd0da3ac47705d1705fca7d114916c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211109T191500Z
+DTEND:20211109T200000Z
+SUMMARY:Pandemic-Era Video Showcase and Critique
+DESCRIPTION:The pandemic forced video creators to navigate the challenges of producing video in less-than-ideal circumstances\, no doubt sparking innovations and ideas that will have a lasting impact on museum video production. By screening a selection of audience-submitted video projects\, this showcase will highlight these new ideas\, delivering expert feedback to participating producers and serving as inspiration for content creators of all kinds.
+CATEGORIES:BIG IDEAS
+LOCATION:Channel 3\, Virtual
+SEQUENCE:0
+UID:bb6fefed362bda0a8c27132a848ad2c1
+URL:http://mcn2021virtual.sched.com/event/bb6fefed362bda0a8c27132a848ad2c1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211109T201500Z
+DTEND:20211109T210000Z
+SUMMARY:Big Ideas! Recap
+DESCRIPTION:Review and discuss the key ideas that came out of the day with co-leads and presenters. More about how this session will be structured soon.
+CATEGORIES:BIG IDEAS
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:726a5dd129f6defd1be50944b4586bbc
+URL:http://mcn2021virtual.sched.com/event/726a5dd129f6defd1be50944b4586bbc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211109T210000Z
+DTEND:20211109T220000Z
+SUMMARY:Speed Networking 10 sponsored by Lucidea
+DESCRIPTION:Join facilitators Eric Longo and Don Youngberg to meet other MCN attendees with some speed networking!\nEach session consists of a series of breakout rooms with several participants.Tell us where you're from\, what you're curious about\, and more—just be quick!Every session lasts only 30 minutes and accommodates up to 80 participants.Advance sign-up required.\nBrought to you by Lucidea.
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:1e0232dc6880a9eaa6a9830e2a4721d5
+URL:http://mcn2021virtual.sched.com/event/1e0232dc6880a9eaa6a9830e2a4721d5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211110T010000Z
+DTEND:20211110T020000Z
+SUMMARY:Karaoke
+DESCRIPTION:MCN KARAOKE IS HERE. We may not be able to completely take over a local karaoke place\, but we can still gather\, dance\, laugh\, and sing our hearts out together. MCN Karaoke is a judgement-free space and is welcoming to all. You don't even have to sing to attend! We're so glad you almost made it\, and while everybody wants to rule the world\, we won't stop believing that we're all tiny dancers who are just living on a prayer. \n\nHere's some info to help make your karaoke experience the absolute BEST:\n\n* Use headphones for your audio. Without headphones\, your audio might cut in and out when you're singing\, and we want to be able to hear you!\n\n* We're asking people to prepare their own songs on YouTube and share their screens while they sing. To find a karaoke song on YouTube\, go to youtube.com\, type the name of your song + karaoke\, e.g.\, "bohemian rhapsody karaoke". Take a listen to the first few results\, and you should find one that works.\n\n* Join the #karaoke Slack channel for karaoke updates!
+CATEGORIES:NETWORKING/SOCIAL
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:e3bbd2fa60bcef9027024678ad70495c
+URL:http://mcn2021virtual.sched.com/event/e3bbd2fa60bcef9027024678ad70495c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211110T160000Z
+DTEND:20211110T170000Z
+SUMMARY:Digital Transitions Presents: Film Scanning in the Modern Era
+DESCRIPTION:Digitizing film and transmissive materials can be a complex process\, but Digital Transitions' modern tools and processing methods make preservation grade imaging accessible to institutions of all sizes. Learn the basics of handling\, capture\, and image processing with DT Heritage solutions in this session with product manager Arnab Chatterjee.
+CATEGORIES:SPONSOR HOURS
+LOCATION:Virtual
+SEQUENCE:0
+UID:db0e240fd768aed88880986141da42dd
+URL:http://mcn2021virtual.sched.com/event/db0e240fd768aed88880986141da42dd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211110T170000Z
+DTEND:20211110T180000Z
+SUMMARY:Global Recap Panel
+DESCRIPTION:Join Ross Parry and Lauren Vargas in conversation with the track leads as they will attempt to synthesize the key takeaways\, trends and insights from MCN 2021.
+CATEGORIES:PLENARY/KEYNOTE
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:3556e86f6f765af0e1cc449049174cd9
+URL:http://mcn2021virtual.sched.com/event/3556e86f6f765af0e1cc449049174cd9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211110T180000Z
+DTEND:20211110T193000Z
+SUMMARY:Open Space Discussions sponsored by L2 Interactive
+DESCRIPTION:Interested in continuing an earlier conference discussion? Is there a topic you wish was covered during MCN 2021\, but it wasn't? Are you looking for other attendees who might have the same questions as you? Welcome to Open Space Discussions (OSD).\n\nDuring this session\, we will gather topics and designate a breakout room and a time for your discussion. Session attendees can participate in any of the dozens of topical sessions generated and may move from topic to topic as often as desired. Come and discover the most fruitful conference experience since the coffee break.\n\nBrought to you by L2 Interactive.
+CATEGORIES:BIG IDEAS
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:bec8a67cb4ee098fb4497d5a66a9a729
+URL:http://mcn2021virtual.sched.com/event/bec8a67cb4ee098fb4497d5a66a9a729
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211110T194500Z
+DTEND:20211110T201500Z
+SUMMARY:Closing Keynote: Cyd Harrell
+DESCRIPTION:The Civic Digital Sphere\n\nThere are many lessons for digital practitioners from the pandemic\, and even more questions. Cyd will bring together stories from safety net services\, courts\, and vaccine rollouts to ask how practitioners across the public sector can work together to lay the groundwork for a more resilient & rich digital public sphere in the future.
+CATEGORIES:PLENARY/KEYNOTE
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:811f8ca71dbe64311238267215edde94
+URL:http://mcn2021virtual.sched.com/event/811f8ca71dbe64311238267215edde94
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211117T040201Z
+DTSTART:20211110T201500Z
+DTEND:20211110T204500Z
+SUMMARY:Closing Send Off
+DESCRIPTION:Stay to hear Yvonne Lee\, MCN incoming President for 2021\, Seema Rao\, incoming VP/President-Elect\, and Eric Longo conclude MCN 2021 and share some exciting announcements.
+CATEGORIES:PLENARY/KEYNOTE
+LOCATION:Channel 1\, Virtual
+SEQUENCE:0
+UID:37aaca1ff38338b495408638955ffebe
+URL:http://mcn2021virtual.sched.com/event/37aaca1ff38338b495408638955ffebe
+END:VEVENT
+END:VCALENDAR

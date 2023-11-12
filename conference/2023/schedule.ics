@@ -1,0 +1,1017 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:mcn2023
+X-WR-CALDESC:Event Calendar
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+PRODID:-//Sched.com MCN 2023//EN
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231108T170000Z
+DTEND:20231108T220000Z
+SUMMARY:Digital Publishing Workshop
+DESCRIPTION:Please note that this workshop is taking place at the Van Pelt Library—not the Penn Museum. Attendees must register for both the conference and the workshop. Workshop registration is free and&nbsp\;available&nbsp\;using this form.\n\nJoin Price Lab for Digital Humanities and Penn Libraries for a deep dive into digital publishing and Quire\, Getty’s open-source publishing tool. This free series of events is open to all MCN attendees. Separate registration is required. Pick one session or attend them all!\n\n12:00–1:00 p.m.\, Digital Publishing Roundtable\nA conversation from the perspective of publishers\, editors\, and authors around two popular publishing tools: Quire and Manifold. Lunch provided.\n\n1:30–2:30 p.m.\, Quire Demo\nLearn about Quire and get a demonstration of how it works\, including using the command-line application and a text editor to get a project up and running.\n\n3:00–5:00 p.m.\, Hands-on Quire Workshop\nGet direct experience navigating and using Quire\, from creating a new project with a starter template to editing content and outputting the publication as a website and PDF.\n\nMore information: https://quire.getty.edu/community/mcn-upenn-event/\n\n\n
+CATEGORIES:SOCIAL
+LOCATION:Van Pelt Library\, 3420 Walnut St\, Philadelphia\, PA 19104\, USA
+SEQUENCE:0
+UID:ed27127709b8e8347ea5f30df22b4dfe
+URL:http://mcn2023.sched.com/event/ed27127709b8e8347ea5f30df22b4dfe
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231108T230000Z
+DTEND:20231108T233000Z
+SUMMARY:Conference Registration and Badge Pick-up
+DESCRIPTION:All registered conference attendees are invited to pick up their badges and other conference materials at World Cafe Live during the Ignite reception. Doors for Ignite open at 6 p.m.\, talks begin promptly at 6:30 p.m.
+CATEGORIES:SOCIAL
+LOCATION:World Cafe Live - Lobby/Foyer\, 3025 Walnut St\, Philadelphia\, PA 19104\, USA
+SEQUENCE:0
+UID:499804591b0df2e7e69ee5c3e755bcf2
+URL:http://mcn2023.sched.com/event/499804591b0df2e7e69ee5c3e755bcf2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231108T230000Z
+DTEND:20231109T010000Z
+SUMMARY:Ignite Reception
+DESCRIPTION:Our signature welcome event\, MCN Ignite showcases a series of rapid-fire talks from creative thinkers in the museum field.Expect lots of energy with fresh\, inspiring\, and timely ideas from familiar faces\, and emerging voices in the field and beyond.” Talks follow the “Ignite” format\, in which presenters have five minutes and 20 slides (which advance automatically every 15 seconds) to enlighten\, entertain\, and inspire. Hear from several brave and visionary speakers sharing their experiences in a wide variety of disciplines:&nbsp\;\nBrad Baer\nMax Evjen\nPaul Marty\nJeremy T. Munro\nSara Pitcairn\nKellian Pletcher\nMatt Tarr\nSynatra Smith\nRik Vanmechelen\nAngela Val \nThis reception is included in the cost of registration\; no separate ticket is required.\n
+CATEGORIES:SOCIAL
+LOCATION:World Cafe Live\, 3025 Walnut St\, Philadelphia\, PA 19104\, USA
+SEQUENCE:0
+UID:e1ce751a8ff3f8017148773689756e6a
+URL:http://mcn2023.sched.com/event/e1ce751a8ff3f8017148773689756e6a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T133000Z
+DTEND:20231109T213000Z
+SUMMARY:Community Partner Forum
+DESCRIPTION:Meet with MCN's Community Partners in the Harrison Lobby. You can connect with representatives from:AtenCollector SystemsDouble Eagle ConsultingForum OneNavigation NorthQuire&nbsp\;Zetcom
+CATEGORIES:SOCIAL
+LOCATION:1. Penn Museum - Harrison Lobby\, 3260 South St\, Philadelphia\, PA 19104\, USA
+SEQUENCE:0
+UID:054c2771f7c56dd0bee756515398ed5d
+URL:http://mcn2023.sched.com/event/054c2771f7c56dd0bee756515398ed5d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T133000Z
+DTEND:20231109T143000Z
+SUMMARY:Conference Registration and Badge Pick-up
+DESCRIPTION:All registered conference attendees are invited to pick up their badges and other conference materials at the Penn Museum in the Sphinx Foyer.&nbsp\;
+CATEGORIES:SOCIAL
+LOCATION:2. Penn Museum - Sphinx Foyer\, 3260 South St\, Philadelphia\, PA 19104\, USA
+SEQUENCE:0
+UID:78b687ce216d6fbd53d071ecacd8439f
+URL:http://mcn2023.sched.com/event/78b687ce216d6fbd53d071ecacd8439f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T133000Z
+DTEND:20231109T143000Z
+SUMMARY:Light breakfast
+DESCRIPTION:Enjoy coffee\, tea\, and pastries in the Harrison Lobby before we kick off the day with Welcome Remarks.
+CATEGORIES:SOCIAL
+LOCATION:1. Penn Museum - Harrison Lobby\, 3260 South St\, Philadelphia\, PA 19104\, USA
+SEQUENCE:0
+UID:4101cc47154f4e208a76eba10bcd976f
+URL:http://mcn2023.sched.com/event/4101cc47154f4e208a76eba10bcd976f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T143000Z
+DTEND:20231109T213000Z
+SUMMARY:Conference Registration and Badge Pick-up
+DESCRIPTION:All registered conference attendees are invited to pick up their badges and other conference materials at the Penn Museum in the Harrison Lobby.&nbsp\;
+CATEGORIES:SOCIAL
+LOCATION:1. Penn Museum - Harrison Lobby\, 3260 South St\, Philadelphia\, PA 19104\, USA
+SEQUENCE:0
+UID:08849689091bd22d99f73241fd670570
+URL:http://mcn2023.sched.com/event/08849689091bd22d99f73241fd670570
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T143000Z
+DTEND:20231109T151500Z
+SUMMARY:Welcome Remarks
+DESCRIPTION:Join us to kick off MCN 2023 with a brief welcome and overview of the organization\, and an intro to the conference and platforms.
+CATEGORIES:SOCIAL
+LOCATION:3. Penn Museum - Harrison Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:ff7820b983ba7e915d068117e0454209
+URL:http://mcn2023.sched.com/event/ff7820b983ba7e915d068117e0454209
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T151500Z
+DTEND:20231109T153500Z
+SUMMARY:Break
+DESCRIPTION:
+CATEGORIES:BREAK
+LOCATION:Penn Museum and larger campus\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:7d933885b629b6f4daf93a3334161cb5
+URL:http://mcn2023.sched.com/event/7d933885b629b6f4daf93a3334161cb5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T153500Z
+DTEND:20231109T155000Z
+SUMMARY:Putting Users First: Building the Foundation of UX Research and Design at the National Gallery of Art
+DESCRIPTION:Enhancing the user experience and cultivating meaningful connections with our collection require a deliberate focus on user-centered design and the development of robust and sustainable UX capacity. We aim to explore the significance of building UX capacity from the ground up at the National Gallery and the key actions we took to increase the usage of UX research and design methods as well as tools in the production of digital experiences and initiatives across departments. Examples of these actions include establish UX design and research process\, UX book club\, sharing analytic insights at department meetings\, trainings\, providing research and design tools\, and establish a communication strategy across departments in the museum. We will also discuss the challenges faced during UX capacity building and explore which methods were successful and which were not. This presentation points out practical implications for museums that want to increase and improve their internal UX practices.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:3b0badd4f5ac08a00ce30125489e9ddf
+URL:http://mcn2023.sched.com/event/3b0badd4f5ac08a00ce30125489e9ddf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T153500Z
+DTEND:20231109T162000Z
+SUMMARY:#FYP: Managing Short-Form Video for your Museum
+DESCRIPTION:Video is king. From Instagram\, to TikTok\, and YouTube shorts\, short-form vertical video has taken over the social media landscape. This session will talk about the tips\, tricks\, and resources for creating short-form videos for social media\, highlighting the successes\, showcasing the videos that tanked and why\, and examining the algorithmic quirks of various social media platforms. Speakers will discuss how they approach video projects\, story-boarding\, script-writing\, picking a space or greenscreen\, enlisting on-screen personalities\, and choosing the right music. Speakers will discuss the peaks and pitfalls to social media video creation and ever-changing trends.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:3. Penn Museum - Harrison Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:57def85c43434c74d1d474fcdcb035d9
+URL:http://mcn2023.sched.com/event/57def85c43434c74d1d474fcdcb035d9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T153500Z
+DTEND:20231109T162000Z
+SUMMARY:Open Space Discussion - Opening Circle
+DESCRIPTION:Interested in continuing an earlier conference discussion? Is there a topic you wish was covered during MCN 2023\, but it wasn't? Are you looking for other attendees who might have the same questions as you? Welcome to Open Space Discussions (OSD)!\n\nDuring this Opening Circle\, you will generate session topics for discussions that will take place over the next two days.\n\nUsing topics generated during the Opening Circle and throughout the conference\, we will designate a breakout space and a time for each discussion. Session attendees can participate in any of the dozens of topical discussions and may move from topic to topic as often as desired.
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:9e7ccb398744c513f8e96eb484c19a15
+URL:http://mcn2023.sched.com/event/9e7ccb398744c513f8e96eb484c19a15
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T155000Z
+DTEND:20231109T160500Z
+SUMMARY:Hooked on a Feeling: Creating Mood Journeys To Connect Visitors With the Museum\, and Each Other
+DESCRIPTION:Emerging from the COVID-19 pandemic\, museums have an opportunity to reconnect with audiences in new ways. The Culture Track research from 2020 and 2021 shows that art museum visitors are seeking experiences that are beautiful\, challenging\, thought provoking or emotionally powerful. In the third release of the GettyGuide® app\, the J. Paul Getty Museum has launched Mood Journeys\, a new experience built not so much on learning about art\, architecture\, and gardens\, but exploring them on one’s own terms through moods or feelings\, with some mindfulness practice built in. Visitors at the Getty Center can select from five moods–Calm and Serene\, Creative and Inspired\, Melancholy and Wistful\, Connected and Loving\, Adventurous and Brave–to experience hand-picked destinations and activities designed\, per mood\, to generate states of reflection\, relaxation\, energy\, comfort\, and pure delight. This session will present key takeaways from the development and evaluations of Mood Journeys. These findings not only inform the current expansion to the Museum’s second location at the Getty Villa\, but also may inspire other institutions to consider creative ways of connecting with visitors on a human level\, through our shared experience with feelings. Download GettyGuide: Product page: https://www.getty.edu/visit/app/ iPhone/App Store: https://apps.apple.com/us/app/gettyguide/id1488527711 Android/Google Play: https://play.google.com/store/apps/details?id=net.artprocessors.gettyguideandroid&pli=1
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:72c84dd6e05170c5e3b9f376abdf58f9
+URL:http://mcn2023.sched.com/event/72c84dd6e05170c5e3b9f376abdf58f9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T160500Z
+DTEND:20231109T162000Z
+SUMMARY:Delocalizing tourist flows through innovative museum heritage engagement solutions: the pilot case of the WAT(H)ER project in Rome
+DESCRIPTION:Overtourism causes huge problems of environmental sustainability\, as well as requires strong supporting actions by local administrative bodies\, which need to deal more carefully with issues of administration\, public order\, cleanliness\, transportation and security in some areas at the expense of others. The case of the city of Rome is particularly revealing: every day in Rome there are 1mln more people than its inhabitants visiting and crowding the city's most important heritage sites and museums in the city center\; little or nothing reaches the suburbs. According to some studies\, if tourist flows are relocated and oriented toward cultural routes\, the economic and social enhancement of the entire community of the city could improve(see Dallas example). In this direction\, digital instrumentation would be able to provide innovative solutions for economic and cultural valorization. Starting from this premises\, within the WAT(H)ER project\, we realize an itinerary to dislocate the huge flow of tourists who visit the Pantheon in Rome\, by proposing an alternative and digital tourist experience\, available through a WebApp\, of Rione Testaccio\, a characteristic district of Rome not much visited by tourists. In particular\, the WebApp allows tourists to: use an interactive map of a designed Testaccio tour with multilingual captions and support for the visually impaired\; acquire specific contents on the selected cultural point of the tour\; explore the cultural points of the tour through a virtual assistant\; participate in a treasure hunt to win a special Roman street food prize\; promote critical thinking and creativity skills through specific digital learning activities related to the Teastaccio’s tour. To achieve the goals mentioned above\, the app is equipped with the following functions: geolocalisation\; user characteristics questionnaire\; learning quizzes\; virtual assistant in AR mode. During the session\, Webapp’s features and the results of the pilot phase will be presented.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:6b310a2b27abdcec8de3f4abc5f5a518
+URL:http://mcn2023.sched.com/event/6b310a2b27abdcec8de3f4abc5f5a518
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T162000Z
+DTEND:20231109T164000Z
+SUMMARY:Break - Coffee refresh
+DESCRIPTION:Refresh your coffee\, tea\, or water between sessions!
+CATEGORIES:BREAK
+LOCATION:Penn Museum and larger campus\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:9d4404a18bf92bda6c21cd57d70583f7
+URL:http://mcn2023.sched.com/event/9d4404a18bf92bda6c21cd57d70583f7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T164000Z
+DTEND:20231109T172500Z
+SUMMARY:LUX: Cross-Collection Discovery at Yale
+DESCRIPTION:Yale University has launched an innovative discovery platform\, LUX\, that brings together collections from our museums\, libraries\, archives and special collections. For the first time\, anyone researching or engaging with those items will be able to easily access and view them online in a single environment. Using Linked Open Data\, we have connected the distinct collections through shared relationships to common people\, places\, events and concepts. This allows a user to search\, e.g. for “Trumbull” and find objects created by John Trumbull in two art museums\, his archives and books about him held in the library\, connecting from one record to another rather than via multiple searches. The platform allows both traditional full text search and faceting\, along with graph queries via an intuitive user interface. All Yale-provided metadata in LUX is made available under CC-0. The design and development process has equally enriched our institutional culture by connecting staff and departments in unforeseen ways\, inspired a more collaborative workplace\, a more engaged and enthusiastic workforce\, resulting in a more sustainable digital product. We introduced a governance framework that gives all partners an equal say in technology work that supports the units and scales to support existing and new projects\, including our Bias Awareness and Responsibility Committee which is identifying issues and solutions that address bias and systemic racism in how Yale describes and presents its cultural heritage collections. This presentation will be given by three speakers from different parts of the University that were involved in the collaborative efforts to develop the product. It will cover the background and rationale for the work\, the technology choices\, and the impacts of the project necessary for its sustainability. A demo of the product will be included\, and care taken to engage with how the success of LUX can be built on by other organizations\, using the open-sourced codebase.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:c996b976cd4bfe94a98f6872646ab11e
+URL:http://mcn2023.sched.com/event/c996b976cd4bfe94a98f6872646ab11e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T164000Z
+DTEND:20231109T172500Z
+SUMMARY:Strengthening Cultural Organizations at Bloomberg Philanthropies
+DESCRIPTION:In this session\, panelists from the Arts team at Bloomberg Philanthropies will reflect on the trends and themes in digital projects that have emerged in recent years amongst grantees\, as seen through two of the Foundation's flagship programs: Bloomberg Connects and the Digital Accelerator Program.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:3. Penn Museum - Harrison Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:dbc1eaf389fb25a9f980926dc7009b94
+URL:http://mcn2023.sched.com/event/dbc1eaf389fb25a9f980926dc7009b94
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T164000Z
+DTEND:20231109T172500Z
+SUMMARY:Speed Networking
+DESCRIPTION:Join facilitator Alice Walker to meet other MCN attendees with some speed networking!\nEach session consists of a series of breakout spaces with several participants.Tell us where you're from\, what you're curious about\, and more—just be quick!
+CATEGORIES:SOCIAL
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:893dc937eccf7c2312633defe9fef96b
+URL:http://mcn2023.sched.com/event/893dc937eccf7c2312633defe9fef96b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T172500Z
+DTEND:20231109T184500Z
+SUMMARY:Lunch (No host)
+DESCRIPTION:Enjoy the extended break to meet with conference contacts\, old and new\, over lunch. Check out this list of locally curated restaurants\, coffee shops\, and more close to the conference venue.
+CATEGORIES:SOCIAL
+LOCATION:Penn Museum and larger campus\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:3f6f80c6804300505fd2229ddee7d31a
+URL:http://mcn2023.sched.com/event/3f6f80c6804300505fd2229ddee7d31a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T184500Z
+DTEND:20231109T190000Z
+SUMMARY:Chasing Waterfalls: Collections & Cascading Content Strategy
+DESCRIPTION:For art museums\, digitization and rich cataloging are just the first step toward activating the reach and potential of the museum collection. Museums\, particularly museums with limited staff and exhibition space\, must find accessible and creative ways to bring collection works to their audiences\, and to showcase the deep relevancy of the collection to a wide range of interests. Digital collections projects offer the exciting possibility to connect a museum’s holdings directly and nimbly to the themes of most relevance to its communities. While the work of such projects is often within technical reach\, it requires strong coalition building and cross-institutional buy in to invest\, champion\, and asses the value of “born digital” projects.\nThe Block Museum of Art at Northwestern University has centered the teaching and learning potential of its collection with just such an ongoing project. Now in its fourth year\, the museum has created a robust annual collection project tied to the University’s “One Book” selection\, where curatorial staff select a group of collection artworks that illuminate or interrogate the themes of the campus’ common reading. This selection then becomes the backbone for yearlong digital engagement. The content is cascaded into a series of online offerings including PDF booklets\, image download packages\, collection highlights\, blog posts\, zoom lectures\, and social media videos – ensuring that the selections\, and the collection itself\, become a staple of campus dialogue throughout the year. For The Block “One Book” highlights have become the most viewed pages across online properties\, rendering measurable engagement and time-on-site data that have helped us rethink how we define the idea of visitation itself.\nIn this panel Block curatorial and marketing staff will discuss working collaboratively with collections content cross-platform and share how the project has realigned the museum’s approach to digital engagement.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:72ccae99d518b2d4ab49c58c1b0c8504
+URL:http://mcn2023.sched.com/event/72ccae99d518b2d4ab49c58c1b0c8504
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T184500Z
+DTEND:20231109T193000Z
+SUMMARY:Artificial Intelligence and Museum Learning: Friends or Foes?
+DESCRIPTION:Does widespread access to Artificial Intelligence (AI) tools--such as Chat GPT--signal the end of museum authority and engagement as we know it? Or can museums leverage AI systems to attract visitors\, deepen public engagement\, and more easily & productively achieve our mission goals? The interactive format of this panel will explore the opportunities and challenges presented by AI and highlight key roles museums can play in broadening public access to\, and interest in\, cultural heritage. Audience will use a smartphone-based polling tool to visualize whether attendees view AI as either a “Friend” or “Foe” at the start of the session. Each panelist will then present a 10-minute argument on one or more relevant AI topics from the perspective of museum workers (e.g.\, AI assistance in productivity\, content generation\, design development\,…) as well as that of the visitors (discoverability\, customization\, outreach\, validation). Attendees can submit questions/comments for panelists to answer during the last part of the session. An exit poll will ask how attendees' thoughts about AI might have shifted during the session. For an introduction to some of the AI topics to be discussed\, watch this video.&nbsp\;
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:3. Penn Museum - Harrison Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:e32ff714e3c31e42dedc082757fb4698
+URL:http://mcn2023.sched.com/event/e32ff714e3c31e42dedc082757fb4698
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T184500Z
+DTEND:20231109T193000Z
+SUMMARY:Open Space Discussions
+DESCRIPTION:Interested in continuing an earlier conference discussion? Is there a topic you wish was covered during MCN 2023\, but it wasn't? Are you looking for other attendees who might have the same questions as you? Welcome to Open Space Discussions (OSD)!\n\nUsing topics generated during the Opening Circle and throughout the conference\, we will designate a breakout space and a time for each discussion. Session attendees can participate in any of the dozens of topical discussions and may move from topic to topic as often as desired.
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:485c572e696a2c82b099375f80c4da18
+URL:http://mcn2023.sched.com/event/485c572e696a2c82b099375f80c4da18
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T190000Z
+DTEND:20231109T191500Z
+SUMMARY:Copyright & Emerging Technologies for Museums
+DESCRIPTION:With the constant advent of new technologies\, museums are continually faced with evolving opportunities and challenges regarding collection stewardship\, community engagement\, operations\, and mission fulfillment. Copyright\, as a critical legal framework in the intersection of technology and culture\, plays an important role in ensuring preservation and access is available for all communities\, and also incentivizing the creation of works that will fill the halls of cultural institutions for generations to come. However\, rapidly-developing technologies\, for example artificial intelligence (AI)\, have raised numerous copyright issues about how creators and caretakers of heritage works utilize and interact with these emerging technologies and their associated content\, prompting revisiting and potentially reimagining key copyright concepts.&nbsp\;\n&nbsp\;\nThis presentation will assist museum and technologist stakeholders by identifying relevant issues and providing guidance to navigate the copyright legal framework in the context of these emerging technologies. In addition to overviewing the issue landscape\, the presentation will share information on the Copyright Office’s AI initiative\, detail how new AI guidance from the Copyright Office can assist museum and technology professionals\, and provide information on free educational resources available from the Copyright Office.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:60075de417d33a7416385837a91d18ac
+URL:http://mcn2023.sched.com/event/60075de417d33a7416385837a91d18ac
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T191500Z
+DTEND:20231109T193000Z
+SUMMARY:The Stories We Carry: Technology and American Art
+DESCRIPTION:In 2020\, the Seattle Art Museum embarked on a two year\, grant funded project to overhaul our American Art galleries. The change was much needed. For the last 15 years\, American Art at SAM represented something very singular and exclusive: landscapes and portraits by White\, male artists. Visitors left feeling like their identities\, stories\, and culture were not represented.\nThis case-study session tells the story of how our team used technology to shift the narrative around American Art and create a dynamic\, engaging\, and inclusive visitor experience.\nIt all starts at the entrance to American Art: The Stories We Carry. The first thing visitors encounter is an audio recording playing a welcome in Lushootseed\, the language spoken by several native tribes in the Pacific Northwest. As you move into the galleries\, instead of just reading tombstone labels\, visitors can also engage with a series of Living Labels—short videos featuring voices from artists\, scientists\, and community leaders responding to the works on view. Additionally\, artworks are made more accessible via a verbal description tour available on our smartphone tour platform\, allowing visitors with low/no vision to engage more fully with the galleries. Finally\, visitors can participate in the Share Your Story interactive\, which allows visitors to take a self-portrait\, share a story about identity\, art or culture\, and submit their response to a projected gallery. This interactive achieves something important: it allows people to see themselves on the walls of an art museum\, and contribute to an ever-changing dialogue around American Art.\nNovember 2024 marks the one year anniversary for the opening of SAM’s reimagined American Art galleries. Since launch\, we’ve learned a tremendous amount through observation\, data gathering and feedback. In our session\, we’ll share what worked and what didn’t\, our successes and challenges\, in the hopes that it can better inform and support the work we do as a museum community.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:451c096644d8fec84ffb82e46d4b0ce8
+URL:http://mcn2023.sched.com/event/451c096644d8fec84ffb82e46d4b0ce8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T193000Z
+DTEND:20231109T195000Z
+SUMMARY:Break
+DESCRIPTION:
+CATEGORIES:BREAK
+LOCATION:Penn Museum and larger campus\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:cb34f9315559b97457bb58da55813729
+URL:http://mcn2023.sched.com/event/cb34f9315559b97457bb58da55813729
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T195000Z
+DTEND:20231109T200500Z
+SUMMARY:From the research project through to experimentation: how to create a continuum of educational activity between the museum and the classroom?
+DESCRIPTION:In this presentation\, we explore the journey from research to experimentation\, focusing on creating an educational continuum between the museum and the classroom. We emphasize the seamless integration of educational activities\, driven by the need to enhance traditional museum visits using digital technologies and to transform passive observation into active learning experiences by bridging the physical and digital realms.\n\nInsights gained from the collaborative research phase involving university researchers\, museums\, and our digital agency will be shared. We highlight the specific needs and challenges faced by schools during museum visits\, which informed our project.\n\nThree key perspectives will be shared: Jean Marc Chabannes' expertise in education and training studies\, François Roirand's technical and solution architecture insights\, and Julien Vialette's UX expertise. Each participant addresses the unique challenges encountered when implementing a museum-school continuum\, encompassing technical aspects and user experience considerations.\n\nFurthermore\, we address the user experience challenges involved in ensuring a smooth transition between the museum and the classroom. We emphasize the importance of aligning learning objectives\, activities\, and assessments in both environments. Pre- and post-visit resources are highlighted as valuable tools for fostering deeper understanding and reflection.\n\nThroughout the presentation\, we showcase practical examples and case studies from collaborations with la Cité des Télécoms\, the Musée of Saint Romain en Gal\, and the Musée des Arts et Métiers to demonstrate the successful implementation of the museum-school continuum\, the positive impact on student engagement\, knowledge retention\, and critical thinking skills.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:7d4f76cc45677efccaa5e5eb0a7802b5
+URL:http://mcn2023.sched.com/event/7d4f76cc45677efccaa5e5eb0a7802b5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T195000Z
+DTEND:20231109T203500Z
+SUMMARY:Museum Websites Reconsidered: What is a museum website for anyway?
+DESCRIPTION:This panel will discuss the website redesign processes of three renowned institutions with large\, complex sites: The Cleveland Museum of Art (CMA)\, The Metropolitan Museum of Art (The Met)\, and The National Gallery of Art (NGA). Each museum is undergoing website development with distinct approaches: The CMA is launching a complete overhaul in Fall 2023\, with emphasis on backend application integration\, workflows\, and component-driven design. The NGA is in ongoing development\, planning to launch in Spring 2024. The Met is adopting an incremental re-platforming strategy\, addressing problems dynamically and "building the plane while it's flying". Despite different approaches\, each institution aims to enhance accessibility\, innovation\, and engagement\, providing visitors with exceptional online experiences.&nbsp\;\n\nThis session examines decisions behind each approach\, highlighting successes\, failures\, platform selection\, internal processes\, external collaboration\, accessibility\, audience reach\, e-commerce integration\, and lessons learned from the pandemic. In addition\, presenters will discuss data and analytics\, including the shift from UA to GA4.&nbsp\;\n\nWe will spotlight collection online innovations like AI-powered search capabilities\, high-resolution imagery\, and 3D models. We’ll explore online engagement tools\, games\, and AI experiments\, and possibilities of leveraging ChatGPT\, with fun and innovative examples of collection interaction such as NGA's Artle\, The Met's Chroma AR Experience\, and CMA's ArtLens AI online toolsets.&nbsp\;\n\nFinally\, we’ll touch on the context of emerging tech\, including Web3\, blockchain\, and the Metaverse. These new directions offer exciting opportunities and may challenge assumptions about how art museum websites must provide curated online experiences of art appreciation. Fundamentally: Where should museum websites focus as we build toward the future?
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:3. Penn Museum - Harrison Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:fa4337f9d09d4da66524775693d465a7
+URL:http://mcn2023.sched.com/event/fa4337f9d09d4da66524775693d465a7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T195000Z
+DTEND:20231109T203500Z
+SUMMARY:Circle 3 - IT Trending Topics. Join the IT SIG for a roundtable discussion
+DESCRIPTION:
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:5cd7affef9e224bed447bb4042750a82
+URL:http://mcn2023.sched.com/event/5cd7affef9e224bed447bb4042750a82
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T195000Z
+DTEND:20231109T203500Z
+SUMMARY:Circle 5 - When you're stuck being the glue: exposing the invisible work
+DESCRIPTION:
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:dbc5aaaacf20e7af747cbfc6b322ef4d
+URL:http://mcn2023.sched.com/event/dbc5aaaacf20e7af747cbfc6b322ef4d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T195000Z
+DTEND:20231109T203500Z
+SUMMARY:Circle 6 - The #musetech BAND How do we make it happen???
+DESCRIPTION:
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:ce79592675ed9f08df32e3ada0345464
+URL:http://mcn2023.sched.com/event/ce79592675ed9f08df32e3ada0345464
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T195000Z
+DTEND:20231109T203500Z
+SUMMARY:Open Space Discussions
+DESCRIPTION:Interested in continuing an earlier conference discussion? Is there a topic you wish was covered during MCN 2023\, but it wasn't? Are you looking for other attendees who might have the same questions as you? Welcome to Open Space Discussions (OSD)!\n\nUsing topics generated during the Opening Circle and throughout the conference\, we will designate a breakout space and a time for each discussion. Session attendees can participate in any of the dozens of topical discussions and may move from topic to topic as often as desired.
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:e03dd650c60ddedeb17428cf1aa7d41c
+URL:http://mcn2023.sched.com/event/e03dd650c60ddedeb17428cf1aa7d41c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T200500Z
+DTEND:20231109T202000Z
+SUMMARY:Extending the Life of Museum Exhibits and Promoting Research with Story Maps
+DESCRIPTION:ArcGIS StoryMaps (SMs) are very helpful in disseminating information to the public about museum exhibits and promoting scientific research. In September 2021 and January 2022\, Esri and the SI signed agreements to create SMs for the Objects of Wonder exhibit at National Museum of Natural History and for the Alexander Von Humboldt exhibit at Smithsonian American Art Museum\, respectively. Both of these exhibits dealt with historical\, artistic\, archaeological and scientific collections. This workshop will provide best practices on SMs creation while discussing not only these joint projects with Esri\, but also a variety of other Smithsonian SMs developed by SI staff to introduce the public to SI’s museums\, gardens and research centers\, provide historical and contemporary accounts of scientific research\, and promote outreach.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:429e0b11eb0582b03ec1c509a9c10101
+URL:http://mcn2023.sched.com/event/429e0b11eb0582b03ec1c509a9c10101
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T202000Z
+DTEND:20231109T203500Z
+SUMMARY:Hardcore Art SEO
+DESCRIPTION:Effective Search Engine Optimization for Artworks\nAt the Met Museum we doubled our traffic to our collection using basic\, inexpensive SEO techniques that help guide our audience to the artworks they are searching for. In this session I'll show you how we did it\, the tools we used\, and also how we consistently monitor performance so that we are always connecting our collection to the people who are looking for it.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:5f2b9938f155ec044b76250ff8732b55
+URL:http://mcn2023.sched.com/event/5f2b9938f155ec044b76250ff8732b55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T203500Z
+DTEND:20231109T205500Z
+SUMMARY:Break - Coffee refresh
+DESCRIPTION:Refresh your coffee\, tea\, or water between sessions!
+CATEGORIES:BREAK
+LOCATION:Penn Museum and larger campus\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:09498c571f96c15b26f5edcab866de3f
+URL:http://mcn2023.sched.com/event/09498c571f96c15b26f5edcab866de3f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T205500Z
+DTEND:20231109T211000Z
+SUMMARY:MIT Museum’s digital (r)evolution
+DESCRIPTION:MIT Museum’s new home is open and welcoming the diverse communities of Cambridge\, Mass. This talk will detail how a new online home was delivered in parallel to the successful physical move to the museum’s new location at Kendall Square.\n\nWith the aim of laying solid digital foundations for the museum’s programmes to thrive in the coming years\, MIT Museum\, in collaboration with Cogapp\, have developed a modern\, accessible\, API-based\, headless\, web frontend. Presented in its fullest form to date\, the museum’s collection interface enables casual browsing and research on a level that\, until now\, has not been possible online.\n\nIn this talk we will describe the thinking behind this approach as well as the benefits and learnings that we have made during this 18 month project.\n\nWe’ll discuss how the new museum brand was interpreted for the online experience and how the museum’s mission is woven into the tools provided by the new website. We’ll explore how our approach provides flexibility for the future\, affording opportunities for the web CMS to drive other areas of the museum’s digital estate\, such as on-site screens and future in-gallery interactives. We’ll discuss how the collection is now available as a digital resource to power narrative stories on the site and act as a future resource for other digital projects.\n\nUnder-the-hood the new website pulls information from a web content GraphQL API\, an Elasticsearch-backed GraphQL collections API\, as well as other 3rd party integrations such as ticketing. It does all this while making the creative process as simple as possible for museum staff for both adding and updating collections metadata and editorial content.\n\nWe’ll discuss how exceptional project management\, creative thinking\, and high-quality technical skills from everyone involved fostered an environment of experimentation in keeping with MIT’s ethos.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:3. Penn Museum - Harrison Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:2937873b050655e1a461a08addd51bd5
+URL:http://mcn2023.sched.com/event/2937873b050655e1a461a08addd51bd5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T205500Z
+DTEND:20231109T214000Z
+SUMMARY:Circle 3 - MCN SIGs (Special Interest Groups) What can we do for you?
+DESCRIPTION:
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:38315b32780589d214b4533f37181976
+URL:http://mcn2023.sched.com/event/38315b32780589d214b4533f37181976
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T205500Z
+DTEND:20231109T214000Z
+SUMMARY:Circle 6 - Museum Collection Websites\, uh do we need them?
+DESCRIPTION:
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:15057e54b05dc72c010dd27242a250e9
+URL:http://mcn2023.sched.com/event/15057e54b05dc72c010dd27242a250e9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T205500Z
+DTEND:20231109T214000Z
+SUMMARY:Open Space Discussions
+DESCRIPTION:Interested in continuing an earlier conference discussion? Is there a topic you wish was covered during MCN 2023\, but it wasn't? Are you looking for other attendees who might have the same questions as you? Welcome to Open Space Discussions (OSD)!\n\nUsing topics generated during the Opening Circle and throughout the conference\, we will designate a breakout space and a time for each discussion. Session attendees can participate in any of the dozens of topical discussions and may move from topic to topic as often as desired.
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:e1d2b4a610bcc81d7b0d162a2d7985ad
+URL:http://mcn2023.sched.com/event/e1d2b4a610bcc81d7b0d162a2d7985ad
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T211000Z
+DTEND:20231109T212500Z
+SUMMARY:From zero to sesenta: How PAMM launched a bilingual website and digitized collection in record time
+DESCRIPTION:In this talk I will discuss how in less than a year PAMM wrote an RFP\, digitized its collection\, translated 100% of content with human translators and more.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:3. Penn Museum - Harrison Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:ee7f50a60b33dc35298aed1a334b1847
+URL:http://mcn2023.sched.com/event/ee7f50a60b33dc35298aed1a334b1847
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T212500Z
+DTEND:20231109T214000Z
+SUMMARY:Product Thinking: Building Scalable User-Centered Experiences at the Georgia O’Keeffe Museum
+DESCRIPTION:Digital experiences serve important audiences of our museums. How do we ensure that we are investing in development that makes a lasting and meaningful impact? The principles and processes of product management provide an effective framework for building experiences that solve user problems while advancing the missions of our organizations. Product thinking focuses on a continuous cycle of identifying problems affecting our audiences\, developing and testing hypotheses to solve those problems\, building solutions iteratively\, and evaluating those solutions.\n\nThis session provides a case study of product management principles from the Georgia O’Keeffe Museum and its products focused on publishing relationships between its art\, archive\, and historic home collections including integrated digital publishing\, data visualization\, and ultimately integration with external data sources. User research has informed the overall design and outcomes of these products as well as the longer-term roadmap that outlines resource needs and fundraising priorities.\n\nThinking about the big picture considers the value and importance of planned sustainability – intentionally growing integrations that provide internal as well as external value. At the O’Keeffe\, product thinking has led to adopting linked open data/Linked Art\, standard vocabularies in metadata cataloging\, IIIF\, and Quire.\n\nAs a smaller museum with no internal development team\, product thinking at the O’Keeffe involves working with external design\, development\, and user research partners. This session is co-presented by the product lead at the O’Keeffe\, Liz Neely\, and a key partner in the Museum’s product development\, Duane Degler of Design for Context. The presenters aim to share principles and examples that help those in museums of all sizes develop scalable sustainable products that bring delight to their audiences.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:3. Penn Museum - Harrison Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:5834414b7b4ce5fbd7000869ef091ec8
+URL:http://mcn2023.sched.com/event/5834414b7b4ce5fbd7000869ef091ec8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231109T220000Z
+DTEND:20231110T000000Z
+SUMMARY:Evening Reception
+DESCRIPTION:After the first day of the conference\, join fellow attendees for an evening reception at the Penn Museum. The reception begins at 5 p.m. shortly after the last session. Enjoy drinks and light refreshments before exploring Philadelphia later in the evening. No separate registration or ticket required.
+CATEGORIES:SOCIAL
+LOCATION:6. Penn Museum - Chinese Rotunda\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:4159c3a28bb255e22c30d3e4257226fa
+URL:http://mcn2023.sched.com/event/4159c3a28bb255e22c30d3e4257226fa
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T140000Z
+DTEND:20231110T213000Z
+SUMMARY:Community Partner Forum
+DESCRIPTION:Meet with MCN's Community Partners in the Harrison Lobby. You can connect with representatives from:AtenCollector SystemsDouble Eagle ConsultingForum OneNavigation NorthQuire&nbsp\;Zetcom
+CATEGORIES:SOCIAL
+LOCATION:1. Penn Museum - Harrison Lobby\, 3260 South St\, Philadelphia\, PA 19104\, USA
+SEQUENCE:0
+UID:194b3a51c0da31966025af26815f37d6
+URL:http://mcn2023.sched.com/event/194b3a51c0da31966025af26815f37d6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T140000Z
+DTEND:20231110T210000Z
+SUMMARY:Conference Registration and Badge Pick-up
+DESCRIPTION:All registered conference attendees are invited to pick up their badges and other conference materials at the Penn Museum in the Harrison Lobby.&nbsp\;
+CATEGORIES:SOCIAL
+LOCATION:1. Penn Museum - Harrison Lobby\, 3260 South St\, Philadelphia\, PA 19104\, USA
+SEQUENCE:0
+UID:465b1976bc053d0c008ed58bd73f7f74
+URL:http://mcn2023.sched.com/event/465b1976bc053d0c008ed58bd73f7f74
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T140000Z
+DTEND:20231110T150000Z
+SUMMARY:Light breakfast
+DESCRIPTION:Enjoy coffee\, tea\, and pastries in the Harrison Lobby before we kick off day two of conference sessions.&nbsp\;
+CATEGORIES:SOCIAL
+LOCATION:1. Penn Museum - Harrison Lobby\, 3260 South St\, Philadelphia\, PA 19104\, USA
+SEQUENCE:0
+UID:9d154d1f69a4c66c31157bc742cf5a66
+URL:http://mcn2023.sched.com/event/9d154d1f69a4c66c31157bc742cf5a66
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T143000Z
+DTEND:20231110T144500Z
+SUMMARY:Wishful Thinking - A critical discussion of "extended reality" technologies in the cultural heritage sector
+DESCRIPTION:"We go where the eyeballs are" is the rationale used to engage with online platforms whose motivations and behaviours are increasingly difficult to reconcile with those of the cultural heritage sector. These same platforms are now working to extend their reach through the promise of immersive and interactive environments whose technological and financial overhead will all but guarantee that they will be exclusionary spaces in which museums will be forced to operate. Further they will be spaces gated on the economic imperatives and editorial criteria of those same platform vendor rather than museums themselves. Through the lens of fast-developing "extended" (sometimes called "virtual" or "augmented") reality platforms and the push to adopt them in cultural heritage settings this paper will discuss the consequences of our participation in the technologies we choose to embrace. It will contrast the goals and origins of these new technologies with the world wide web which is incorrectly understood as an old and outdated technology in need of replacing. Finally it will address the chronic problem of staffing and retention for technology roles in the cultural heritage sector and how these problems will determine whether or not the digital aspirations of the sector will continue to be held hostage to third-party commercial interests.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:3c0ff3519838fcd8dfce5a07c49171bd
+URL:http://mcn2023.sched.com/event/3c0ff3519838fcd8dfce5a07c49171bd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T143000Z
+DTEND:20231110T151000Z
+SUMMARY:The Barnes’s New Online Arts Education Tool: The Visual eXperience Platform
+DESCRIPTION:Emerging from the pandemic\, museums grappled with the continuation of online programming while concurrently restoring and expanding onsite programming. While some museums had the IT/AV infrastructure to do both\, many do not. Digital programming represents the best opportunity for museums to expand educational service\, grow access to increasingly diverse audiences\, and create new streams of sustainable revenue. &nbsp\;The Barnes Foundation was founded over a century ago with a mission centered in arts education. Classes taught in galleries focused on the formal elements that tied together Renoir\, Cezanne\, Matisse and Picasso with decorative arts\, native objects\, African masks\, and metalwork. Barnes believed that learning about art is not an esoteric activity\, but has practical applications to improve people’s lives. In 2020\, the Barnes began offering online courses—an initiative that vastly expanded its reach while creating a new revenue stream. Building on this and a century of experience with adult education\, the Barnes is inviting a consortium of museums to work together on a premier platform for online learning and dialogue about the history and currency of art. Using first-of-its-kind technology designed specifically for the teaching of visual media\, the Barnes' Visual eXperience Platform (VXP) aims to be a go-to hub for digital arts education. &nbsp\;While the market for online arts education is crowded\, from continuing ed to Masterclass—what sets museums apart is the fact that we house the physical objects. There is enormous value in this... in evermore immersive environments\, a work of art is transformed into an image—an immaterial facsimile\, endlessly circulated. The VXP reconnects learners with art works as 3D objects existing in real space\, bringing people inside galleries around the world to learn directly from the objects themselves and the scholars who study them. &nbsp\;
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:3. Penn Museum - Harrison Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:ae7f87cf3e69bbe8fd8f2d7b08a5a27a
+URL:http://mcn2023.sched.com/event/ae7f87cf3e69bbe8fd8f2d7b08a5a27a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T143000Z
+DTEND:20231110T151500Z
+SUMMARY:Circle 1 - 365 Admins: Tips\, Tricks\, Challenges
+DESCRIPTION:
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:ccb2c4deb28ff75ffeea0b98b5b3ab2e
+URL:http://mcn2023.sched.com/event/ccb2c4deb28ff75ffeea0b98b5b3ab2e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T143000Z
+DTEND:20231110T151500Z
+SUMMARY:Circle 3 - Digitization is people (so how do we do it with no people and no money)
+DESCRIPTION:
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:51cd75830d76f03c9a3987b964aee4b0
+URL:http://mcn2023.sched.com/event/51cd75830d76f03c9a3987b964aee4b0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T143000Z
+DTEND:20231110T151500Z
+SUMMARY:Circle 5 - Should we run MCN.edu as an open-source project?
+DESCRIPTION:
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:dd2d98d010dac6090ab6d61fa2f11032
+URL:http://mcn2023.sched.com/event/dd2d98d010dac6090ab6d61fa2f11032
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T143000Z
+DTEND:20231110T151500Z
+SUMMARY:Circle 6 - Cyber Security and more...
+DESCRIPTION:
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:0049757d4e0cc2b7c96d6c1ae5635333
+URL:http://mcn2023.sched.com/event/0049757d4e0cc2b7c96d6c1ae5635333
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T143000Z
+DTEND:20231110T151500Z
+SUMMARY:Open Space Discussions
+DESCRIPTION:Interested in continuing an earlier conference discussion? Is there a topic you wish was covered during MCN 2023\, but it wasn't? Are you looking for other attendees who might have the same questions as you? Welcome to Open Space Discussions (OSD)!\n\nUsing topics generated during the Opening Circle and throughout the conference\, we will designate a breakout space and a time for each discussion. Session attendees can participate in any of the dozens of topical discussions and may move from topic to topic as often as desired.
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:4e41015c5587c1a945ea887886e42d02
+URL:http://mcn2023.sched.com/event/4e41015c5587c1a945ea887886e42d02
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T144500Z
+DTEND:20231110T150000Z
+SUMMARY:Fact\, Fiction\, and AI: Early Experiments to Encourage Chatbots to Behave Responsibly
+DESCRIPTION:While the world has become enamored with the generative possibilities exploding across the AI spectrum\, we’ve also come to understand that what can seem like magic\, also has some significant limitations and risks for operational adoption. &nbsp\;For Museums\, the promise of Large Language Model Chatbots comes with corresponding concerns surrounding hallucinations\, an inability to cite resources used in answers\, the loss of control over potentially proprietary information\, and significant concerns over the biases contained in an unknown training set used to inform the model to begin with. The National Gallery of Art – along with several other major US art museums – have been piloting early experiments to attempt to address these risks by exploring methods that establish stand-alone\, private LLM’s that can be augmented with text embeddings derived from repositories of scholarly art history content. In this presentation\, the National Gallery’s Chief Information Officer\, and leads of the Analytics and Enterprise Architecture team will present their early results\, along with practical information about systems architecture\, early expectations around the cost and difficulty of running similar systems\, and thoughts about concerns that remain unaddressed. The session will also feature a robust question and answer session to engage the audience in attendance with both the practical aspects of this work\, in addition to the more far-reaching implications of deploying such technology in museums.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:175b308e26cb2286ae07c8dfc8abae4b
+URL:http://mcn2023.sched.com/event/175b308e26cb2286ae07c8dfc8abae4b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T150000Z
+DTEND:20231110T151500Z
+SUMMARY:Why Linked Data Now?
+DESCRIPTION:How has linked data been implemented across museum collections recently and what has that meant for the general public\, for researchers\, and for stakeholders within the museum?\n\nGetty Digital is coming out of several years spent designing and implementing a linked data pipeline and public interfaces to explore that data\, both for museum objects and archival collections. And we are not alone. Recent and upcoming initiatives at the Georgia O’Keefe Museum\, Philadelphia Museum of Art\, Rijksmuseum\, and Yale University illustrate what linked data looks like at scale and in production\, no longer limited to development sandboxes or special projects. At the same time\, higher level initiatives like the American Art Collaborative\, Art Information Commons\, and Linked Art have laid or are laying the groundwork for data modeling and consensus building across institutions.\n\nWhere has this work gotten us? While the construction dust may not have settled\, this talk considers Getty Digital’s recent projects in the context of nearby initiatives\, examining the promises and perils of linked data alongside successes and paint points.\n\nThe aim is to avoid both the worm’s-eye view of implementation details and the Olympian (Sisyphean?) aspirations of linked data in general. Clearly such a short talk cannot be comprehensive\, but what it can do is frame a relevant\, timely discussion around a perennial question: Why linked data?
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:2fcc34b6e3eea953bc2b9a4cb97fb326
+URL:http://mcn2023.sched.com/event/2fcc34b6e3eea953bc2b9a4cb97fb326
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T151500Z
+DTEND:20231110T153500Z
+SUMMARY:Break
+DESCRIPTION:
+CATEGORIES:BREAK
+LOCATION:Penn Museum and larger campus\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:9b6b84d6fd6ace487e871f8b4c368c54
+URL:http://mcn2023.sched.com/event/9b6b84d6fd6ace487e871f8b4c368c54
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T153500Z
+DTEND:20231110T155000Z
+SUMMARY:Ready\, Set\, GO!: Launching a new staff Intranet
+DESCRIPTION:How do you launch a new staff intranet? What if your old intranet platform is failing and it holds crucial legal\, HR\, technical\, and safety information? And lunch menus! Plus lots of outdated materials. Meanwhile\, experts and users across the organization need to\, and want to\, be involved\, but everyone has other priorities. It is possible! In 2020 Getty set out to update a 20-year-old staff intranet\, successfully relaunching in April 2023. We moved from an outdated platform that only a few people could maintain\, to a new\, well organized\, easily searchable\, cloud-based site that people in departments across the organization can update themselves. And the new site promotes our inclusivity initiatives with features like a Spanish language portal\, improved accessibility\, and just plain better communication. Keys to our success were: &bull\; Involving stakeholders from across the organization &bull\; Driving the project forward with a core team and ambitious deadlines &bull\; Working with a vendor partner to provide expertise and perform heavy-lifting We will share key elements of the project\, with illustrations\, quizzes and trivia questions: &bull\; Surveying staff to develop requirements &bull\; Involving leadership and staff &bull\; Creating a working group of content owners throughout the organization &bull\; Selecting and hiring an outside vendor &bull\; Reorganizing the intranet to be intuitive for users &bull\; Lifting and sifting content from the old site &bull\; Following a phased approach to launch with a Minimum Viable Product (MVP) &bull\; Training authors to update their own content
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:434df7c4577915276d804224b42e5490
+URL:http://mcn2023.sched.com/event/434df7c4577915276d804224b42e5490
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T153500Z
+DTEND:20231110T162000Z
+SUMMARY:Lessons from the Lifecycle: Insights into Sustainable Digital Projects
+DESCRIPTION:"How" a digital project is developed is often just as important as what you're developing and why\, particularly when considering long-term sustainability. This panel will discuss how choices made at the beginning of a digital project\, especially with custom solutions\, can significantly impact whether they're ultimately successful. Our panelists come from three different projects with similar goals at distinct points in the product life cycle: Museable - a new shared platform in the early stages of development from Navigation North\, built for small-to-medium-sized cultural organizations on a Software-as-a-Service (SaaS) model using the latest technologies with a focus on integrations\, flexible customizations\, and long-term sustainability. Museums for Digital Learning - a solid system developed for a consortium of organizations focused on growing their audience and members organizations. Smithsonian Learning Lab - a groundbreaking project when it launched eight years ago\, now reflecting on what they have learned and how to best iterate for the future. Early development decisions are based on the information you have at the time\, but by sharing more of our reflections at different stages of a project\, others can be better prepared and more fully aware of how these choices play out in the long run. While we find the typical discovery and environmental scan phases helpful\, they tend to focus on the features and the presentation and less on long-term sustainability and efficiency. Given the limited resources that most GLAMs have access to and the immense time and financial commitment custom development requires\, it's always worth considering how we can improve and get the most out of what we are building.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:3. Penn Museum - Harrison Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:9f042d0d8f3cae98ff8c7f042e851fea
+URL:http://mcn2023.sched.com/event/9f042d0d8f3cae98ff8c7f042e851fea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T153500Z
+DTEND:20231110T162000Z
+SUMMARY:Circle 2 - Who is the Decider? Committees - collabs - nontech partners - vote/consensus/what?
+DESCRIPTION:
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:34a25f3890a62d6c9e57759b2f8f1fdf
+URL:http://mcn2023.sched.com/event/34a25f3890a62d6c9e57759b2f8f1fdf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T153500Z
+DTEND:20231110T162000Z
+SUMMARY:Circle 4 - All Things Airtable: TMS Integrations\, Policies--chat to learn more or if your institution has adopted it!
+DESCRIPTION:
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:148e010ffa4577ed1b9961baa0b667fb
+URL:http://mcn2023.sched.com/event/148e010ffa4577ed1b9961baa0b667fb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T153500Z
+DTEND:20231110T162000Z
+SUMMARY:Circle 5 - Artificial Introspection: What AI contributes to understanding the human condition and the role of museums in society
+DESCRIPTION:
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:0c079760ded57ae69d115d82e4aa5e29
+URL:http://mcn2023.sched.com/event/0c079760ded57ae69d115d82e4aa5e29
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T153500Z
+DTEND:20231110T162000Z
+SUMMARY:Circle 6 - Gaming Your Community: Applications of gaming and outreach across museums and libraries
+DESCRIPTION:
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:1bf9a0d305d337748117632b86969e6c
+URL:http://mcn2023.sched.com/event/1bf9a0d305d337748117632b86969e6c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T153500Z
+DTEND:20231110T162000Z
+SUMMARY:Open Space Discussions
+DESCRIPTION:Interested in continuing an earlier conference discussion? Is there a topic you wish was covered during MCN 2023\, but it wasn't? Are you looking for other attendees who might have the same questions as you? Welcome to Open Space Discussions (OSD)!\n\nUsing topics generated during the Opening Circle and throughout the conference\, we will designate a breakout space and a time for each discussion. Session attendees can participate in any of the dozens of topical discussions and may move from topic to topic as often as desired.
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:ebb640c79bc99dc5138f7b815bd69ef5
+URL:http://mcn2023.sched.com/event/ebb640c79bc99dc5138f7b815bd69ef5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T155000Z
+DTEND:20231110T160500Z
+SUMMARY:Revolutionizing Membership Technology: A Case Study from MoMA
+DESCRIPTION:This talk explores the transformative journey of revamping membership technology at the Museum of Modern Art (MoMA). By leveraging cutting-edge innovations\, we have reimagined the membership experience and streamlined operational processes.\n\nThe first major achievement was the introduction of digital membership cards native to iOS and Android platforms. These cards have been enthusiastically adopted by approximately 30% of our users\, providing a seamless mobile experience and enhancing convenience during museum visits.\n\nTo further enhance the membership experience\, we developed a bespoke membership website that is optimized for the purchase and renewal process. Employing sophisticated tooling\, we established near real-time synchronization between website sales and Salesforce CRM. This integration has served as a central integration point for member data\, e.g.\, with the retail e-commerce platform.\n\nIn order to unify MoMA's digital ecosystem and simplify user access\, we implemented a single sign-on system across all MoMA domains. Members can now utilize the same credentials across multiple platforms\, thanks to the powerful APIs from our membership website. This integration has not only improved the user experience but also enhanced data security and management.\n\nRecognizing the importance of the onsite experience\, we reskinned our membership website to create a versatile point-of-sale system for the membership desk. This shared platform has enabled us to handle most sales through a unified system\, bringing together point-of-sale transactions\, phone sales\, and online purchases. As a result\, we have gained nimbleness in adapting to evolving business requirements while ensuring a consistent user experience across channels.\n\nGain insights into the technologies used throughout our journey\, and critically assess their pros and cons. Discover how MoMA's experiences can guide your own technology choices and help optimize membership experiences within your organizations
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:058d30e17b9e43f3cc3ac1569341a3cc
+URL:http://mcn2023.sched.com/event/058d30e17b9e43f3cc3ac1569341a3cc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T160500Z
+DTEND:20231110T162000Z
+SUMMARY:Mission Murals: Centering Community in Multimedia
+DESCRIPTION:In the 1970s in San Francisco’s Mission District\, mural making culture came to life\, building on traditions of activism\, expression\, and community-building through public art that continue today. After a series of conversations between SFMOMA staff and local artists\, community members\, and historians\, it became clear that there was a unique—and pressing—opportunity to document and preserve this foundational moment in the cultural history of the region. Capturing the voices of the first generation of Mission muralists\, who are now in their 70s and 80s\, was urgent. This urgency led to the creation of the digital publication Proyecto Mission Murals\, an online interdisciplinary project that examines the origins of this movement from 1972 to 1988.\n\nJoin SFMOMA Content Producer\, Myisa Plancq-Graham for a quick dive into the production priorities and process behind the film Las Muralistas: Our Walls\, Our Stories and experimental audio guide The Proyecto Mission Murals Audio Zine Vol.I.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:3e7f042d012dd39222023a935343e792
+URL:http://mcn2023.sched.com/event/3e7f042d012dd39222023a935343e792
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T162000Z
+DTEND:20231110T164000Z
+SUMMARY:Break - Coffee refresh
+DESCRIPTION:Refresh your coffee\, tea\, or water between sessions!
+CATEGORIES:BREAK
+LOCATION:Penn Museum and larger campus\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:8b1c4a39abb5453a66f2649d4ef4b7aa
+URL:http://mcn2023.sched.com/event/8b1c4a39abb5453a66f2649d4ef4b7aa
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T164000Z
+DTEND:20231110T165500Z
+SUMMARY:The HAM API: 10 Years and Counting
+DESCRIPTION:The Harvard Art Museums API turned 10 years old in July 2023. This will be a case study on building and supporting APIs that have an indefinite shelf life. The session will touch on the following: Initially built as a system for solving a basic\, common problem: shuttling museum data from protected internal systems to general access public systems. Over time the API evolved. First\, to a broader expression of the museum's collections and physicalness. Second\, to a tool for crafting collection-scale data visualizations. Third\, and currently\, to a set of systems encoded with the museum's spirit and ideology. The session will dive into the ideology and guiding principles embedded in the API\; decisions about the design\, implementation\, and management of the systems\; how the API has grown to mesh with emerging protocols and frameworks (e.g.: IIIF)\; how the museums use the systems to solve everyday problems\, as well by the public for teaching\, learning\, and creative coding\; and finally\, the future of the API.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:80572b1258c832ec6762ac8f2c3924c6
+URL:http://mcn2023.sched.com/event/80572b1258c832ec6762ac8f2c3924c6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T164000Z
+DTEND:20231110T172500Z
+SUMMARY:A Community Effort: Digital Publishing with Open Source Tools
+DESCRIPTION:Digital publishing is a collaborative process. Successful projects cannot rely only on the creativity and problem-solving of talented designers and developers or only on the intelligence and meticulousness of dedicated content editors. Rather they require the meeting and melding of the two. And not just the two but often with other individuals bringing their particular skills and outlook to the project.\n\nThe use of open-source software on these projects adds yet another dimension to the collaboration\, that between the project team and the software maintainers. Oftentimes this collaboration is unspoken: a software owner creates a useful tool and puts it out into the world for others to build off and use as they see fit. Other times\, it is much more dynamic\, as when project teams seek assistance\, provide feedback\, test features\, and even contribute code to the software\, and the maintainers\, in turn\, shape the software and its documentation based on the teams’ interactions with it.\n\nHear from MCN community members on both sides of the development and content collaboration who are working on different\, multifaceted projects with Quire\, Getty’s free and open-source digital publishing tool. Hear how their projects have progressed\, how they worked (or sometimes struggled to work) with their teams and with the software\, and what lessons they’ve learned along the way.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:3. Penn Museum - Harrison Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:13e53b8831eb8717e4e6d22923f6bc93
+URL:http://mcn2023.sched.com/event/13e53b8831eb8717e4e6d22923f6bc93
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T164000Z
+DTEND:20231110T172500Z
+SUMMARY:Speed Networking
+DESCRIPTION:Join facilitator Alice Walker to meet other MCN attendees with some speed networking!\nEach session consists of a series of breakout spaces with several participants.Tell us where you're from\, what you're curious about\, and more—just be quick!
+CATEGORIES:SOCIAL
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:597741db858a272a964cdfb794ee88e1
+URL:http://mcn2023.sched.com/event/597741db858a272a964cdfb794ee88e1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T165500Z
+DTEND:20231110T171000Z
+SUMMARY:Navigating complexity: Insights from the implementation of MoMA’s data warehouse project
+DESCRIPTION:Navigating complexity: Insights from the implementation of MoMA’s data warehouse project\n\nThis presentation proposal is a retrospective examination of the intricate process involved in initiating and implementing a comprehensive data warehouse at The Museum of Modern Art (MoMA). The objective of the project was to successfully launch a unified data warehouse solution by integrating approximately 20 different data sources\, including CRM data\, visitor behavior data\, ticket purchases\, on-site and online retail transactions\, donation information\, and membership data. In this presentation\, we will explore the multifaceted challenges that were overcome\, encompassing both technical and organizational aspects. These challenges included adopting a technology-agnostic approach to selecting a data warehouse solution\, addressing data quality issues\, and managing resistance to change within the museum's unique ecosystem\, among others. Strategies and best practices for overcoming these challenges will be discussed\, emphasizing the importance of effective stakeholder engagement\, clear communication\, objective technology platform assessments\, and proactive risk management techniques. Additionally\, obstacles such as data privacy and security concerns\, resource allocation and budget constraints\, and the need for comprehensive data governance policies will be highlighted. This presentation will also examine the benefits resulting from a centralized data warehouse\, including short-term improvements in reporting and analytics\, streamlined operations\, better informed decision-making processes\, as well as long-term possibilities and the capacity to foster strategic growth by leveraging AI technologies to gain deeper insights into visitor behavior\, optimize operations\, and personalize experiences in order to support the Museum’s mission.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:845cfbd2dd15d8f3dc62293250578df0
+URL:http://mcn2023.sched.com/event/845cfbd2dd15d8f3dc62293250578df0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T171000Z
+DTEND:20231110T172500Z
+SUMMARY:"The Graph Can Always Go Up and to the Right: Data Questions\, Vibes\, and the Limits of Computational Thinking"
+DESCRIPTION:This presentation cribs heavily from the work of James Bridle who wrote New Dark Age: Technology and the End of the Future\, as well as other works about data ethics. By using Bridle's definition of computational thinking I will make the argument that questions which use museum data\, particularly questions that involve collection objects\, are inherently 'vibe-based.' A popular meme online is that we are in the "vibes era" where the *feeling* of something matters a lot more than any set of facts or any explanation which doesn't pass muster. My argument is that data is inherently vibe-based as data is only a snapshot of the rich complex contexts that exist around collection objects. As museum data professionals we have an obligation to educate our colleagues and leadership on how to ask meaningful questions about our data. I will illustrate how what a collection object is depends on who and why they're asking. I will also talk about the limits of Big Data and how the privileging of data doesn't just shape the way things are\, but has become the way we think. To paraphrase James Bridle - we now think like the computers we enter data into. The presentation will end with some recommendations on how to educate people on the deeper questions of data. The purpose of the title is some wordplay about how in institutions everyone always wants to see progress and that in reality data professionals can make the data say almost anything we want. Therefore\, the line can always go up and to the right\, which means our actual reality is untethered from the false reality we create around our data.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:f08143bd87d05c95134a18005397f8dc
+URL:http://mcn2023.sched.com/event/f08143bd87d05c95134a18005397f8dc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T172500Z
+DTEND:20231110T184500Z
+SUMMARY:Lunch (No host)
+DESCRIPTION:Enjoy the extended break to meet with conference contacts\, old and new\, over lunch. Check out this list of locally curated restaurants\, coffee shops\, and more close to the conference venue.\n\n
+CATEGORIES:SOCIAL
+LOCATION:Penn Museum and larger campus\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:78158b3139803a9aa506097c9bcaaeee
+URL:http://mcn2023.sched.com/event/78158b3139803a9aa506097c9bcaaeee
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T184500Z
+DTEND:20231110T190000Z
+SUMMARY:The reality of a ransomware event – why you need more than Cyber Insurance
+DESCRIPTION:
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:32ba1e6c8ee0987503c850c85514959e
+URL:http://mcn2023.sched.com/event/32ba1e6c8ee0987503c850c85514959e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T184500Z
+DTEND:20231110T193000Z
+SUMMARY:Accessibility\, Inclusion\, and Social Responsibility: A Practical Guide for Museum Websites
+DESCRIPTION:
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:3. Penn Museum - Harrison Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:7f6774f08c3a3e14fd3fd9cd2b19dc7b
+URL:http://mcn2023.sched.com/event/7f6774f08c3a3e14fd3fd9cd2b19dc7b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T184500Z
+DTEND:20231110T193000Z
+SUMMARY:Circle 1 - ME within WE: Understanding what's above\, below\, and beside in the organization
+DESCRIPTION:
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:5a76b0583240c424cc13160ad5b9d35e
+URL:http://mcn2023.sched.com/event/5a76b0583240c424cc13160ad5b9d35e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T184500Z
+DTEND:20231110T193000Z
+SUMMARY:Open Space Discussions
+DESCRIPTION:Interested in continuing an earlier conference discussion? Is there a topic you wish was covered during MCN 2023\, but it wasn't? Are you looking for other attendees who might have the same questions as you? Welcome to Open Space Discussions (OSD)!\n\nUsing topics generated during the Opening Circle and throughout the conference\, we will designate a breakout space and a time for each discussion. Session attendees can participate in any of the dozens of topical discussions and may move from topic to topic as often as desired.
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:8cda7048f68aca552bacc897c97c699a
+URL:http://mcn2023.sched.com/event/8cda7048f68aca552bacc897c97c699a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T190000Z
+DTEND:20231110T191500Z
+SUMMARY:Three Simple Steps to Improve Information Security
+DESCRIPTION:Modern cybersecurity threats fall mostly into a few simple categories\, so there are a few simple steps an organization can take to neutralize\, or at least minimize\, the most common online threats.\n\nMany organizations don't have their own strategic technology departments\, so there's not always someone who understands cyber threats and can work to prevent them. But these few steps can be understood and completed by non- and quasi-technical users\, like Collections Managers and Digital Content Managers\, in organizations that rely on those staff members for technology guidance. These steps are:\n\n1. Requiring Multi-factor Authentication for system accounts\, and using Single Sign-on wherever possible.\n2. Provide a password manager to staff\, require them to use it for work-related accounts\, and apply banned password lists when they create or change system passwords.\n3. Set up anti-phishing training so staff are best prepared to handle incoming scams and attacks.\n\nIn this session I'll go over some common tools for providing\, implementing\, and managing these functions\, while also providing the rhetorical ammunition people will need to express the value of these steps to their institutions.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:eb767e5df201d6ee6fc06ace354dc6ba
+URL:http://mcn2023.sched.com/event/eb767e5df201d6ee6fc06ace354dc6ba
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T191500Z
+DTEND:20231110T193000Z
+SUMMARY:A New View on Cybersecurity at the National Gallery of Art
+DESCRIPTION:While all of us know that cybersecurity risks to our museum operations are significant and ever changing\, it can be extremely hard to stay up-to-date on which vulnerabilities impact the museum most. This can lead to a confusing situation where creating a plan for the protection of museum IT assets is unclear and makes it difficult to gain a high-level perspective on how best to manage the IT Strategy relative to our cybersecurity performance and its associated risks. In this presentation\, the Chief Information Officer\, and the Chief Information Security Officer from the National Gallery of Art will present both a primer on a Defense in Depth architecture for cybersecurity in use at the National Gallery\, and will also share a novel visualization tool and method that allows the team to diagnose and track vulnerabilities over-time. These tools and approach can be used to quickly triage cyber-risks to the organization and what we should do about them. While not every museum has the sufficient resources to devote to cybersecurity – we all share in the risks. This presentation will offer tips and insights for IT managers and leaders to use in their home institutions and will raise awareness to a few of the tools that can be used to improve our overall planning and strategic positioning of cybersecurity within the museum space.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:ade94cfafce04bbdf32a7448e13958fd
+URL:http://mcn2023.sched.com/event/ade94cfafce04bbdf32a7448e13958fd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T193000Z
+DTEND:20231110T195000Z
+SUMMARY:Break
+DESCRIPTION:
+CATEGORIES:BREAK
+LOCATION:Penn Museum and larger campus\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:ba435a001ee74bad958607058130f745
+URL:http://mcn2023.sched.com/event/ba435a001ee74bad958607058130f745
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T195000Z
+DTEND:20231110T200500Z
+SUMMARY:Revolutionizing museum data exchange: introducing EODEM
+DESCRIPTION:Every year\, museum staff waste days manually copying the details of thousands of objects from their databases\, and sending them to other museums that wish to borrow those objects. The borrowing museums’ staff then manually copy those details back into their own collections management systems. The Exhibition Object Data Exchange Model (EODEM) aims to save that time by making it possible to export data from one museum system at the press of a button\, and import it into a different system just as easily.\n\nEODEM has been developed and made freely available by the CIDOC Documentation Standards Working Group\, and has already been incorporated into current or pending releases of several collections management systems\; but\, despite its obvious benefits\, it will stand or fall according to how widely it is incorporated into other systems. As a profile of the well-established LIDO data-harvesting format\, EODEM is designed to be simple to implement\, and makes minimal demands regarding the extent or type of available data. Because it includes basic object identification as well as more loan- and display-focussed data\, EODEM has potential uses for exhibitions\, including exhibition and display design\; object transport\, shipping and insurance\; app development\; and management of shared storage.\n\nThis presentation will introduce EODEM\, show how it can help museum staff\, and explain how it can be implemented and what tools are available to support developers.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:a523e5742fe76c59f50970580e8e7ed9
+URL:http://mcn2023.sched.com/event/a523e5742fe76c59f50970580e8e7ed9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T195000Z
+DTEND:20231110T203500Z
+SUMMARY:Drawn together: Illustration-based content at three different institutions
+DESCRIPTION:Whether for communicating abstract ideas\, or to represent young people in the stories of great artists\, illustration-based content lends itself to the animation of ideas\, both figuratively and literally. Three institutions share their experiences and learnings from their respective and distinct projects&mdash\;web comics and animated video&mdash\;drawn together by their illustrative approach to storytelling.&nbsp\;The Smithsonian American Art Museum&rsquo\;s web comic series\, Drawn to Art: Ten Tales of Inspiring Women Artists\, combines themes of diversity\, inclusion\, and empowerment in a digital-first format\, to honor the struggles and triumphs of women artists. Inspired by graphic novels\, these comics were drawn by student-illustrators from the Ringling College of Art and Design. The project aims to give young people the opportunity to see themselves reflected in the stories of visionaries and rule breakers\, and to draw strength from that visibility.The Metropolitan Museum of Art&rsquo\;s animated video series\, Microscope\, weaves together stories of science and art to help young people visualize complex concepts. In explainer-style videos covering topics like &ldquo\;What Happens When You Touch Art?&rdquo\; and &ldquo\;The Chemistry of Paint\,&rdquo\; MetKids&rsquo\; Microscope provides kids with engaging entry points to the fields of conservation and scientific research. Achieved via collaboration with stop-motion animators and 2D illustrators\, the series also incorporates DIY activities\, enabling young people to test out these ideas in a hands-on way. The Corning Museum of Glass&rsquo\;&nbsp\;Dig Deeper&nbsp\;exhibition made use of illustration-based content for both a printed comic book that visitors could take away with them and a "choose your own adventure" style interactive with indivdualized sessions and earned badges.&nbsp\;Through these case studies\, we will explore how to develop stories for illustration in different formats&mdash\;from web comics to animated video to interactives to print. We will provide tools for managing project complexities and stakeholder involvement\, and we will discuss how to use this content to grow new audiences and enliven the museum&rsquo\;s engagement\, education\, and marketing outreach efforts.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:3. Penn Museum - Harrison Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:6adebf29aa7f60e7cca118ea21013338
+URL:http://mcn2023.sched.com/event/6adebf29aa7f60e7cca118ea21013338
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T195000Z
+DTEND:20231110T203500Z
+SUMMARY:Open Space Discussions - Closing Circle
+DESCRIPTION:Which session stuck with you the most? What do you want to keep talking about? Join us to recap Open Space Discussions.&nbsp\;
+CATEGORIES:OPEN SPACE DISCUSSIONS
+LOCATION:5. Penn Museum - Upper Baugh\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:61d3f54273728be593a3169a2c80e717
+URL:http://mcn2023.sched.com/event/61d3f54273728be593a3169a2c80e717
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T200500Z
+DTEND:20231110T202000Z
+SUMMARY:Challenges and coping strategies of museum data migrations: a multi-case study summary
+DESCRIPTION:Data migrations are critical to the long-term maintenance of museum collections as we increasingly depend on the collection management systems\, databases and other digital technology as the supporting infrastructure of our collections. Even as migrations become an increasingly common job task that collection staff must oversee\, there are minimal best practices for carrying out a complex charge such as this. Through the Migrating Research Data Collection project\, we ask 1) What are common challenges faced during database migrations? And 2) What interim coping strategies do practitioners use while in the midst of a migration? We interviewed 57 practitioners engaging in this work\, resulting in six case studies of data migrations in memory institutions. These case studies represent a wide variety of collections in museums\, archives\, and data repositories. This session will describe these six cases\, and their resulting challenges and coping strategies.\n\nWe find that the common challenges that practitioners encounter across all cases include a combination of lacking skills\, resources and time to complete the migration. Further\, most cases experienced challenges with poor data quality\, and that available systems to migrate to did not meet user needs. The most common coping strategies to mitigate these challenges include adapting and customizing the database\, and piecing multiple data systems together.\nThese findings demonstrate the multifaceted nature of migrations\, and the need for contextual best practices based on realistic goals from the institutional\, and the needs of collection staff\, researchers and other end users.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:23430deb7877acbfef5b8a5b6f224509
+URL:http://mcn2023.sched.com/event/23430deb7877acbfef5b8a5b6f224509
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T202000Z
+DTEND:20231110T203500Z
+SUMMARY:Making High-tech Magic with Low-Tech Materials
+DESCRIPTION:This session will provide an overview of the process and challenges in creating the &ldquo\;Art Tech Tree&rdquo\;\, a space for making physical artworks and bringing them to life through gesture-driven interactions and projections. This project is part of the Metropolitan Museum of Art&rsquo\;s new immersive children&rsquo\;s space&mdash\;The 81st Street Studio.&nbsp\;The Art Tech Tree helps kids explore printmaking and drumming\, and uses computer vision and projection mapping to bring to life the physical prints and drums made by kids.&nbsp\; The presentation will begin with an overview of the experience including the technology behind the magic\, and the user flow between physical making and digital playing. We&rsquo\;ll share insights into the iterative prototyping\, design\, and production process. We'll conclude with a focus on our iterative user testing process\, including the necessary pivots that leveraged experience design to mitigate technical limitations.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:4. Penn Museum - Widener Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:52ba9119d1cc1549ddbd5f1a4ae6d291
+URL:http://mcn2023.sched.com/event/52ba9119d1cc1549ddbd5f1a4ae6d291
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T203500Z
+DTEND:20231110T205500Z
+SUMMARY:Break - Coffee refresh
+DESCRIPTION:Refresh your coffee\, tea\, or water between sessions!
+CATEGORIES:BREAK
+LOCATION:Penn Museum and larger campus\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:36353564c1e9eab8bc18657dae1338ee
+URL:http://mcn2023.sched.com/event/36353564c1e9eab8bc18657dae1338ee
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T191539Z
+DTSTART:20231110T205500Z
+DTEND:20231110T214000Z
+SUMMARY:Closing Remarks
+DESCRIPTION:Join members of the MCN board to recap the conference and explore what's next. Bring your feedback and ideas to this closing session!
+CATEGORIES:SOCIAL
+LOCATION:3. Penn Museum - Harrison Auditorium\, 3260 South St\, Philadelphia\, PA 19104
+SEQUENCE:0
+UID:42081c95fbe4f19cbbf458beb41506e7
+URL:http://mcn2023.sched.com/event/42081c95fbe4f19cbbf458beb41506e7
+END:VEVENT
+END:VCALENDAR

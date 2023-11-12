@@ -1,0 +1,921 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:mcn2020virtual
+X-WR-CALDESC:Event Calendar
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+PRODID:-//Sched.com MCN 2020 VIRTUAL//EN
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201110T160000Z
+DTEND:20201110T164500Z
+SUMMARY:Welcome Session
+DESCRIPTION:Whether it's your first MCN or your thirteenth\, you are invited to join the MCN 2020 VIRTUAL program co-chairs for an orientation to the first-ever virtual MCN conference. Learn about the platforms we are using and how to engage virtually to network with colleagues and participate in sessions.
+CATEGORIES:MCN COMMUNITY
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:55ba51966ba99f38d056f185aa1ef47b
+URL:http://mcn2020virtual.sched.com/event/55ba51966ba99f38d056f185aa1ef47b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201110T173000Z
+DTEND:20201110T180000Z
+SUMMARY:Opening Remarks
+DESCRIPTION:Eric Longo (MCN Executive Director) and Matt Tarr (MCN President) will welcome you to MCN 2020 VIRTUAL.
+CATEGORIES:MCN COMMUNITY
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:bd97c24aaf038bee30cf80f180a76c3d
+URL:http://mcn2020virtual.sched.com/event/bd97c24aaf038bee30cf80f180a76c3d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201110T180000Z
+DTEND:20201110T190000Z
+SUMMARY:Lessons from the Coronavirus: There Is No “Pivot”
+DESCRIPTION:The 2020 pandemic upended most museums' business and engagement strategy for the year. It exposed the foundations underlying our efforts across digital\, good and bad\, and in many cases\, it caught us flat-footed. Digital groups acted quickly to change their mandate entirely. The goal of digital engagement and marketing shifted from driving visitation to a physical place\, to creating an equally compelling online museum. Digital teams had to figure out quickly how to engage audiences stuck at home with no chance to visit their institutions. The call for change was quick\, often panicked\, and came from all leadership levels. This was often referred to as a pivot. Is this an accurate description of how digital teams responded or was the quick response a reflection of the way digital professionals work on a regular basis? Our discussion will explore this topic\, among others.In this informal discussion\, three digital leaders will talk about the ways that what has been described as a rapid\, freewheeling “pivot” was actually doable because of well-laid foundational plans\, skills\, and teamwork. We will discuss the reasons why our digital teams were positioned to succeed in the quickly changing environment of the COVID-19 closure\, how we adapted\, and what this reinforces for how we can work in the future. We will also explore lessons learned\, and demonstrate the distinction between pivoting versus building on top of groundwork that had been in the planning for years\, utilizing existing collaborative structures and systems upon which we had long relied.In this session\, we hope a discussion of the lessons learned from this pandemic\, and from the ‘pivot’ will help museums plan for a better future\, and not get caught flat-footed in the next global crisis.
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 2\, Virtual
+SEQUENCE:0
+UID:aeb451c657e4a4ba280029d98e637e91
+URL:http://mcn2020virtual.sched.com/event/aeb451c657e4a4ba280029d98e637e91
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201110T180000Z
+DTEND:20201110T190000Z
+SUMMARY:Virtual Teen Programs/Real Connections
+DESCRIPTION:With Covid-19 and stay-at-home orders\, many of our programs needed to switch from in-person to virtual spaces. Our focus was on teen audiences and making these transitions for everything from workshops to council meetings to internships. Our panel will share some of the best practices we developed\, tools we used\, and challenges we overcame. We will share how we sought the input and voice of teens during the process\, and how we incorporated their ideas and feedback. Much of this work will continue in the months between proposal and presentation\, and we look forward to sharing that real-time learning with you.Questions that we are asking ourselves include:How do we maintain relationships with teens we know\, and how do we forge meaningful developmental relationships with teens we are meeting virtually for the first time? How do we reach people\, especially with inequitable technology access? What and how do we need to change to align with what young people need right now?
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:03a1d5c8301dfcc75a465f39d45effee
+URL:http://mcn2020virtual.sched.com/event/03a1d5c8301dfcc75a465f39d45effee
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201110T193000Z
+DTEND:20201110T203000Z
+SUMMARY:It’s Okay to Not Be Okay: Building Resilience through the MCN Mentorship Program
+DESCRIPTION:When mentors and mentees were matched in January 2020\, the world looked very different. Nearing into the Mentorship Program’s fifth year\, we want to keep evolving\, creating meaningful connections\, and fostering resilience in our field. Find out how the MCN Mentorship Program has adapted throughout the year to best support our community of learning. Hear from individual mentors and mentees in small breakout sessions as they share their unique experiences and respond to your questions. Reflect on how the needs of our MCN community have changed and how the program will be shaped for the future.
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 3\, Virtual
+SEQUENCE:0
+UID:dc7df61f05ff7b674a67bb8ece7972ca
+URL:http://mcn2020virtual.sched.com/event/dc7df61f05ff7b674a67bb8ece7972ca
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201110T193000Z
+DTEND:20201110T203000Z
+SUMMARY:Quire—A Sustainable Digital Publishing Solution for Museums of All Sizes
+DESCRIPTION:This 60-minute panel will feature an in-depth look at the creation of 50X50--SJMA's first digital publication using Quire\, the J. Paul Getty Trust's new digital publishing platform. Participants will hear from three project contributors--each with their considerations-- about how to plan successfully\, scope\, and develop the web platform to accommodate a variety of content and media.
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 2\, Virtual
+SEQUENCE:0
+UID:8422685f06fb75580ec514e1c6fb2ed0
+URL:http://mcn2020virtual.sched.com/event/8422685f06fb75580ec514e1c6fb2ed0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201110T193000Z
+DTEND:20201110T203000Z
+SUMMARY:Touch and Multi-sensory Experiences: Developing Safe and Inclusive Practices During Covid-19
+DESCRIPTION:Safety\, Comfort\, and Inclusion: We Choose AllBuilding off 2019’s MCN session Multi-Sensory Design Towards Inclusion and Access\, Sina Bahram and Corey Timpson examine and surface the details related to ensuring rich inclusion and access for onsite and remote audiences\, given the world we now find ourselves in. Ensuring safe\, comfortable\, sustainable\, and equitable experience design requires a multifaceted approach across several operational touch points. This session examines intention\, design\, execution\, management\, and maintenance across the museum enterprise\, focusing on strategic objectives and practical tactics for sustainable solutions.Accessible Touch ObjectsCurrently\, the majority of museum and historic site experiences are visual and lack tactile alternatives for visitors. In this session we describe our efforts to better understand the challenges and opportunities for sustaining and expanding tactile objects in museums through conducting interviews with 15 museum access specialists from museums ranging in size and location. We discuss the responses from six accessibility experts who identified as blind or low vision to the museums current practices. From our findings\, we identify and describe seven different types of touch objects currently being used at museums\, which is the most inclusive and descriptive taxonomy to date. We discuss their design processes\, trade-offs\, usefulness\, and value compared to audio and virtual tours. Finally\, we share design recommendations for museum practitioners: 1) preserving touch experiences during COVID--19\, urgently called for by BLV accessibility experts\, 2) considering three additional touch object categories from an interview with a BLV accessibility expert not previously used or mentioned by the museum access specialists\, 3) avoiding a one size fits all solution and offer visitors the opportunity to personalize the content and modality of touch objects. Our findings illustrate the diversity and importance of touch interactions in creating accessible educational experiences.
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:83f94fbed02f95fd4520880aa60ffc1e
+URL:http://mcn2020virtual.sched.com/event/83f94fbed02f95fd4520880aa60ffc1e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201110T220000Z
+DTEND:20201110T230000Z
+SUMMARY:Ignite MCN - Sponsored by Axiell
+DESCRIPTION:Brought to you by Axiell.Join Nik Honeysett\, Ignite MC extraordinaire\, to kick off this year's conference in style with MCN's signature event Ignite MCN! Expect a night of fun\, thought-provoking and inspiring #musetech talks. The talks follow the “Ignite” format\, in which presenters have five minutes and 20 slides (which advance automatically every 15 seconds) to enlighten\, entertain\, and inspire.Maria Wasing and Samantha Diamond of Axiell will welcome everyone."Welcome to My 2D World" by Sandy Goldberg"Communities of Imagination & Learning" by Michael Riordan"Your Data Are Probably Racist" by Yvonne Lee & Meredith Steinfels"Audience Engagement Is Your Goal\, Not Theirs" by Kyle Bowen“Future Wisdom Via Metadata” by Virginia Poundstone & Garrett Graddy-Lovelace"Craft\, Work\, & Kraftwerk" by Tim Boutelle“They Will Save Us If We Let Them” by Jeremy MunroSOH required...Alcohol optional...Music by Koven Smith...Hosted by Nik Honeysett...
+CATEGORIES:EXPERIMENTAL SESSION
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:f2ca49658fdaf1708efb918232c6a060
+URL:http://mcn2020virtual.sched.com/event/f2ca49658fdaf1708efb918232c6a060
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201111T160000Z
+DTEND:20201111T163000Z
+SUMMARY:Innovation Mindset (Plenary Panel)
+DESCRIPTION:Digital transformation is often confused with or considered synonymous to technology. Digital transformation is about delivering on the Museum’s mission\, and leveraging technology to achieve that whether it be new offerings and experiences\, reaching new audiences in new ways\, new and more efficient ways of operating. It’s rarely a conversation about the specific technology\, and much more about how technology achieves a goal.In the first section of this session\, Catherine Devine and Samantha Diamond engage in a discussion about continuous innovation in Museums\, the necessity and importance of it\, the mindset needed\, and how that innovation mindset distinguishes organizations that will ultimately thrive through this crisis. Samantha Diamond is outgoing MCN board member\, CEO and Founder of Culture Connect\, recently acquired by Axiell\, and also VP\, Digital Engagement at Axiell. Axiell/Culture Connect is a Microsoft partner.The second section of this session will profile Jack LaPan from RedLevel\, another Microsoft partner. Jack LaPan has worked with many Museums in the US\, and is focused on unique approaches to technology adoption\, starting with what the organization is trying to achieve and then leveraging technology to deliver on those. Jack will discuss a specific approach on Cloud Immersion Experiences which looks at how teams innovate with collaboration.Brought to you by Microsoft.
+CATEGORIES:MCN COMMUNITY
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:dba564a7488e09201b5c607cf11e083a
+URL:http://mcn2020virtual.sched.com/event/dba564a7488e09201b5c607cf11e083a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201111T163000Z
+DTEND:20201111T170000Z
+SUMMARY:Speed Networking #1 - Sponsored by Axiell
+DESCRIPTION:Join facilitators Don Youngberg and Eric Longo to meet other MCN attendees with some speed networking!Each session consists of a series of breakout rooms with several participants. Tell us where you're from\, what you're curious about\, and more—just be quick!Every session lasts only 30 minutes and accommodates up to 80 participants.Advance sign-up required.Brought to you by Axiell.
+CATEGORIES:NETWORKING
+LOCATION:Social Events\, Virtual
+SEQUENCE:0
+UID:a37f3057c06bab05ec61b5a48690bc07
+URL:http://mcn2020virtual.sched.com/event/a37f3057c06bab05ec61b5a48690bc07
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201111T170000Z
+DTEND:20201111T180000Z
+SUMMARY:Lunch and Learn – How to Get the Most out of Your CMS – Axiell Collections
+DESCRIPTION:Flexible\, sustainable\, scalable. Three traits your CMS needs to set you up for success.Your technology infrastructure must be poised to meet growing and evolving institutional needs and the expectations of modern audiences. In this session we’ll show you how to get the most out of your CMS with a platform that empowers you to flex and scale. Come learn more about our vision\, our technology\, and our community at this conversational Lunch and Learn on Nov 11 @ 12 noon.
+CATEGORIES:SPONSORS HOURS
+LOCATION:Sponsors channels\, Virtual
+SEQUENCE:0
+UID:ac330eb0254162783fbc5511a8336d68
+URL:http://mcn2020virtual.sched.com/event/ac330eb0254162783fbc5511a8336d68
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201111T173000Z
+DTEND:20201111T183000Z
+SUMMARY:Office Hours: Q&A about Online Courses
+DESCRIPTION:Office Hours: Q&A about Online Courses is an hour-long session for conversation and questions about beginning and running a Massive Open Online Course (MOOC) program at your museum. If your institution is considering or has recently started developing online courses to serve remote and international audiences\, bring your questions here. This session will focus on MOOCs but with takeaways that can apply across various museum programs and platforms\, including social media. Do you have questions about adapting existing content to design an accessible and inclusive online learning program? What kinds of assessments and discussion forum prompts can be generative and rewarding for a wide-range of informal learners? What happens after the course launch and initial marketing push? How can you build long-term relationships with learners who stay engaged in the course community years after enrolling? How do you define success if MOOC completion rates are often low? How can online courses be financially sustainable and support revenue generation for other areas of the museum? You are welcome to submit questions in advance or live during the session! Use this form to submit advance questions: https://forms.gle/LF5252RGuL5Suxj99 Explore MoMA's online courses here: https://www.moma.org/research-and-learning/classes
+CATEGORIES:EXPERIMENTAL SESSION
+LOCATION:Open video conference and chat\, Virtual
+SEQUENCE:0
+UID:3b63031a85f1a7a1172afcfca46a3378
+URL:http://mcn2020virtual.sched.com/event/3b63031a85f1a7a1172afcfca46a3378
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201111T173000Z
+DTEND:20201111T183000Z
+SUMMARY:Connecting Students to Professionals Using Social Media: Twitter in a Learning in Museums Course
+DESCRIPTION:In Spring 2020\, a Learning in Museums course at Michigan State University included an assignment to use Twitter as reflection\, and a way students would connect with professionals. The presenters will share results of a survey\, conduct a discussion about how social media works in the context of a course\, and about whether using social media in Museum Studies courses is or is not appropriate.
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:216f4534ef7cb2ea8f2c040816a01c51
+URL:http://mcn2020virtual.sched.com/event/216f4534ef7cb2ea8f2c040816a01c51
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201111T173000Z
+DTEND:20201111T183000Z
+SUMMARY:Planning for Drupal 7 End-of-Life at the Museum
+DESCRIPTION:Drupal 7 is the most widely used content management system in museums. Generally speaking it has served them well. However\, as of November 2021\, Drupal 7 is end-of-life. This session is for anyone involved in running a Drupal 7 website who wants to understand how to go forward. What are the issues involved in moving to Drupal 8/9 and what are the alternatives?
+CATEGORIES:WORKSHOP
+LOCATION:Deep Dive/Workshop Channel (limited space)\, Virtual
+SEQUENCE:0
+UID:fe41fec89336542bf8a55583a55ab528
+URL:http://mcn2020virtual.sched.com/event/fe41fec89336542bf8a55583a55ab528
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201111T183000Z
+DTEND:20201111T190000Z
+SUMMARY:Experiential Design for an Unknown Future
+DESCRIPTION:View the pre-recorded presentation to prepare for this live Q&A SessionAt Bluecadet\, we’re always exploring different methods for integrating digital products into public space. Now\, there’s added urgency as we’re tasked with integrating aspects of public space into our digital products. Our ongoing R&D projects are becoming ways for us to support new public health and safety concerns. Like a lot of design agencies\, the crisis may have blurred our vision of the future\, but it's sharpened our focus on the task at hand.This talk will concentrate on the impact of four categories towards experiences in an uncertain future: overall digital strategy\, spatial design\, input methods\, and the extended experience. These categories aren’t mutually exclusive and\, indeed\, are most effective when employed together. Redundancy and flexibility will be essential moving forward — we can anticipate and plan for some uses but there are many\, many others that we can't. That same flexibility also has implications for the longevity and sustainability of what we build.
+CATEGORIES:PRESENTER Q&A AND CONVERSATION
+LOCATION:Live Q&A for pre-recorded session\, Virtual
+SEQUENCE:0
+UID:a5d95760a8255079dcf2e2968e698ab2
+URL:http://mcn2020virtual.sched.com/event/a5d95760a8255079dcf2e2968e698ab2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201111T190000Z
+DTEND:20201111T203000Z
+SUMMARY:Tool Petting Zoo: Getting Hands-on with Airtable and Other Tools for Collections\, Exhibitions\, Project Management\, and Content Strategy\, and Workflow
+DESCRIPTION:Join this session to meet real live examples of museums getting creative with collaborative tools to support their work. Several presenters will provide focused demonstrations of Airtable\, Trello\, Slack\, and more. They’ll illustrate how their teams leverage free or inexpensive software to establish and optimize workflows for digital content strategy\, social media\, exhibitions planning\, collections data\, project management\, and professional development. In addition to our pre-planned presentations\, we’ll crowdsource problems in search of a solution and invite attendees to share their own favorite tools with the group. Then we will open the room to the “tool petting zoo”: hands-on demonstrations and consultations in which participants can test drive the tools shared in the overview and begin building their own.Deep Dive sign-ups open Wednesday\, September 9. Space is limited and advance registration is required—so mark your calendars! Once sessions are filled\, there will be a waitlist and MCN will notify attendees as spots become available.
+CATEGORIES:DEEP DIVE
+LOCATION:Deep Dive/Workshop Channel (limited space)\, Virtual
+SEQUENCE:0
+UID:6d2e53b37ceeb8297fd85c2826b4f6c7
+URL:http://mcn2020virtual.sched.com/event/6d2e53b37ceeb8297fd85c2826b4f6c7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201111T190000Z
+DTEND:20201111T193000Z
+SUMMARY:Speed Networking #2 - Sponsored by Eriksen Translations
+DESCRIPTION:Join facilitators Don Youngberg and Eric Longo to meet other MCN attendees with some speed networking!Each session consists of a series of breakout rooms with several participants. Tell us where you're from\, what you're curious about\, and more—just be quick!Every session lasts only 30 minutes and accommodates up to 80 participants.Advance sign-up required.Brought to you by Eriksen Translations.
+CATEGORIES:NETWORKING
+LOCATION:Social Events\, Virtual
+SEQUENCE:0
+UID:9fc979d5db02f62941817412577ffde9
+URL:http://mcn2020virtual.sched.com/event/9fc979d5db02f62941817412577ffde9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201111T190000Z
+DTEND:20201111T200000Z
+SUMMARY:How to Unionize Your Museum
+DESCRIPTION:This is a reprise of last year's successful How to Unionize your Museum panel. We’ll hear from organizers at the New Children’s Museum and the Nonprofit Professional Employees Union about the process\, benefits\, and obstacles of unionizing. Museum workers need a space to talk about labor issues and learn about their options without fear of retaliation.
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:6d43e4bdc545771782e697ff616f371a
+URL:http://mcn2020virtual.sched.com/event/6d43e4bdc545771782e697ff616f371a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201111T203000Z
+DTEND:20201111T213000Z
+SUMMARY:Help wanted: MCN & NEW INC seek feedback on case study template for musetech digital projects web resource
+DESCRIPTION:With the support from a Knight Foundation grant\, MCN is partnering with NEW INC\, New Museum’s art and technology incubator\, to launch a new web resource for the museum tech community. Through this new resource\, we will capture and share model projects and experiments from across our community\, with a goal of creating a centralized repository that anyone can use to advance their own understanding of how to creatively integrate technology into museum digital practice. Over the past few years\, the field has made remarkable advancements and the goal of this joint project is to create a home for documenting and discussing this work.The format of our platform -- how information is collected\, how it is categorized\, how it is presented -- is being jointly developed over the next few months by MCN and NEW INC. These two 60-minute Experimental sessions are part of our discovery process\, during which we'll share some early case study templates and seek participants' feedback as we develop a new framework for capturing innovative digital projects in the field.YOU MUST PRE-REGISTER HERE TO ATTEND THIS SESSION ZOOM MEETING!
+CATEGORIES:EXPERIMENTAL SESSION
+LOCATION:Open video conference and chat\, Virtual
+SEQUENCE:0
+UID:21fd9481243e5a003c6d781cfeb8eab8
+URL:http://mcn2020virtual.sched.com/event/21fd9481243e5a003c6d781cfeb8eab8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201111T203000Z
+DTEND:20201111T210000Z
+SUMMARY:“Like” in the Time of COVID: #Musesocial and Emergency Planning
+DESCRIPTION:View the pre-recorded presentation to prepare for this live Q&A SessionThe COVID-19 pandemic upended museum social media. The transition to becoming the primary outward face of many museums was not always quick or easy. The three panelists will explain their experiences managing social media accounts and adapting to meet their organizations’ needs as those needs rapidly changed.
+CATEGORIES:PRESENTER Q&A AND CONVERSATION
+LOCATION:Live Q&A for pre-recorded session\, Virtual
+SEQUENCE:0
+UID:ee82be2db6b5f45acd547cdaf793e1d0
+URL:http://mcn2020virtual.sched.com/event/ee82be2db6b5f45acd547cdaf793e1d0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201111T210000Z
+DTEND:20201111T220000Z
+SUMMARY:Interaction Beyond the Touchscreen
+DESCRIPTION:Recognizing our new normal under COVID-19 restrictions it is important to consider visitor engagement with onsite digital experiences. In some regions\, government restrictions have mandated that all touchscreen interactives remain off when museums re-open. In other regions visitors have been variably reluctant or willing to interact with touchscreens. Public sentiment and policy is evolving in real time and is difficult to generalize so what are museums to do?Is this an opportunity for museums to rethink the digital experience in-gallery? Is this a rebirth of BYOD experiences or a chance for something completely different? Are fringe benefits accrued by rethinking digital engagement?Panelists from the USA\, Canada\, UK and Australia will discuss steps taken at their museums to meet these challenges and will also share visitor responses to these new forms of interaction.
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:5c117a08658624aa5e10a0d9ec24306f
+URL:http://mcn2020virtual.sched.com/event/5c117a08658624aa5e10a0d9ec24306f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201111T213000Z
+DTEND:20201111T220000Z
+SUMMARY:Virtual Field Trip: Museum of Portable Sound (Session 1)
+DESCRIPTION:Take an online field trip to the Museum of Portable Sound (MOPS)\, an independent museum founded in London in 2015\, now based in Portsmouth\, UK! This unique museum collects\, preserves\, and exhibits sounds as objects of culture\, offering its visitors a listening-based experience that’s been featured in publications like Atlas Obscura\, Londonist.com\, and Curator: The Museum Journal.MOPS encourages its visitors to make an appointment to listen to sounds that may otherwise slip through the cracks\, to give attention to sounds that exist beyond music – as objects indelibly connected to our lives and our world. Containing 30 galleries filled with 325 objects (over nine hours of material) located within four main topical categories – Natural History\, Science & Technology\, Architecture & Urban Design\, and Art & Culture – this museum presents sounds in a whole new light.This field trip\, led live online from the UK by MOPS Director and Chief Curator John Kannenberg\, will present a special 20-minute tour of MOPS collection highlights – from the first recording of a human voice (made before Edison’s phonograph!) to a malfunctioning MacBook\, from pink river dolphins chuckling in the Amazon to the flush of Sigmund Freud’s toilet at his house in Vienna – you’ll experience a whirlwind of audible culture that will make you laugh\, make you wonder\, and hopefully make you think a little differently about what a museum can be in the 21st century.
+CATEGORIES:EXPERIMENTAL SESSION
+LOCATION:Social Events\, Virtual
+SEQUENCE:0
+UID:981ea8b8e832698e0858c0c719a580f7
+URL:http://mcn2020virtual.sched.com/event/981ea8b8e832698e0858c0c719a580f7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201111T221500Z
+DTEND:20201111T224500Z
+SUMMARY:Virtual Field Trip: Museum of Portable Sound (Session 2)
+DESCRIPTION:Take an online field trip to the Museum of Portable Sound (MOPS)\, an independent museum founded in London in 2015\, now based in Portsmouth\, UK! This unique museum collects\, preserves\, and exhibits sounds as objects of culture\, offering its visitors a listening-based experience that’s been featured in publications like Atlas Obscura\, Londonist.com\, and Curator: The Museum Journal.MOPS encourages its visitors to make an appointment to listen to sounds that may otherwise slip through the cracks\, to give attention to sounds that exist beyond music – as objects indelibly connected to our lives and our world. Containing 30 galleries filled with 325 objects (over nine hours of material) located within four main topical categories – Natural History\, Science & Technology\, Architecture & Urban Design\, and Art & Culture – this museum presents sounds in a whole new light.This field trip\, led live online from the UK by MOPS Director and Chief Curator John Kannenberg\, will present a special 20-minute tour of MOPS collection highlights – from the first recording of a human voice (made before Edison’s phonograph!) to a malfunctioning MacBook\, from pink river dolphins chuckling in the Amazon to the flush of Sigmund Freud’s toilet at his house in Vienna – you’ll experience a whirlwind of audible culture that will make you laugh\, make you wonder\, and hopefully make you think a little differently about what a museum can be in the 21st century.
+CATEGORIES:EXPERIMENTAL SESSION
+LOCATION:Social Events\, Virtual
+SEQUENCE:0
+UID:d9c4a77ab959fafec6214f4ffa8a4c40
+URL:http://mcn2020virtual.sched.com/event/d9c4a77ab959fafec6214f4ffa8a4c40
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201111T230000Z
+DTEND:20201111T233000Z
+SUMMARY:Virtual Field Trip: Museum of Portable Sound (Session 3)
+DESCRIPTION:Take an online field trip to the Museum of Portable Sound (MOPS)\, an independent museum founded in London in 2015\, now based in Portsmouth\, UK! This unique museum collects\, preserves\, and exhibits sounds as objects of culture\, offering its visitors a listening-based experience that’s been featured in publications like Atlas Obscura\, Londonist.com\, and Curator: The Museum Journal.MOPS encourages its visitors to make an appointment to listen to sounds that may otherwise slip through the cracks\, to give attention to sounds that exist beyond music – as objects indelibly connected to our lives and our world. Containing 30 galleries filled with 325 objects (over nine hours of material) located within four main topical categories – Natural History\, Science & Technology\, Architecture & Urban Design\, and Art & Culture – this museum presents sounds in a whole new light.This field trip\, led live online from the UK by MOPS Director and Chief Curator John Kannenberg\, will present a special 20-minute tour of MOPS collection highlights – from the first recording of a human voice (made before Edison’s phonograph!) to a malfunctioning MacBook\, from pink river dolphins chuckling in the Amazon to the flush of Sigmund Freud’s toilet at his house in Vienna – you’ll experience a whirlwind of audible culture that will make you laugh\, make you wonder\, and hopefully make you think a little differently about what a museum can be in the 21st century.
+CATEGORIES:EXPERIMENTAL SESSION
+LOCATION:Social Events\, Virtual
+SEQUENCE:0
+UID:db559d75a79e8660e4693434401961bb
+URL:http://mcn2020virtual.sched.com/event/db559d75a79e8660e4693434401961bb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201112T160000Z
+DTEND:20201112T173000Z
+SUMMARY:From Museum Studies Programmes to Museum’s Hiring Pools: Evaluating Digital Literacy and Skills Taught in Higher-Education Courses
+DESCRIPTION:We would like to invite participants to a roundtable discussion where we will explore the failure and successes of Museum Studies curricula in relation to the digital literacy and skills that the sector seeks to develop. Our aim is to provide a space to reexamine the existing relationship between academia and GLAM institutions for a more sustainable practice-led partnership.Deep Dive sign-ups open Wednesday\, September 9. Space is limited and advance registration is required—so mark your calendars! Once sessions are filled\, there will be a waitlist and MCN will notify attendees as spots become available.
+CATEGORIES:DEEP DIVE
+LOCATION:Deep Dive/Workshop Channel (limited space)\, Virtual
+SEQUENCE:0
+UID:6aa8a7f04f8cf429a4ff465dda8e2d71
+URL:http://mcn2020virtual.sched.com/event/6aa8a7f04f8cf429a4ff465dda8e2d71
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201112T160000Z
+DTEND:20201112T170000Z
+SUMMARY:Stories of Resilience and Resistance: What Happens When Cyclical Work Becomes Sisyphean?
+DESCRIPTION:This session aims to explore Sisyphean efforts—or everyday endeavors that become endless and in turn ineffective and burdensome—and pathways that professionals at different stages of their career have used to navigate such difficulties. Whether it is in the realm of system administration\, grant applications\, or emotional labor\, workers in our sector must creatively navigate the variety of iterative work or environments that can generate feelings of helplessness and fatigue. Through group storytelling and reflection\, we will explore what it means to shoulder that burden\, cast off (or shatter) the boulder\, and the ways in which resilience can both help and hurt. In doing so\, this session seeks to collectively discover the many routes that land us in such efforts\, and share experiences that lead to their resolution\, disruption\, or sustainability.We would love for you to submit your story for our group reflection! Signup form: https://docs.google.com/forms/d/e/1FAIpQLScVGBPLULmWJeBRkQDc1tKJLZlAORK3JFD6rALPvC44zmK-5w/viewformThis session is Chatham house rules- stories can be shared anonymously.
+CATEGORIES:EXPERIMENTAL SESSION
+LOCATION:Open video conference and chat\, Virtual
+SEQUENCE:0
+UID:bc989e56d8f595f31e87dda34ed33ee4
+URL:http://mcn2020virtual.sched.com/event/bc989e56d8f595f31e87dda34ed33ee4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201112T160000Z
+DTEND:20201112T170000Z
+SUMMARY:Bright Spots: Creating Social Media Moments of Joy During a Pandemic
+DESCRIPTION:During the earlier days of the pandemic and while death rates reached their peaks\, museums and cultural organizations shuttered their doors. While institutions turned their focus to engaging with audiences virtually\, some museums created campaigns to offer a reprieve from a bleak news cycle. These institutions elicited unexpected joy\, humor\, and moments of kindness—sorely needed by online communities. Join staff from the New-York Historical Society\, Hirshhorn Museum and Sculpture Garden\, Shedd Aquarium\, Field Museum\, and Smithsonian’s National Zoo to explore four digital storytelling campaigns that reached record audiences during the pandemic.The New-York Historical Society and Hirshhorn Museum combined forces to send virtual flowers from their collections to museum colleagues around the globe for #MuseumBouquet\, and followed the campaign by shedding virtual sunshine before Earth Day with sunny works for #MuseumSunshine.The Shedd Aquarium let their penguins roam free through their exhibits to the delight of online audiences. News of the penguins went viral on social media and in the press. The jaunts of one penguin named Wellington earned himself the hashtag #WheresWellingtonWednesday. The penguins interacted with wildlife elsewhere in the space that they would never encounter in nature.In response to the Shedd’s penguins\, the Field Museum rolled out a series of “unSUEpervised” videos wherein an inflatable SUE the T. rex ran amok through empty exhibitions and office spaces. SUE’s visit to the Hall of Birds was covered by E! News and CNN\, and the series of videos has been watched over 1.69 million times.In efforts to “bring the zoo to you\,” the National Zoo’s Cub Cam offered a real-time view of four\, fuzzy cheetah cubs born April 8 at the Smithsonian Conservation Biology Institute. Online audiences tuned in for the birth\, were invited to vote on names for the cubs\, and are following their growth through #CheetahCubdates and #NatZooZen on social media.These cultural organizations span living collections\, natural history\, American history\, and contemporary art. Although each of these institutions have a different mission and focus\, each tapped into the public’s need for joy during a turbulent time.
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 2\, Virtual
+SEQUENCE:0
+UID:cdf617cb81a34666012e4b907269fa03
+URL:http://mcn2020virtual.sched.com/event/cdf617cb81a34666012e4b907269fa03
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201112T180000Z
+DTEND:20201112T193000Z
+SUMMARY:Money Matters: Driving Revenue through Business Model Innovation
+DESCRIPTION:Link to presentation: https://docs.google.com/presentation/d/12F4A1ORfdq_AvGe8QbAN_9FYuKVQuv_CFKPSNw3Eb_E/edit?usp=sharingRevenue is often treated as a dirty word within the non-profit and cultural sectors\, but it is crucial to achieving financial sustainability. Furthermore\, it is not static; continuous innovation is needed simply to sustain one’s position in a marketplace\, let alone expand in reach and impact. The past year has brought such needs even further to the fore\, as primary forms of revenue generation - admissions\, special exhibitions\, etc. - have been shut down and organizations have had to scramble to bring in money through methods both familiar and brand-new.In this session\, participants will learn-by-doing: working through a series of steps to generate\, share\, and build upon each others’ ideas for revenue creation through new offerings\, services\, and business models. We will introduce simple innovation frameworks to guide the activity\, which can be easily applied at participant’s home institutions. Session leaders (and participants) will bring examples as inspiration\, and to help participants challenge their orthodoxies and think expansively on how they might bring in revenue\, while aligning with and further advancing their mission.The session will apply a few ‘lenses’ to accelerate this process\, including membership\, programming\, and partnerships. At the conclusion of the session\, participants will have a view towards developing and maintaining a balanced portfolio of revenue-generating innovation.Deep Dive sign-ups open Wednesday\, September 9. Space is limited and advance registration is required—so mark your calendars! Once sessions are filled\, there will be a waitlist and MCN will notify attendees as spots become available.
+CATEGORIES:DEEP DIVE
+LOCATION:Deep Dive/Workshop Channel (limited space)\, Virtual
+SEQUENCE:0
+UID:2275fa225ce31d54bb331c1505e8fe84
+URL:http://mcn2020virtual.sched.com/event/2275fa225ce31d54bb331c1505e8fe84
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201112T180000Z
+DTEND:20201112T193000Z
+SUMMARY:Empathy Jam: The Reunion Tour
+DESCRIPTION:In 2018\, we hosted an MCN session about empathy and facilitated some empathy-building activities using our empathi[ZINE]. In such a changing\, uncertain time as 2020\, we want to bring some of these concepts back to the top of people’s consciousness. We invite you to engage in some person-to-person\, group\, and individual exercises that we’ll facilitate to find connection in a world that seems quite disconnected.
+CATEGORIES:EXPERIMENTAL SESSION
+LOCATION:Open video conference and chat\, Virtual
+SEQUENCE:0
+UID:18f22b5b85743cc479a3cea370293178
+URL:http://mcn2020virtual.sched.com/event/18f22b5b85743cc479a3cea370293178
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201112T180000Z
+DTEND:20201112T190000Z
+SUMMARY:DAM + IP + IIIF + Digital Imaging SIGs Meetup - Sponsored by Capture
+DESCRIPTION:Join the Digital Asset Management\, Intellectual Property\, IIIF and Digital Imaging combined SIG Meetup.Hosted by:Susan Wamsley & Jessica Herczeg-Konecny\, DAM SIG co-chairsMargaret McKee & Evelin Heidel\, IP SIG co-chairsEmmanuelle Delmas-Glass & Stefano Cossu\, IIIF SIG co-chairsBen Cort & Christopher Ciccone\, Digital Imaging SIG co-chairsSponsored by Capture.
+CATEGORIES:SIG MEETUP
+LOCATION:Social Events\, Virtual
+SEQUENCE:0
+UID:e8baf339aed6992e327b83edaee81ecf
+URL:http://mcn2020virtual.sched.com/event/e8baf339aed6992e327b83edaee81ecf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201112T183000Z
+DTEND:20201112T190000Z
+SUMMARY:Designing Inclusive Learning Path through Digital Storytelling: A Pilot Experimentation in a VR Interactive Etruscan Exhibition
+DESCRIPTION: View the pre-recorded presentation to prepare for this live Q&A SessionIn recent years\, museums are growingly recognized to be educational sites which could promote social and cultural integration through different methodologies such as Digital Storytelling (DST)\, Virtual Reality (VR) and Personalised Education. Starting from this assumption\, the Centre for Museum Studies Roma TRE University (IT) has been working for the last three years in the “Inclusive Memory” project (http://host.uniroma3.it/progetti/inclusivememory/en/index.html) based on the idea that cultural heritage within the museum could be exploited as a social and active participation driver. The experimentation here presented is aimed at testing an Inclusive VR Etruscan Exhibition designed to foster the construction of a shared collective social memory by combining DST methodologies with learning instructions based on Visual Thinking and Critical Reflection.The learning paths were meant to blend the physical visit at the National Etruscan museum "Villa Giulia" (Rome) with Digital Stories available by a custom-designed App for smartphone. The stories were designed to represent the voices of the minorities\, stigmatized and marginalized groups such as migrants\, elder people\, people with cognitive/physical impairments and women. However\, the worldwide Covid 19 health emergency - together with the need to follow social distancing - required us to redesign the visit and\, as a consequence\, we tried to turn this challenge into an opportunity. We asked ourselves “How we could visit Museums in the new post-covid world based on digital experiences?”In this new scenario\, virtual interactive exhibition could be one of the possible solution. To do this\, we had to design cultural and educational interfaces. We proposed a particular experience of interactive virtual museum. The user - after an initial profiling phase - is required to collect the Etruscan coins placed above the main museum objects. After gaining the coin\, an object-related story pops up on the screen. Different kinds of interactive activities were designed to stimulate the user learning experience: all the stories are interactive containing questions aimed at stimulating the user reflection. In addition\, the user is invited to answer an open-ended question designed to both stimulate and assess Critical Thinking Skills.The interactive virtual museum should not be simply conceived as a simulation of the physical museum experience. The aim is to offer a completely different experience - virtual and augmented - of the museum exhibition. Thus\, we exploited a visual abstraction approach. Firstly\, it was necessary to design the museum space in 3D - through 3D modeling software Rhinoceros. For greater clarity and conceptual abstraction\, it was decided to design the rooms of the museum\, according to a typical architectural plan of contemporary buildings at the Etruscan Museum: a row of rooms in succession. Each section follows the same pattern: inside the room there is the main exhibition object - also designed in 3D - and five abstract empty display cases.Then\, the specific User Interface for the interaction between the user and the space / object has been designed. Through a first prototyping with the software Adobe XD\, it was possible to define the wireframes and the graphic and interaction elements of the interface. Subsequently\, the project has been uploaded in the Unity platform for coded development. The interface reflects the maximum inclusiveness fees for DSA and non-DSA subjects. The strong use of visual contrasts given by the color palette\, and the choice of a specific typeface - Biancoenero font - make the interface easy to read without losing elegance and style.For the first experimentation\, we tested only one of the six learning paths named “The highest ambition of a woman in ancient societies ... and today?”. The learning path describes the contrast between the subordinate role of the woman in the ancient Greek society and the strong figure of the powerful barbarian sorceress Medea\, an outcast in Greece. A group of (N) post-graduate students in “Museum Education” will test the Virtual Learning Path. Our research questions are the following: 1. Do participants enjoy the visit? 2. Does Virtual Learning Path stimulate participants’ critical reflection? 3. Are there any correlations among participants characteristics and their preferences for stories\, pieces of arts and fruition styles? In order to answer these questions\, different kinds of data will be collected and analysed: log data and participants reactions to stories and pieces of arts will be used to understand to which extent participants enjoy the visit. These data will be also used to calculate correlation with participants personal characteristics (e.g. gender\, age\, personality traits\, artistic preferences and so on). Open-ended answers will be analysed through a content analysis methodology to assess participants’ crit...
+CATEGORIES:PRESENTER Q&A AND CONVERSATION
+LOCATION:Live Q&A for pre-recorded session\, Virtual
+SEQUENCE:0
+UID:9107ea68739404413f087ac420001b16
+URL:http://mcn2020virtual.sched.com/event/9107ea68739404413f087ac420001b16
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201112T190000Z
+DTEND:20201112T200000Z
+SUMMARY:Designing for Labor Equity: Evaluative Tools from the Collective Responsibility Project
+DESCRIPTION:When workers leading digital innovation are funded by short-term grants\, is it possible to build sustainable labor practices? After a presentation\, attendees will break into groups and use the tools developed through the Collective Responsibility project to evaluate the labor aspects of a project. Each group will report back on their discussions\, followed by further group discussion or Q&A.
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:2f327cc76c8233e1d5a4b1df0550ced5
+URL:http://mcn2020virtual.sched.com/event/2f327cc76c8233e1d5a4b1df0550ced5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201112T193000Z
+DTEND:20201112T203000Z
+SUMMARY:Bring Your Own Device and In-Hand Interactives: How Covid-19 Forced Innovation in Our Interactives
+DESCRIPTION:Bring Your Own DeviceIn 2015 the Cooper Hewitt Smithsonian Design Museum launched the Pen\, an interactive stylus that allows visitors to collect objects on display by tapping wall labels embedded with NFC tags\, and saving them to an online Cooper Hewitt account. In 2020 this functionality was reproduced as a standalone\, and open-source\, iOS application as a way to prove that it is within the means of cultural heritage institutions to do what was done with the Pen\, at Cooper Hewitt\, sector-wide. [1]An open-source "bring your own pen device" offers a way for institutions without the means or the ability to develop or distribute bespoke hardware like the Pen the ability to let their visitors take their visit with them and to revisit it at a later date. Importantly it provides a technical and conceptual scaffolding that allows an institution to participate in that remembering. Every year there are thousands\, perhaps millions\, of photographs of objects or their wall labels that visitors take during museum visits that exist in isolation without any meaningful connection back to the object itself\, the institution that shepherds it or the broader collection it is a part of. A "bring your pen device" is a tangible first step towards bridging that gap.This presentation will discuss the history\, implementation and technical details of the project. It will also discuss next steps and how the project can be adapted to work with institutions that lack the budget or the staff for large or sophisticated digital initiatives and how it might be adapted to work across different institutions (for example Museum Mile in New York City or the different Smithsonian museums in Washington).Finally it will make an argument for a renewed and modular approach to software development by and for the cultural heritage sector in order that we might develop a re-usable toolbox\, or kit of parts\, that can be re-configured quickly and easily to adapt to the needs of different institutions.[1] https://www.aaronland.info/weblog/2020/06/16/revisiting/#penIn-Hand IneractivesAs Covid-19 took hold of the world and changed the way we interact with each other\, the Cincinnati Museum Center (CMC) began to explore how we would engage our visitors during a pandemic. Being known for our interactive experiences\, we explored ways our guests would experience these interactives in no-touch ways upon reopening. These options included investing in gesture control\, providing styluses\, removing interactives\, installing new hardware\, and more. After much thought\, we landed on developing a new experience called “CMC In-Hand Interactives”In-Hand Interactives is a web-based experience offering much of the same content of our interactives via a mobile device. It offered the most economical solution that could be quickly developed and highly engaging. Having just invested in new interactives during our restoration\, this path would also allow us to return our interactives to operations once the pandemic threat had ended. Additionally\, CMC’s board\, leadership\, and staff wanted to use this as the foundation and learning opportunity for how we engage our guests digitally in the future. Finally\, CMC developed a partnership with Digimarc to effectively deliver the content to our guests. By scanning a digitally embedded barcode in artwork\, guests could be launched directly to the content.In this session\, we will explore the process from ideation\, evaluating solutions\, leveraging existing content\, re-imagining the guest experience for mobile\, building a new web platform\, and delivering this content to our guests.
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 2\, Virtual
+SEQUENCE:0
+UID:3b45801b579d40cec0ad67fb6abcb26a
+URL:http://mcn2020virtual.sched.com/event/3b45801b579d40cec0ad67fb6abcb26a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201112T193000Z
+DTEND:20201112T203000Z
+SUMMARY:Data & Insights + Human-Centered Design + Strategy SIGs Meetup - Sponsored by Lucidea
+DESCRIPTION:Join the Data & Insights\, Human-Centered Design and the Strategy combined SIG Meetup.Hosted by:Katherine Nip & Chris Unitt\,  Data & Insights SIG co-chairsBora Sheshu & Cathy Sigmond\, Human-Centered Design SIG co-chairsTricia Robson & Douglas Hegley\, Strategy SIG co-chairsSponsored by Lucidea.
+CATEGORIES:SIG MEETUP
+LOCATION:Social Events\, Virtual
+SEQUENCE:0
+UID:6b59fcff9c60d7ac82c53a9350119979
+URL:http://mcn2020virtual.sched.com/event/6b59fcff9c60d7ac82c53a9350119979
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201112T200000Z
+DTEND:20201112T210000Z
+SUMMARY:DEAI Listening Group
+DESCRIPTION:Practices centering diversity\, equity\, accessibility\, and inclusion (DEAI) are critical to the field of museum of technology. What are some ways we can better incorporate and promote DEAI both in the MCN community and throughout the #MuseTech sector at large? Join DEAI Advisory Board Members Scarlett Hu and Rumana Chaudhuri for a session that centers MCN community members as they voice their ideas and share examples of how they've created more inclusive spaces at their organizations and beyond.
+CATEGORIES:MCN COMMUNITY
+LOCATION:Open video conference and chat\, Virtual
+SEQUENCE:0
+UID:7d4c42bbc1a79ecf0864ef96e018cf20
+URL:http://mcn2020virtual.sched.com/event/7d4c42bbc1a79ecf0864ef96e018cf20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201112T203000Z
+DTEND:20201112T213000Z
+SUMMARY:Social Distance = Distance Learning
+DESCRIPTION:In the time of social distancing\, we need distance learning more than ever. Museums around the country are turning to this medium as a way to sustain their relationships with existing audiences and open their digital doors to new ones. In this moderated panel discussion\, the panelists will share how their museums have responded to the novel coronavirus through distance learning\, such as virtual field trips\, online courses\, and mixed reality programs. Each museum has varying levels of experience with distance learning but the global pandemic has caused them to either kickstart\, expand\, or reexamine the programming they offer in order to meaningfully engage audiences while the physical buildings remain closed.This session will share those stories and explore questions such as: how does distance learning uniquely explores the tension between transformation and longevity? how can museums transform successful onsite programs into online learning and how do you maximize digital spaces for learning? How do you get institutional buy-in to rapidly shift the focus of staff and resources to new types of programming? How can museums see this as an opportunity to sustain existing relationships with their audiences and invite new visitors in?This session will investigate the MCN theme of Sustainability by exploring what distance learning technologies and practices look like in the face of disruption as a result of COVID-19 and how this transformation impacts the long-term goals of their department and/or institution. It will address themes from Strand 1 by sharing how museums have created new strategies via distance learning to engage audiences as a result of COVID-19 closures.The panelists in this session represent three types and sizes of museums\, from three geographic areas\, and three levels of experience with distance learning. This mixture of experience will provide a rich discussion around transformation and sustainability in engaging audiences through distance learning. They include:- A regional history museum that has never utilized distance learning but is switching gears to overhaul their programs;- A national history museum that has existing K-12 virtual field trips\, and higher ed and lifelong learning online programming\, but exploring online offerings for teacher professional development;- A statewide art museum that has experiences in different forms of distance learning for various audiences and expanding into mixed reality.The moderator is a museum consultant with expertise in distance learning and podcasting\, so can mediate a lively interactive discussion between panelists and virtual attendees.During the session\, the moderator would facilitate Q&A in the chat throughout the session; attendees and panelists could use the chat to provide resources to each other in real time; use polling to stimulate discussion or focus the conversation in ways that are most relevant to the attendees; and play a game with panelists and attendees at the end of the session!
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:a654948664d8e1eb38321445c6bd159e
+URL:http://mcn2020virtual.sched.com/event/a654948664d8e1eb38321445c6bd159e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201112T203000Z
+DTEND:20201112T210000Z
+SUMMARY:A Flexible\, Touchfree Interactive Platform for Exhibiting Physical and Digital Student Works in a University Library
+DESCRIPTION:View the pre-recorded presentation to prepare for this live Q&A SessionWe will present a case study sharing the design and development process for a new interactive exhibit space at the North Carolina State University Libraries\, called the Innovation Studio. The Libraries collaborated with Relative Scale of Raleigh\, NC to realize an experience built around interactive projection\, designed as a lightweight and mostly “touchfree” approach to digital interactives. This interaction design\, and the content platform that underlies it\, facilitate dynamic exhibition in a multi-use space—one that is central to a larger transformation happening in the newly renovated Hill Library. The Innovation Studio exhibition platform affords a new approach to collecting student work (in both digital and physical form) and sharing their stories\, further situating the library as a forum and community space.In designing for flexibility—the exhibits will often need to be removed so the Studio can be used for teaching—interactive projection won out over bulky touch tables\, leading to a “touchfree” approach that is also uniquely ready for the shift in user experience caused by COVID-19. We’ll share our technical process of UX design\, prototyping\, concept development and the interplay between NC State & Relative Scale; and particularly focus on the challenges of interaction design and our content model\, which allows for different types of works (digital\, physical\, and hybrid) and the rich diversity of a University community.
+CATEGORIES:PRESENTER Q&A AND CONVERSATION
+LOCATION:Live Q&A for pre-recorded session\, Virtual
+SEQUENCE:0
+UID:e3978da0d7b66b484b49be1e68a49fde
+URL:http://mcn2020virtual.sched.com/event/e3978da0d7b66b484b49be1e68a49fde
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201112T220000Z
+DTEND:20201112T230000Z
+SUMMARY:Making ‘The Digital Future of Museums’
+DESCRIPTION:The Digital Future of Museums: Conversations and Provocations' (March 2020\, Routledge) explores the role of digital technology in contemporary museum practice within Europe\, the U.S.\, Australasia and Asia through interviews with 24 museum practitioners\, thinkers\, and experts in related fields from a diverse range of backgrounds and geographies.In this session\, the book’s authors will synthesize their learnings from the interviews\, and offer provocations and reflections about effective practice that will help prepare today’s museums for tomorrow. Topics covered in the book include post-digital/post-normal museum making; trust\, truth\, data\, privacy and personalisation; digital collections and source communities; digital platforms and practices; institutional change and leadership; interactivity and immersion and many more. This session will focus on the necessity of deep dialogues\, community ownership\, local relevance and social impact for museum digital practice now and into the future. It is less about sustainability in the sense of “sustaining orgs as they are” and much more focused on how to sustain and be successful while undergoing the necessary changes that are demanded of us. It’s a progressive and challenging project\, fit for these complex times.Beyond this synthesis\, this session will include a facilitated discussion with two additional experts to track the changes since the book was developed\, including the impact of COVID-19\, the museum labor movement and the push to anti-racism in shaping museum digital practice going forward*.* Given the evolving context\, the two participants will be named closer to the conference date to ensure relevance. We will be intersectional in our choice of experts.
+CATEGORIES:MCN COMMUNITY
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:a4b9ddc2446b3e8187f29659c02b9114
+URL:http://mcn2020virtual.sched.com/event/a4b9ddc2446b3e8187f29659c02b9114
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201112T230000Z
+DTEND:20201112T233000Z
+SUMMARY:Speed Networking #3- Sponsored by Axiell
+DESCRIPTION:Join facilitators Don Youngberg and Eric Longo to meet other MCN attendees with some speed networking! Each session consists of a series of breakout rooms with several participants. Tell us where you're from\, what you're curious about\, and more—just be quick!Every session lasts only 30 minutes and accommodates up to 80 participants.Advance sign-up required.Brought to you by Axiell.
+CATEGORIES:NETWORKING
+LOCATION:Social Events\, Virtual
+SEQUENCE:0
+UID:3bfc1886c5bd7cf3b38d781961981375
+URL:http://mcn2020virtual.sched.com/event/3bfc1886c5bd7cf3b38d781961981375
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201117T160000Z
+DTEND:20201117T170000Z
+SUMMARY:“This Isn’t a Question but a Comment...” Unpacking Misogyny in Musetech
+DESCRIPTION:This session seeks to explore and unpack misogyny in museums\, and specifically within musetech and STEAM. Internalized misogyny\, microaggressions\, overt harassment and assault\, retaliation and abuse. The reckoning started with #MuseumMeToo… except we’re still facing it today\, in even more insidious ways as white cishet feminism often overrides the voices of BIPOC folks and LGBTQIA+ folks. We want to provide attendees with the tools they need to recognize the different manifestations of misogyny\, with robust discussion\, and some much-needed catharsis.
+CATEGORIES:EXPERIMENTAL SESSION
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:799794b981ee868b2fc5ae46bf76ea4f
+URL:http://mcn2020virtual.sched.com/event/799794b981ee868b2fc5ae46bf76ea4f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201117T160000Z
+DTEND:20201117T180000Z
+SUMMARY:The Joys of Connecting Your Collections to Wikidata - [SOLD OUT]
+DESCRIPTION:Wikidata is the evolution of Wikipedia towards a modern structured data system that has gained popularity with numerous cultural\, heritage\, and scientific institutions around the world to interconnect their holdings and bring new interactive capabilities to their collections data. This workshop provides a practical guide to how Wikidata works\, the ways museums and libraries can immediately work with it\, and a participatory demonstration of its powerful linked open data and visualization tools. Practical case studies from The Met Museum and the Smithsonian Institution\, among others\, will be shown while walking attendees through the various stages of contribution\, collaboration\, and co-creation with Wikidata.
+CATEGORIES:WORKSHOP
+LOCATION:Deep Dive/Workshop Channel (limited space)\, Virtual
+SEQUENCE:0
+UID:7b00cb699830bd0b2391cb968e34b249
+URL:http://mcn2020virtual.sched.com/event/7b00cb699830bd0b2391cb968e34b249
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201117T163000Z
+DTEND:20201117T170000Z
+SUMMARY:Speed Networking #4 - Sponsored by ACME Ticketing
+DESCRIPTION:Join facilitators Don Youngberg and Eric Longo to meet other MCN attendees with some speed networking!Each session consists of a series of breakout rooms with several participants. Tell us where you're from\, what you're curious about\, and more—just be quick!Every session lasts only 30 minutes and accommodates up to 80 participants.Advance sign-up required.Brought to you by ACME Ticketing.
+CATEGORIES:NETWORKING
+LOCATION:Social Events\, Virtual
+SEQUENCE:0
+UID:a08d036efdabf6f64010112cfc5cb822
+URL:http://mcn2020virtual.sched.com/event/a08d036efdabf6f64010112cfc5cb822
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201117T173000Z
+DTEND:20201117T191500Z
+SUMMARY:Software Show Off
+DESCRIPTION:Too often we only see demos of enterprise software in a highly controlled sales environment. With software show and tell participants will see many different databases in action\, and hear direct testimonials from their peers who use that software daily. For those who already have DAMS and CMS\, we will offer a space to share tips/hacks/troubleshooting and customization ideas among users with the same software.
+CATEGORIES:EXPERIMENTAL SESSION
+LOCATION:Open video conference and chat\, Virtual
+SEQUENCE:0
+UID:51e85fa468ddbfaeaf079baf3fff54ff
+URL:http://mcn2020virtual.sched.com/event/51e85fa468ddbfaeaf079baf3fff54ff
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201117T173000Z
+DTEND:20201117T183000Z
+SUMMARY:Collections for Whomst? Deconstructing Museum Practices\, Constructing Digital Frontiers\, and Envisioning Community Futures
+DESCRIPTION:The Smithsonian has collections that span diverse cultures\, but there are gaps in the digital tools used to organize and understand these collections on both internal and public fronts. We present five case studies that use digital tools to address collection/cataloging legacies at the Smithsonian\, ranging from online archives\, access initiatives\, collections analysis\, and repatriation data.
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:70269adc11285aea2735934adc36af63
+URL:http://mcn2020virtual.sched.com/event/70269adc11285aea2735934adc36af63
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201117T180000Z
+DTEND:20201117T190000Z
+SUMMARY:IT SIG Meetup - Sponsored by Collector Systems
+DESCRIPTION:Join the Information Technology SIG Meetup hosted by co-chairs Craddock and Brian Dawson.Sponsored by Collector Systems.
+CATEGORIES:SIG MEETUP
+LOCATION:Social Events\, Virtual
+SEQUENCE:0
+UID:359bca9483d2ba39585f032007853caa
+URL:http://mcn2020virtual.sched.com/event/359bca9483d2ba39585f032007853caa
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201117T183000Z
+DTEND:20201117T200000Z
+SUMMARY:Redirecting Power: Holding Institutions Accountable in Responsible and Effective Ways
+DESCRIPTION:Note that this session is now open to all attendees. There is no capacity limit on this session. As the world faces dual pandemics of the Covid crisis and structural racism\, the field has experienced an exacerbation of already-critical systemic issues. In the past\, the power and resources of institutions have kept staff and issues silenced\, going unaddressed and free of accountability. As colleagues across the field have experienced the consequences\, many have decided to take action to demand better workplaces and practices in serving our communities. Co-presenters invested in these efforts will share case studies + resources while opening space for discussion\, disagreement and brainstorming.
+CATEGORIES:DEEP DIVE
+LOCATION:Deep Dive/Workshop Channel (limited space)\, Virtual
+SEQUENCE:0
+UID:79c0eb8d42fd7c14294fcd9921a2aaba
+URL:http://mcn2020virtual.sched.com/event/79c0eb8d42fd7c14294fcd9921a2aaba
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201117T183000Z
+DTEND:20201117T184500Z
+SUMMARY:Virtual Museum of Tutankhamun
+DESCRIPTION:No live Q&A will be available for this session.You may view this presentation at any time.The virtual reality and real-time 3D technology in addition to many other display technologies are getting more and more into our life nowadays. The use of immersive virtual reality (VR) systems in heritage can allow users visiting inaccessible sites\, as well as they can allow both greater richness and diversity in content.This paper presents the case study of an interactive VR application "Virtual Museum of Tutankhamun" using VR headset display\, the paper presents an overview of Virtual reality in heritage and explores the classification of VR display systems\, based on their features in terms of interaction and immersion.
+CATEGORIES:PRESENTER Q&A AND CONVERSATION
+LOCATION:Live Q&A for pre-recorded session\, Virtual
+SEQUENCE:0
+UID:ce30d3feecea42cd6e766316c9226934
+URL:http://mcn2020virtual.sched.com/event/ce30d3feecea42cd6e766316c9226934
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201117T190000Z
+DTEND:20201117T193000Z
+SUMMARY:Speed Networking #5 - Sponsored by PLANK
+DESCRIPTION:Join facilitators Don Youngberg and Eric Longo to meet other MCN attendees with some speed networking!Each session consists of a series of breakout rooms with several participants. Tell us where you're from\, what you're curious about\, and more—just be quick!Every session lasts only 30 minutes and accommodates up to 80 participants.Advance sign-up required.Brought to you by Plank.
+CATEGORIES:NETWORKING
+LOCATION:Social Events\, Virtual
+SEQUENCE:0
+UID:e63326d1329a97e48f369ced4439b357
+URL:http://mcn2020virtual.sched.com/event/e63326d1329a97e48f369ced4439b357
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201117T190000Z
+DTEND:20201117T200000Z
+SUMMARY:Effects Of Shelter-In-Place On Museum Website Visitation: Findings From A Cross-institutional Study
+DESCRIPTION:For many museums\, website visitation traditionally supported on-site visitation. What changed with shelter-in-place? We will present cross-industry trends revealed by an analysis of quantitative and qualitative data aggregated from eighteen institutions across the country\, some small\, some medium\, some large. We will compare and contrast with deep dives into the data of the J. Paul Getty Museum and the Whitney Museum of American Art.
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:4dbbec2fbff25b1d5a9f8d0f1047e3dc
+URL:http://mcn2020virtual.sched.com/event/4dbbec2fbff25b1d5a9f8d0f1047e3dc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201117T193000Z
+DTEND:20201117T200000Z
+SUMMARY:OBJ vs. GIF: An Comparative Analysis of Expense and Accessibility in Cultural Heritage Digitization
+DESCRIPTION:View the pre-recorded presentation to prepare for this live Q&A Session3D digitization involves the creation of digital surrogates of museum objects. The use of 3D modelling technology in cultural heritage institutions has rapidly increased over the past twenty years. While light-dependent imaging techniques\, including photogrammetry\, laser triangulation\, LiDAR\, and range scanning\, have proliferated in the museum\, more questions remain about long-term model\, metadata\, and overall file standards. The files produced from these methods\, often OBJ\, PLY\, and STL files\, given their long-lasting usage\, offer a comparative focus for analyzing the expertise and expense needed to create and share these files\, which may put the technology out of reach of small to middle-size cultural heritage institutions and may prohibit non-research parties from accessing these file types. In order to combat these issues\, until these 3D file types become more accessible and standardized along with their methods\, the author recommends the creation of 360 degree GIF files as an inexpensive\, accessible\, and effective alternative for cultural heritage digitization.
+CATEGORIES:PRESENTER Q&A AND CONVERSATION
+LOCATION:Live Q&A for pre-recorded session\, Virtual
+SEQUENCE:0
+UID:e4f7f3fe84c05939c3f16227e9e54451
+URL:http://mcn2020virtual.sched.com/event/e4f7f3fe84c05939c3f16227e9e54451
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201117T203000Z
+DTEND:20201117T213000Z
+SUMMARY:Video Content Strategy: Moving Beyond the Museum
+DESCRIPTION:What does a strategy for video content and distribution look like? And should that strategy change in the coronavirus era? Panelists from four very different art museums will tell you about the overarching video strategies at their institutions\, and discuss how the pandemic changed everything—or nothing—for them.Video has become central to the overall communications strategy for many institutions\, and a key method conveying the institution’s brand identity. Having a strategy to guide the production of these complex pieces of content\, which often require significant time and money to create\, is critical. Panelists will discuss the strengths and weaknesses of their pre-coronavirus strategies\, and apply lessons learned from the pandemic to address key questions. How can we produce meaningful content in a world where our main sources—the museum space\, the exhibitions and all other activities—are locked down? Have audience expectations shifted around video? Will a strong digital strategy carry you through a pandemic\, where audiences are largely living and working online? What new opportunities does the coronavirus era offer?Topics addressed will include selecting the right video tool for the job\, how to design video for specific distribution platforms\, live vs. pre-recorded video\, integrating video into your social media calendar\, empowering staff to help with production\, and how or if to adjust these techniques and strategies when the goal is no longer to drive people to visit the museum.On the diversity of our panel:While we all work in art museums\, the missions and relationships to our communities are very different. You will hear about strategies from a Scandinavian museum with a strong public service approach\, and three museums in the US: a small university museum\, a mid-size museum focused on contemporary arts and social justice\, a large metropolitan art museum. Presenters also offer different perspectives\, with backgrounds in technical video production\, journalism\, content production\, and business. Two of the panelists have never presented at MCN before.
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:e1ce8e2f6f95d4d437be4070b20e38fb
+URL:http://mcn2020virtual.sched.com/event/e1ce8e2f6f95d4d437be4070b20e38fb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201117T203000Z
+DTEND:20201117T210000Z
+SUMMARY:From Onsite\, Online to Hybrid: The Impact of COVID-19 on The Art of Observation
+DESCRIPTION:View the pre-recorded presentation to prepare for this live Q&A SessionAgnes Etherington Art Centre’s digital initiatives have accelerated in response to the COVID-19 pandemic. During the museum’s closure\, we migrated The Art of Observation academic outreach program for medical students at Queen’s University online. Learning from its virtual delivery\, a hybrid approach including digital and onsite activities will be implemented to teach art to inculcate cultural sensitivity close looking skills in our future doctors.
+CATEGORIES:PRESENTER Q&A AND CONVERSATION
+LOCATION:Live Q&A for pre-recorded session\, Virtual
+SEQUENCE:0
+UID:f9c10917608951441678f9f08a026e25
+URL:http://mcn2020virtual.sched.com/event/f9c10917608951441678f9f08a026e25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201117T213000Z
+DTEND:20201117T223000Z
+SUMMARY:Social Media SIG Meetup - Sponsored by WordPress VIP
+DESCRIPTION:Join the Social Media SIG Meetup\, hosted by SIG co-chairs Emily Haight and Jonathan Munar.Brought to you by WordPress VIP | Automattic.
+CATEGORIES:SIG MEETUP
+LOCATION:Social Events\, Virtual
+SEQUENCE:0
+UID:a2419f16011a3b16442e9f39f3d0f167
+URL:http://mcn2020virtual.sched.com/event/a2419f16011a3b16442e9f39f3d0f167
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201117T220000Z
+DTEND:20201117T230000Z
+SUMMARY:Help wanted: MCN & NEW INC seek feedback on case study template for musetech digital projects web resource
+DESCRIPTION:With the support from a Knight Foundation grant\, MCN is partnering with NEW INC\, New Museum’s art and technology incubator\, to launch a new web resource for the museum tech community. Through this new resource\, we will capture and share model projects and experiments from across our community\, with a goal of creating a centralized repository that anyone can use to advance their own understanding of how to creatively integrate technology into museum digital practice. Over the past few years\, the field has made remarkable advancements and the goal of this joint project is to create a home for documenting and discussing this work.The format of our platform -- how information is collected\, how it is categorized\, how it is presented -- is being jointly developed over the next few months by MCN and NEW INC. These two 60-minute Experimental sessions are part of our discovery process\, during which we'll share some early case study templates and seek participants' feedback as we develop a new framework for capturing innovative digital projects in the field.YOU MUST PRE-REGISTER HERE TO ATTEND THIS SESSION ZOOM MEETING!
+CATEGORIES:EXPERIMENTAL SESSION
+LOCATION:Open video conference and chat\, Virtual
+SEQUENCE:0
+UID:2c44e46e234783aa903fc1e1f9357334
+URL:http://mcn2020virtual.sched.com/event/2c44e46e234783aa903fc1e1f9357334
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201117T220000Z
+DTEND:20201117T223000Z
+SUMMARY:Multi-Robot Comedy Performance
+DESCRIPTION:Who knew robots could have such impeccable comedic timing? Sit down for this unique performance from the CHARISMA Robotics Lab and Collaborative Robots and Intelligent Systems (CoRIS) Institute at Oregon State University.  Researchers Ajay Pallekonda\, Sowmya Jujjuri and the team (both human and robotic) will host a 10–15 minute performance followed by an audience Q&A about the work.
+CATEGORIES:EXPERIMENTAL SESSION
+LOCATION:Social Events\, Virtual
+SEQUENCE:0
+UID:5f2246415d5b071f55b205a30a8fb2f3
+URL:http://mcn2020virtual.sched.com/event/5f2246415d5b071f55b205a30a8fb2f3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201117T230000Z
+DTEND:20201118T000000Z
+SUMMARY:Educational & Interpretive Media + Media Production & Branding SIGs Meetup - Sponsored by LIVDEO
+DESCRIPTION:The Educational & Interpretive Media and Media Production & Branding combined SIG Meetup.Hosted by:Melissa Mair & Devon Armstrong\, Educational & Interpretive Media SIG co-chairsKelsey Cvach & Ryan Waggoner\, Media Production & Branding SIG co-chairsSponsored by LIVDEO.
+CATEGORIES:SIG MEETUP
+LOCATION:Social Events\, Virtual
+SEQUENCE:0
+UID:61d978bea2ab91326f111d7112b66abd
+URL:http://mcn2020virtual.sched.com/event/61d978bea2ab91326f111d7112b66abd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201118T153000Z
+DTEND:20201118T163000Z
+SUMMARY:Ensuring Data Integrity with your CMS – Axiell Collections
+DESCRIPTION:Don’t let bad data dull the effectiveness of your CMS. Bad data can lead to slow and inefficient searches\, force duplication of effort\, waste time with unnecessary data entry\, and lead to unhelpful reports or web catalogues. Managing data plays a pivotal role in successfully implementing and maintaining your Collections Management System. You need a system that operates on strong\, purposeful data foundations\, that is as sharp and efficient as you need it to be.We have a few tricks up our sleeve about data integrity that we’d like to share. Join us on Nov 18 @ 10:30 am for an interactive conversation about data integrity and a deep dive into Axiell Collections.
+CATEGORIES:SPONSORS HOURS
+LOCATION:Sponsors channels\, Virtual
+SEQUENCE:0
+UID:ba7f2992431c72a3e40a545b1ba299de
+URL:http://mcn2020virtual.sched.com/event/ba7f2992431c72a3e40a545b1ba299de
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201118T164500Z
+DTEND:20201118T174500Z
+SUMMARY:Commercializing Content: Q&A from Across the Pond - Capture Ltd
+DESCRIPTION:Have you wondered how content licensing and commercialization differs across the pond? Hear from Capture Ltd\, a UK-based DAM and media licensing platform\, specializing in rights\, licensing\, metadata\, finance and royalties\, about how we are working with our UK/European clients to create commercial ventures from their precious assets.This is a Q&A\, so come prepped with questions\, or feel free to drop in and listen to the conversations. If you’d like to submit questions in advance\, you can do so here: Submit a Question!
+CATEGORIES:SPONSORS HOURS
+LOCATION:Sponsors channels\, Virtual
+SEQUENCE:0
+UID:5127f086d1c41f79b7df67ad982bb6cf
+URL:http://mcn2020virtual.sched.com/event/5127f086d1c41f79b7df67ad982bb6cf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201118T173000Z
+DTEND:20201118T183000Z
+SUMMARY:Intro to GitHub for (Non-Coding) Cultural Heritage Professionals by (Non-Coding) Photographers
+DESCRIPTION:The code repository GitHub is a great place to find projects shared by your colleagues and is also a way for groups to work together asynchronously. It is a community and technology built on top of a particular distributed version control method\, named git. Not just for code\, GitHub can be used for documents\, metadata\, and spreadsheets; you can even host a static website in a GitHub repository! In this introductory session\, Kjell and Charles will walk through the GitHub process to show how multiple users can contribute to a project at the same time - or at different times. Session participants may want to have a free GitHub login to take part in the project\, but it’s not required.
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:81e8a3fe56ee3ba19a97f9f10b31cabd
+URL:http://mcn2020virtual.sched.com/event/81e8a3fe56ee3ba19a97f9f10b31cabd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201118T173000Z
+DTEND:20201118T180000Z
+SUMMARY:Interdepartmental Approaches to Transforming Digital Workflow and Decision Making at the New-York Historical Society
+DESCRIPTION:View the pre-recorded presentation to prepare for this live Q&A SessionDuring this 30 minute session\, we share how the New-York Historical Society took an interdepartmental approach to digital content management with the goal of deepening public engagement for education audiences online.Through a three-year grant\, a core group of staff from the IT\, Museum\, Library\, Exhibitions and Education departments received training on a variety of digital skills -- and shared out their training across the museum. Staff members brainstormed connections between one another's work to find ways to support online programming\, digital content\, and online collections. As an interdepartmental team\, staff also worked collaboratively to ensure the institution’s digital collections\, and the content management systems that organize them\, are optimized for public accessibility and for use in education programming. This allowed us to connect our digital staff to the needs of our core audience\, leading to increased culturally responsive museum content and\, in line with our unique mission\, more representation of non-dominant narratives of history for teachers and students.We will share our collaborative approach to transforming our museum’s digital workflow and decision making. Our experience has been that when staff from multiple departments learn aside one another\, creative ideas from across disciplines can be produced organically\, discussed immediately\, and implemented sustainably. Together we will explore tactics that panelists (and the audience) have used to enable museum staff to fully understand\, adopt and optimize digital technology in museums to further your mission.
+CATEGORIES:PRESENTER Q&A AND CONVERSATION
+LOCATION:Live Q&A for pre-recorded session\, Virtual
+SEQUENCE:0
+UID:74f8e7fdf008e6d075c23a2e2f72c444
+URL:http://mcn2020virtual.sched.com/event/74f8e7fdf008e6d075c23a2e2f72c444
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201118T173000Z
+DTEND:20201118T183000Z
+SUMMARY:Nothing about Us Without Us.....Now More Than Ever
+DESCRIPTION:Efforts around equity were some of the first casualties in institutions' fight for survival\, exposing how flippant some institutions consider DEAI measures. Institutions are still failing to understand that equity must be central to their missions and isn't just a fad. As the world pivots\, are institutions willing and able to critically engage with their entrenched biases and create new normals?
+CATEGORIES:WORKSHOP
+LOCATION:Deep Dive/Workshop Channel (limited space)\, Virtual
+SEQUENCE:0
+UID:584d16016a577bfc1d00bedda76ad885
+URL:http://mcn2020virtual.sched.com/event/584d16016a577bfc1d00bedda76ad885
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201118T180000Z
+DTEND:20201118T190000Z
+SUMMARY:We’re Not All Chinese: Asian and Pacific Islander Experiences in Musetech
+DESCRIPTION:This Chatham House Rule session intentionally holds space for individuals of Asian and Pacific Islander heritage to share their experiences in the museum technology sector. The processing session will include pre-written prompts to facilitate discussion points including but not limited to shared commonalities\, significant differences\, the “model minority” myth\, the bamboo ceiling\, minor feelings\, and other difficult and important issues. Attendees who do not identify as being of Asian and Pacific Islander heritage are encouraged to listen but not speak during this session.
+CATEGORIES:EXPERIMENTAL SESSION
+LOCATION:Live stream channel 2\, Virtual
+SEQUENCE:0
+UID:a757338f1bc7e7e26c332e263d7f19b7
+URL:http://mcn2020virtual.sched.com/event/a757338f1bc7e7e26c332e263d7f19b7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201118T183000Z
+DTEND:20201118T190000Z
+SUMMARY:Curator Brain\, Meet AI Brain
+DESCRIPTION:View the pre-recorded presentation to prepare for this live Q&A SessionIs it possible to create an AI-based experience that feels truly native to a museum’s story? Our process uncovered that… this is the wrong question. We will discuss how The Henry Ford and Bluecadet used lo-fi prototyping\, collaborative workshops\, and open-ended technical sketching to explore a playful way into our broad\, seemingly disparate digital collections—and how we found an authentic use for AI as a part of a larger human-driven experience. We’ll explain how we integrated this experience into our existing digital collections infrastructure to enable easy updating and additional future experiences. Finally\, we will reflect on and discuss the future of our initial project—a communal\, touch-based experience—in a changed museum landscape.
+CATEGORIES:PRESENTER Q&A AND CONVERSATION
+LOCATION:Live Q&A for pre-recorded session\, Virtual
+SEQUENCE:0
+UID:1f571a5139733f943f5cc51c0376c288
+URL:http://mcn2020virtual.sched.com/event/1f571a5139733f943f5cc51c0376c288
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201118T190000Z
+DTEND:20201118T220000Z
+SUMMARY:MuseWeb Master Class: Virtual Tours
+DESCRIPTION:NOTE: capacity is limited to 35 attendees\, first-come\, first-served. No additional charge is required.A virtual tour is a form of semi-immersive VR technology that allows you to experience a certain location or virtual content remotely. The concept is to represent a real place in a virtual world that allows you to explore the place as if you are actually there.While virtual museum tours have been around for a long time with The Frick Collection offering virtual tours as early as 1999\, clearly over the past decade\, Virtual Reality (VR) has gone mainstream. Technology has advanced rapidly in the last few years and in addition to museums\, VR experiences can now be found at theme parks\, FECs\, retail malls and are now the hot item when selling or renting your house. By the year 2022\, the global VR market is estimated to grow to $209.2 billion. This is 7.7 times more than the 2018’s global market (data reference: Techjury.net). When the technology that museums use go mainstream it has both positive and negative impacts: prices go down while technology options go up at the same time the competition from mainstream media companies\, including gaming and tourism increases.Now COVID-19 has pulled most museums\, some screaming and crying\, on to the virtual reality bandwagon. Many museums were already providing virtual tours through Google Arts & Culture. This online platform has gained even more publicity during the lockdown. But as Museum Hack highlighted in April 2020\, “Virtual Museum Tours Were Popular for 4 Days”. So\, yes museums are adding VR to their offering but who is in charge and do they know what they are doing? Did anyone check who is the audience and what they are looking for? Are they doing it right and for that matter what is the right way to do it? Are they just throwing something up quick to make it seem like they care and failing and are there better ways to do it? How much should it cost\, and should they do it in house or outsource part or all of it?In this half day workshop\, we will take a closer look\, a virtual tour of virtual tours so to speak and explore examples from around the sector. We will review how VR allows museums to bring objects\, scenes and stories to life making it easier for visitors to understand and put them in context. In addition to these positive benefits\, we will review how many tours fail to leverage the technology and often ignore the visitors needs. We will explore what a tour virtual tour is\, what could it be about… from physical spaces to intangible content to building museums and hosting events in virtual worlds. We will walk you through a couple of different ways to do it\, from outsourcing the whole thing to DIY and from static tours to hybrid VR tours led by a tour guide. You will learn how much it costs and what combinations of equipment and software lets you do what parts of it yourself if you do it in house and what vendors can you outsource it to. We will explore the side benefits of this kind of documentation as well as all the pros and cons.You will learn:What is virtual reality?What is a virtual tour?How your museum can benefit from using virtual toursHow your visitors can benefit from virtual toursTools\, content and processes required to create a virtual tourHow to capture 360 panoramic imagesHow to create a virtual tour on your ownThis workshop is designed for museum professionals who are interested in both the practical and academic. Whether you own the virtual reality hardware and software and do it all in house or you want to outsource the whole thing and just review and post the final product\, this workshop is for you. By the end of this workshop you will no longer need to rely on any experts to help you create a virtual tour. You will be able to create compelling virtual tours on your own\, at the least possible expense.Co-Presenters:Rich Cherry\, Founder and Managing Partner\, Museum OperationsHiroko Kusano\, Managing Partner\, Museum OperationsDavid London\, Chief Experience Officer\, The Peale Center\, Baltimore
+CATEGORIES:DEEP DIVE
+LOCATION:Deep Dive/Workshop Channel (limited space)\, Virtual
+SEQUENCE:0
+UID:31e345f9783c9e105e11365da01b94a7
+URL:http://mcn2020virtual.sched.com/event/31e345f9783c9e105e11365da01b94a7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201118T190000Z
+DTEND:20201118T200000Z
+SUMMARY:Declaration on Open Access for Cultural Heritage: What are our Guiding Principles for Ethically Practicing Open in GLAM institutions?
+DESCRIPTION:Cultural heritage institutions have been doing significant work on digitization for the last twenty years. The results of those efforts are now starting to pay off\, with more institutions adopting open access policies to share that digitized heritage with the world. However\, as the survey by Douglas McCarthy and Andrea Wallace showed\, there is no consensus on what “open” and “open access” means. There are also some fundamental considerations that need to acknowledge the complexities of managing cultural heritage and knowledge. Also\, for those institutions that are less well resourced\, more guidance is needed on how to take actual steps on enacting open access for cultural heritage.Creative Commons and other partners decided to step in to support some conversations on how to ethically practice Open Access. For that\, we are publishing a research paper on “Critical Open GLAM”\, that provides the research-based evidence to serve as a fundamental piece for building a Declaration on Open Access for Cultural Heritage.In this session\, we will review the key topics that we expect to be included in the Declaration\, including:The Legal Foundations of Open Access for Cultural HeritageNew Areas of Focus for Open Access for Cultural HeritageA Human Rights Perspective for Open GLAMCopyright & Open LicensingAccessibilityTraditional KnowledgePrivacyEthical considerations for Open AccessIn this session\, we will walk through the arguments we developed to inform policy makers and advocates that work with or within cultural heritage institutions. We expect that the Declaration will provide an actionable framework to inform policies in an evolving ecosystem\, where best practices will change as technologies and communities change.We will also inform people in this session how to provide comments and feedback\, and engage with the Declaration in different ways.
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:b0306c7f393e62811a8488d16765b8f6
+URL:http://mcn2020virtual.sched.com/event/b0306c7f393e62811a8488d16765b8f6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201118T193000Z
+DTEND:20201118T200000Z
+SUMMARY:Putting the Pieces Together: A Study in Digital Content Management
+DESCRIPTION:View the pre-recorded presentation to prepare for this live Q&A SessionIn 2018 the Princeton University Art Museum embarked on a project that leveraged an open-source headless CMS in order to incorporate a backlog of unstructured digital content into the museum&rsquo;s existing data and publishing architecture. This presentation will discuss the methodology of the project touching on initial planning\, decision-making\, systems architecture\, metadata schema\, workflows\, and future roadmap. Content Types and Examples: https://artmuseum.princeton.edu/campus-art  https://artmuseum.princeton.edu/collections/explore   https://artmuseum.princeton.edu/learn/explore/mobile-tours   https://artmuseum.princeton.edu/learn/explore/museum-videos   https://artmuseum.princeton.edu/learn/explore/selfguided-family-activities  https://artmuseum.princeton.edu/learn/explore/teacher-resources  Other: Systems Diagram: https://static.artmuseum.princeton.edu/systems/PUAM_Data_Systems_Architecture_2020.pdf Sandbox CMS: https://puam-mcn-sandbox.herokuapp.com/admin/auth/login [mcn-user:MCN2020]
+CATEGORIES:PRESENTER Q&A AND CONVERSATION
+LOCATION:Live Q&A for pre-recorded session\, Virtual
+SEQUENCE:0
+UID:1e65648ac4410924e71208b2f804aeab
+URL:http://mcn2020virtual.sched.com/event/1e65648ac4410924e71208b2f804aeab
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201118T203000Z
+DTEND:20201118T210000Z
+SUMMARY:Quick\, Nimble\, Relevant: Planning Content for the Unplannable (and Staying Sane in the Process)
+DESCRIPTION:View the pre-recorded presentation to prepare for this live Q&A SessionWhen the future seems unplannable\, how do museums continue to offer their communities support\, storytelling\, and meaningful experiences? And how can overtaxed staff integrate these plans into under-budgeted workflows without losing their minds? COVID-19 has created not only immediate crises for museums\, but has also introduced profound unpredictability. Exhibition and operational plans must now must accommodate wildly varying future scenarios - additional shutdowns or relaxed restrictions\, recovery of staffing or further reductions\, and shifting budget projections.This session will offer practical strategies for integrating the creation of compelling\, flexible digital products into activities that museums are already doing. Learn about nimble and lightweight strategies for mining ongoing activity to create digital products that can be used in a wide variety of scenarios – from on-site display while facilities are open\, offering virtual exhibition experiences during a shutdown\, or promotional during reopening. The future of museums is quick\, nimble\, and relevant – learn how institutions of all sizes and technical capacity can take part.
+CATEGORIES:PRESENTER Q&A AND CONVERSATION
+LOCATION:Live Q&A for pre-recorded session\, Virtual
+SEQUENCE:0
+UID:d93cc2f91f28d8741492265d63f5d94d
+URL:http://mcn2020virtual.sched.com/event/d93cc2f91f28d8741492265d63f5d94d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201118T230000Z
+DTEND:20201118T233000Z
+SUMMARY:Speed Networking #6 - Sponsored by zetcom
+DESCRIPTION:Join facilitators Don Youngberg and Eric Longo to meet other MCN attendees with some speed networking!Each session consists of a series of breakout rooms with several participants. Tell us where you're from\, what you're curious about\, and more—just be quick!Every session lasts only 30 minutes and accommodates up to 80 participants.Advance sign-up required.Brought to you by zetcom. 
+CATEGORIES:NETWORKING
+LOCATION:Social Events\, Virtual
+SEQUENCE:0
+UID:e45d7cb00b462bd666204424d9b49fce
+URL:http://mcn2020virtual.sched.com/event/e45d7cb00b462bd666204424d9b49fce
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201119T150000Z
+DTEND:20201119T160000Z
+SUMMARY:GEED focus: Camera Based engagement and real-time multilingual content creation / distribution on WebApps
+DESCRIPTION:GEED is a Creation and Distribution platform for WebApp scenarios in cultural institutions. It includes a web based BackOffice integrating dedicated tools to create multilingual and accessible Exhibitions tours\, including Assisted translation\, HQ text-to-speech generation\, Camera based artworks recognition\, etc. During this session we will provide live demo of GEED BackOffice and present a case-study at Museum of Contemporary Arts Australia.
+CATEGORIES:SPONSORS HOURS
+LOCATION:Sponsors channels\, Virtual
+SEQUENCE:0
+UID:3de57a24939eb2b250034972eae24250
+URL:http://mcn2020virtual.sched.com/event/3de57a24939eb2b250034972eae24250
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201119T160000Z
+DTEND:20201119T183000Z
+SUMMARY:Big Questions for Museums and X Realities: A Virtual Town Hall
+DESCRIPTION:The speakers are joined by moderators: Paige Dansiger\, Emily Kotecki\, Felicia Ingram\, Tina Shah\, Barry Joseph\, Michael Haley Goldman\, and Andrea Monteil du ShumanIn the last decade\, more and more museums have created experiences employing Virtual\, Augmented\, and other realities (abbreviated here as XR). Though we have learned a lot through these projects\, they have raised just as many important questions for the field. Several important areas for research have emerged including (but not limited to) questions of ethics\, equity and access\, educational impact\, and financial sustainability.This town-hall style conversation does not seek to answer these questions but to better define the most important issues as virtual technologies in museums become more mature. Facilitated by a team of professionals with a wide range of experience developing and researching XR in museums\, the session seeks to harness the expertise of everyone present to define a shared research agenda for the next stage of our collective work.This miniature summit on XR in museums will use a variety of techniques to include the ideas and questions from everyone present - including small break out discussions\, round-robin responses\, and collective documentation of the summits ideas. The results will help not only clarify the issues for practitioners developing museum XR\, it will also point the way to collectively addressing these issues.
+CATEGORIES:EXPERIMENTAL SESSION
+LOCATION:Open video conference and chat\, Virtual
+SEQUENCE:0
+UID:78a70b495f2d90e19a90d6677c8eef70
+URL:http://mcn2020virtual.sched.com/event/78a70b495f2d90e19a90d6677c8eef70
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201119T160000Z
+DTEND:20201119T170000Z
+SUMMARY:Digital Platforms Are Not Neutral. A Roundtable about the Responsibility of Institutions when Selecting Digital Platforms.
+DESCRIPTION:As the COVID-19 pandemic forced people to work remotely\, Zoom took the world by storm in spite of known privacy and security concerns. Users embraced digital platforms\, tacitly consenting to give away personal data for convenience and a free service. As our institutions navigate their engagements with tech companies\, are we exposing our visitors to risk? What responsibility do we have as museums' technologists in using platforms ethically?
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:aae50d490d24efc4915fb47d486a5829
+URL:http://mcn2020virtual.sched.com/event/aae50d490d24efc4915fb47d486a5829
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201119T160000Z
+DTEND:20201119T170000Z
+SUMMARY:The Show Must Go On: Lessons From Theatre to #musetech in a COVID-19 World
+DESCRIPTION:There is a significant number of individuals in the #musetech community\, and in the museum sector broadly\, who come from a background in theatre. The processes of theatre tend to be very attractive to #musetech professionals\, particularly in the areas of social media\, content management\, in-gallery interactives\, UX design\, extended reality\, and more. What is involved in the authenticity of theatrical experiences that hold lessons for planning in #musetech? Why do museum professionals prefer in some cases to hire those with a theatre background for museum work? How does the exchange of energy in theatre that also occurs in museums provide for virtual engagement in a COVID-19 world?You direct the conversation! This diverse panel of museum and historic site professionals with backgrounds in theatre will engage in a "Whose session is this\, anyway?" style of rapid fire improvisational riffing based on attendee selection of themes.
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 2\, Virtual
+SEQUENCE:0
+UID:b4727375f19357dea9cc3f22532d1e7f
+URL:http://mcn2020virtual.sched.com/event/b4727375f19357dea9cc3f22532d1e7f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201119T163000Z
+DTEND:20201119T180000Z
+SUMMARY:Open GLAM for Critical Open Educational Resources: Free Knowledge Pedagogy Via Intercultural Co-Curation
+DESCRIPTION:As the COVID-19 pandemic spread across the US and globally\, people have moved even more online. Students and educators—from K-12 to graduate school—followed suit. Meanwhile\, galleries\, libraries\, archives and museums (GLAM) shut their doors and tried to amplify virtual offerings to a public seeking entertainment as well as education from home. There is a lot of demand—and a lot of supply—in GLAM-related online educational resources (OER)\, as compiled by MCN and others. What works best\, what is needed\, and what will outlive lock-down? These are some of the questions that drive us into the future.This workshop dives into how GLAM OER can collaborate with disciplines and fields across and beyond academia—from museum studies to geography\, digital humanities to international relations\, postcolonialism to decolonial epistemology. University faculty\, students\, and self-educating learners are seeking international arts and culture content that is free from colonial legacies\, free from copyright\, and free from cost. What role does open GLAM have in these pedagogical needs? What would interactive\, engaging platforms look like that fostered intercultural dialogue and co-curation of Creative Commons and public domain arts and cultural content? What curricula are needed to help contextualize this content\, and extricate it from Eurocentric taxonomies and appropriative metadata?Deep Dive sign-ups open Wednesday\, September 9. Space is limited and advance registration is required—so mark your calendars! Once sessions are filled\, there will be a waitlist and MCN will notify attendees as spots become available.Hello good people~! SO excited to share virtual space with you all Thursday morning and to learn from each other~! We have a *great* line-up of engaged\, critical\, smart\, creative\, generous thought-leaders joining us:Featuring Adjoa Jones de Almeida Director of Education at Brooklyn Museum & Prof Namita Wiggers of Warren Wilson College & Critical Craft Forum & Virginia Poundstone\, artist and digital curator& scann Evelin Heidel\, of OpenGLAM\, tech feminist& Curationist graduate fellows:Francisca RudolphMagali DelgadoAndres de los RíosJing Cui
+CATEGORIES:DEEP DIVE
+LOCATION:Deep Dive/Workshop Channel (limited space)\, Virtual
+SEQUENCE:0
+UID:eb9f415f833e208d62a176c67d9d1cbe
+URL:http://mcn2020virtual.sched.com/event/eb9f415f833e208d62a176c67d9d1cbe
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201119T173000Z
+DTEND:20201119T183000Z
+SUMMARY:Art and Science Across North America: Engaging Communities During Times of Crisis Through Collaboration
+DESCRIPTION:Learn how cultural organizations in Canada and the United States have been engaging communities during the COVID-19 pandemic. Field Trip: Art Across Canada is an online platform that delivers arts experiences with some of Canada’s most celebrated artists in a national partnership with 60 leading arts organizations. Created in response to COVID-19\, Field Trip provides a collaborative model for museums to engage communities through online arts activities\, reach diverse audiences and support artists during times of crisis. The D.C. Art Science Evening Rendezvous (DASER) is a long running public program series of the National Academy of Sciences in Washington\, D.C. that has transformed into a monthly online forum during the pandemic to engage a broader global community of people interested in intersections of science and art. DASER features short presentations by a mix of artists and scientists\, highlighting the work happening between disciplines\, with the goal of fostering new connections and collaborations.
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:8b7160392dd3da3fd86710d0c96e50e5
+URL:http://mcn2020virtual.sched.com/event/8b7160392dd3da3fd86710d0c96e50e5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201119T173000Z
+DTEND:20201119T183000Z
+SUMMARY:New Horizons: A Critical Examination of Animal Crossing for Cultural Heritage Institutions
+DESCRIPTION:This session critically examines how the game's impact on museum digital engagement internally and the public's understanding of what museums are or could be. Animal Crossing: New Horizons was a digital opportunity and cultural phenomenon particularly in light of the COVID-19 pandemic. We seek to interrogate the ways museums have leveraged this game and the cultural moment around it.
+CATEGORIES:PRESENTATION PANEL
+LOCATION:Live stream channel 2\, Virtual
+SEQUENCE:0
+UID:2939693d5abb7c8186dd6d4fe104b202
+URL:http://mcn2020virtual.sched.com/event/2939693d5abb7c8186dd6d4fe104b202
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201126T045925Z
+DTSTART:20201119T190000Z
+DTEND:20201119T193000Z
+SUMMARY:Closing Remarks
+DESCRIPTION:Stay to hear Mitch Sava (MCN incoming President for 2021)\, Yvonne Lee (incoming VP/President-Elect) and Eric Longo conclude MCN 2020 VIRTUAL and share some exciting announcements.
+CATEGORIES:MCN COMMUNITY
+LOCATION:Live stream channel 1\, Virtual
+SEQUENCE:0
+UID:4ac9ccec36a855d1eff5dace46bdcac1
+URL:http://mcn2020virtual.sched.com/event/4ac9ccec36a855d1eff5dace46bdcac1
+END:VEVENT
+END:VCALENDAR
