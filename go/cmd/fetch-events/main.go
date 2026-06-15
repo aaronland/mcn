@@ -12,6 +12,7 @@ import (
 	"flag"
 	"fmt"
 	"log"
+	"log/slog"
 	"os"
 	"path/filepath"
 
@@ -62,33 +63,50 @@ func main() {
 		id := v.Id()
 		url := v.GetProperty("URL").Value
 
-		log.Println(id, url)
+		logger := slog.Default()
+		logger = logger.With("id", id)
+		logger = logger.With("url", url)
+
+		logger.Info("Process event")
 
 		ev, err := fetchEvent(url)
 
 		if err != nil {
-			log.Fatalf("Failed to retrieve event for %s (%s), %v", id, url, err)
+			logger.Error("Failed to retrieve event", "error", err)
+			continue
 		}
 
 		fname := fmt.Sprintf("%s.html", id)
 		path := filepath.Join(abs_root, fname)
 
+		logger = logger.With("path", path)
+
+		_, err = os.Stat(path)
+
+		if err == nil {
+			logger.Info("Event file already exists, skipping")
+			continue
+		}
+		
 		wr, err := os.OpenFile(path, os.O_RDWR|os.O_CREATE, 0644)
 
 		if err != nil {
-			log.Fatalf("Failed to open %s for writing, %v", path, err)
+			logger.Error("Failed to open file for writing", "error", err)
+			continue
 		}
 
 		_, err = wr.Write([]byte(ev))
 
 		if err != nil {
-			log.Fatalf("Failed to write event data for %s, %v", path, err)
+			logger.Error("Failed to write event", "error", err)
+			continue
 		}
 
 		err = wr.Close()
 
 		if err != nil {
-			log.Fatalf("Failed to close %s after writing, %v", path, err)
+			logger.Error("Failed to close after writing", "error", err)
+			continue
 		}
 	}
 }

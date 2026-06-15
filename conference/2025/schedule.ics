@@ -1,0 +1,765 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:mcn2025
+X-WR-CALDESC:Event Calendar
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+PRODID:-//Sched.com MCN 2025//EN
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251020T203000Z
+DTEND:20251020T213000Z
+SUMMARY:First-Timers Meetup
+DESCRIPTION:Whether this is your first\, fifth\, fifteenth\, or fiftieth time attending MCN\, all are invited to join us in welcoming the newest members of the MCN community who are attending MCN for the first time. Get loose and break some ice ahead of the evening's Ignite reception.\n\nCash bar\; complimentary light fare will be available
+CATEGORIES:EVENT
+LOCATION:Hyatt Regency - Prairie Kitchen and Bar\, 1300 Nicollet Mall\, Minneapolis\, MN 55403
+SEQUENCE:0
+UID:a26cc365cd3fe585897ebd36e333ccdc
+URL:http://mcn2025.sched.com/event/a26cc365cd3fe585897ebd36e333ccdc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251020T220000Z
+DTEND:20251021T000000Z
+SUMMARY:Ignite Reception
+DESCRIPTION:Our signature welcome event\, Ignite\, showcases a series of rapid-fire talks from creative thinkers in the museum field. Expect lots of energy with fresh\, inspiring\, and timely ideas from familiar faces and emerging voices in the field and beyond. Talks follow the “Ignite” format\, in which presenters have five minutes and 20 slides (which advance automatically every 15 seconds) to enlighten\, entertain\, and inspire. Hear from several brave and visionary speakers sharing their experiences in a wide variety of disciplines.\n\nDISCARD AFTER _________\nErin Richardson\, Founder and Principal Consultant\, Frank and Glory\n\nThe Museum That Never Was\nIsabella Bruno\, Navigator\, Lab for Radical Museum Futures\n\nLet’s Gleefresh!\nMandy Smith\, Director of Sales and Business Development\, North America\, MuseumINSIDER\n\nThe Unofficial “Data Tour” of the National Gallery of Art\nJulia Demarest\, Data Scientist\, National Gallery of Art\n\nLet’s stand up for museums\nMatt Morgan\, President\, Concrete Computing\n\nLeft Behind by the Hype: What Small Museums Really Need in the Age of AI\nCourtney OCallaghan\, Director of Operations\, Museable\n\nThe Joy of Mapmaking\nRenee Keul\, University of Southern Maine\n\nThe Emotional ROI of a Gallery Bench\nRob Hassler\, Director of Strategic Partnerships\, Bluecadet\n\nThe Myth of ‘Build It and They Will Come’ : What EDM Can Teach Museums About Digital Engagement\nKimberly Lý\, Interactive Media Producer\, Crystal Bridges Museum of American Art\n\nThis reception is included in the registration cost\; no separate ticket is required. Light appetizers and beverages will be provided.
+CATEGORIES:EVENT
+LOCATION:Dakota\, 1010 Nicollet Mall\, Minneapolis\, MN 55403
+SEQUENCE:0
+UID:bee20c40b4ecdebbdaa8a5168dec303f
+URL:http://mcn2025.sched.com/event/bee20c40b4ecdebbdaa8a5168dec303f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251020T220000Z
+DTEND:20251021T000000Z
+SUMMARY:Registration and Badge Pickup
+DESCRIPTION:All registered conference attendees are invited to pick up their badges and other conference materials at Dakota during the Ignite reception. Doors for Ignite open at 5 p.m. and talks begin promptly at 5:30 p.m.
+CATEGORIES:EVENT
+LOCATION:Dakota\, 1010 Nicollet Mall\, Minneapolis\, MN 55403
+SEQUENCE:0
+UID:f2aa2eaeb99616ab74ba0cf126e306bb
+URL:http://mcn2025.sched.com/event/f2aa2eaeb99616ab74ba0cf126e306bb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T000000Z
+DTEND:20251021T020000Z
+SUMMARY:SIG-Hosted Social
+DESCRIPTION:Connect with the MCN Special Interest Group (SIG) chairs at this post-Ignite social event generously sponsored by Museable.\n\nBrühaven Craft Company is one block from the Hyatt Regency and Sheraton hotels. Reserved space may be limited\, but with room for spillover. One food truck will be present.
+CATEGORIES:EVENT
+LOCATION:Brühaven Craft Company\, 1368 La Salle Ave\, Minneapolis\, MN 55403
+SEQUENCE:0
+UID:60faeff3d3f2c9154770dd919ce86b6a
+URL:http://mcn2025.sched.com/event/60faeff3d3f2c9154770dd919ce86b6a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T133000Z
+DTEND:20251021T220000Z
+SUMMARY:Community Partner Forum
+DESCRIPTION:MCN 2025 could not be possible without the support from our Community Partners. Visit the forum to meet representatives from:\n\nCapptionDigital ScholarForumOneMuse SoftwareMuseums in the Metaverse (MiM)\, University of GlasgowOrange LogicUrban InsightZetcom\n\n
+CATEGORIES:EVENT
+LOCATION:‎ ‎ Bazinet Lobby\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:49a6c3cc447b3690d68b8d499766cd3b
+URL:http://mcn2025.sched.com/event/49a6c3cc447b3690d68b8d499766cd3b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T133000Z
+DTEND:20251021T150000Z
+SUMMARY:Registration and Continental Breakfast
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:‎ ‎ Bazinet Lobby\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:db03e5665dfb09ebc398aa6d9fa53362
+URL:http://mcn2025.sched.com/event/db03e5665dfb09ebc398aa6d9fa53362
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T140000Z
+DTEND:20251021T150000Z
+SUMMARY:Opening Remarks
+DESCRIPTION:Join us to kick off MCN 2025 with remarks from the MCN board and the MCN 2025 program committee. Following the remarks will be a discussion between Jonathan Munar\, MCN board member and program chair\, and Paul Marty\, associate vice provost for academic innovation at Florida State University and co-author of the recent book\, Invisible History of Museum Computing (American Alliance of Museums\, 2025).
+CATEGORIES:EVENT
+LOCATION:Bazinet Lobby - Cinema\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:cff87fd63a88c5afe7cab17ac132c98c
+URL:http://mcn2025.sched.com/event/cff87fd63a88c5afe7cab17ac132c98c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T151500Z
+DTEND:20251021T153500Z
+SUMMARY:Future-Ready Collaborations: Digital Innovation in Cultural Spaces
+DESCRIPTION:App DigiFab\, an interdisciplinary learning community at Appalachian State University\, explores how collaboration empowers cultural institutions to create adaptive digital experiences. This 15-minute case study shares actionable lessons on resilience and relevance in exhibition practice.\n\nCultural spaces—from museums to galleries—thrive through collaboration and experimentation\, crafting narratives that reflect transformation. App DigiFab evolves through exhibitions and technological shifts\, refining its model by merging technology\, creative disciplines\, and public engagement. By partnering with educators\, organizers\, and institutions\, it transforms cultural spaces into interactive environments that spark dialogue.\n\nThe&nbsp\;Transformations&nbsp\;exhibition (2022–2023) at the Turchin Center for the Visual Arts showcased this approach\, integrating digital design\, fabrication\, and storytelling to enhance engagement. Overcoming logistical challenges—such as balancing creative deadlines—strengthened App DigiFab’s adaptability. By distributing ownership\, the group sustained momentum across roles like web design\, signage\, copy editing\, and space planning.\n\nExpanding on these foundations\, App DigiFab now leads&nbsp\;Displacement and Resilience\, an initiative exploring identity\, loss\, and renewal—critical themes following Hurricane Helene’s impact on Boone and the North Carolina mountains. Through structured progress reviews and shared goals\, the group adapts its model to digital fabrication projects addressing displacement. Technologies such as CAD\, 3D printing\, CNC\, AI\, and interactive media enable immersive storytelling\, integrating archival imagery\, cultural artifacts\, and community-generated content.\n\nPublic engagement remains central\, with interactive talks and workshops fostering connection and collective memory amid disruption. App DigiFab seeks collaborators—including Construct3D (Brooklyn\, NY) and Manifest Gallery (Cincinnati\, OH)—to explore shifting relationships between people\, objects\, and environments. Inspired by Hurricane Helene\,&nbsp\;Displacement – This Place Meant&nbsp\;unites artists blending traditional craft and digital techniques to reinterpret artifacts and shared spaces. Through tactile engagement and interactive storytelling\, the exhibition reflects on identity\, resilience\, and material culture.\n\nThis session illustrates how interdisciplinary collaboration empowers cultural institutions to create responsive digital experiences that engage with complex social issues. By applying insights from&nbsp\;Transformations&nbsp\;and expanding its explorations of displacement\, App DigiFab continues to refine collaborative exhibition practices for a dynamic and resilient future.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 5th Floor - Skyline Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:9fbc23564ddc491a0217bfbcaa804dfb
+URL:http://mcn2025.sched.com/event/9fbc23564ddc491a0217bfbcaa804dfb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T151500Z
+DTEND:20251021T160000Z
+SUMMARY:Land Back\, Data Back\, Everything Back: Respecting Tribal Sovereignty in Digital Project Design
+DESCRIPTION:This session will explore the process  co-developed by First Americans Museum and The Experience Alchemists to design an online educator resource that will provide audiences across the U.S. with high-quality\, Native-produced social studies resources. The presenters will walk through the process of conducting requirements reviews with both tribal stakeholders and potential audiences\, developing an information architecture that is responsive to indigenous data sovereignty needs\, and the process to review and gather assets\, as well as integrating Native-developed materials in existing digital metadata schema. The topics will be: - Co-creating digital resources with Native communities\, aka “how (hopefully) not to colonize the digital realm” - Tribal data sovereignty - Deciding when and how to relate to state and federal ed standards. - Designing design processes with non-designers The event will consist of: - Ice Breaker - The FAM Online Educator Resource (OER) process thus far: -- What it is\, what it’s attempting to do -- Why it matters\, -- How it’s different\, -- What process we developed to maximize the relationship building necessary for this tool to succeed. - Learnings Thus Far\, including: -- Relationships\, relationships\, relationships. It’s all about building relationships  -- Being culturally responsive means more than you think it does. -- Once you start to question any part of the digital edifice\, you have to question all the parts and decide how far you’re going to stray from the culturally White and Western norms of the Web. - Q & A
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Bazinet Lobby - Cinema\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:e0b63e86ecaef6fdf3e99ce8b9265d95
+URL:http://mcn2025.sched.com/event/e0b63e86ecaef6fdf3e99ce8b9265d95
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T151500Z
+DTEND:20251021T160000Z
+SUMMARY:My Oh My! How My Aquarium and MySmithsonian will Engage Audiences in an Oversaturated Digital Landscape through Direct Engagement
+DESCRIPTION:In an increasingly fragmented digital landscape where "zero-click" searches and an overwhelming number of digital channels often dilute user engagement\, institutions face the challenge of creating meaningful\, lasting connections with their audiences. This session will explore how the Smithsonian Institution and the Monterey Bay Aquarium plan to build resilience into their audience engagement strategies through new digital products that provide self-service tools\, localization\, and personalization to enhance the user experience and forge direct relationships with audiences.\n\nThe Smithsonian's "MySmithsonian" and its underlying "Online Audience Portal" (OAP)\, along with the Monterey Bay Aquarium's "My Aquarium" and "Project RIPPLE" initiatives\, represent a strategic shift towards creating cohesive\, user-centric digital ecosystems. Both institutions are leveraging Salesforce CRM to build powerful self-service platforms that empower users to manage their tickets\, donations\, and memberships online.\n\nBuilding on this transactional foundation\, MySmithsonian and My Aquarium will offer personalized content and localized experiences. By sharing a unified authentication system with their respective portals\, these platforms will provide a seamless user journey. We will delve into the critical questions surrounding this approach: How do we balance the potential friction of user registration with the long-term payoff of a personalized relationship? How can we attract and retain digital visitors who may never visit in person\, and how do we maintain a connection long after a physical visit? How might this technology empower our organizations to provide long-lasting learning and inspiration for our users?\n\nThis session will offer a transparent look at the opportunities and challenges of each project’s tech stack\, the strategy behind leveraging first-party data to personalize content delivery\, and the value of strengthening digital relationships in order to support institutional resilience. We will discuss how initial user research shaped these projects and the metrics we will use to measure success in this new paradigm of digital transformation\, moving from passive consumption to active\, personal engagement.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 3rd Floor - McGuire Theater\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:1208106b6dd3630a34791dc2003efa1f
+URL:http://mcn2025.sched.com/event/1208106b6dd3630a34791dc2003efa1f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T151500Z
+DTEND:20251021T160000Z
+SUMMARY:Speed Networking
+DESCRIPTION:Meet other MCN attendees with some speed networking! A facilitator will guide attendees through a series of breakout conversations. Share with fellow attendees where you're from\, what you're curious about\, and more—just be quick!
+CATEGORIES:EVENT
+LOCATION:Barnes Building\, 8th Floor - Garden Terrace Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:5183ac7f88bda28aaeda7acc2fdf4ab5
+URL:http://mcn2025.sched.com/event/5183ac7f88bda28aaeda7acc2fdf4ab5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T160000Z
+DTEND:20251021T161500Z
+SUMMARY:Refreshment Break
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:‎ ‎ Bazinet Lobby\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:bd4a43bbe0cf61d2e72b967c87e4d9e0
+URL:http://mcn2025.sched.com/event/bd4a43bbe0cf61d2e72b967c87e4d9e0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T161500Z
+DTEND:20251021T163500Z
+SUMMARY:3D models and Indigenous cultural heritage from museums and beyond
+DESCRIPTION:Museums around the world\, and their visitors\, have been actively creating and sharing 3D models of tangible heritage for many years. With the growth in accessible applications for scanning and photogrammetry\, the quantity of 3D models of heritage has undoubtedly been increasing in recent years. However\, most 3D viewing websites were never intended to host representations of cultural heritage. While the visual and interactive nature of such models may attract public attention\, how can they help to raise awareness of the significance of culture heritage? Are museums doing a better job than their visitors at including contextual information for 3D models\, to educate the public about heritage? This study tracked the landscape of 3D models of cultural heritage across different online platforms\, with a focus on belongings from Indigenous (First nation\, Inuit\, and Métis) communities within Canada. It focused on gathering information about the most popular methods of 3D model generation\, analyzing metadata\, recording the quantity of museum and public creators\, identifying how models were being shared (i.e. view-only vs. downloadable)\, examining public interactivity (i.e. number of views\, likes\, and comments)\, and investigating how models were being used (i.e. institutions using them for research vs. artists integrating them into their for-profit work). The results – which will be accessible on the Open Science Framework platform – can help museums\, researchers\, and Indigenous communities. For museums\, it will demonstrate how their colleagues and visitors have been approaching 3D models. Observing best practices\, as well as being made aware of negative practices\, can help to promote more mindfulness about sharing heritage in digital spaces. It will also allow them to understand issues related to the digital appropriation of Indigenous heritage\, and ways to better engage with the public through 3D models. For researchers\, the results will help to understand trends in the creation such models\, which is important when thinking about issues such as data sovereignty. While instances of repatriation of tangible cultural belongings are on the rise\, digital colonialism remains a recognized problem. Examples of studies such as this one could be used by researchers working to build awareness about the impacts of digitizing heritage without permissions of Indigenous communities. Finally\, for Indigenous communities\, the results can help identify the locations of digitized heritage and perhaps also the location of tangible heritage. This may help to facilitate future repatriation requests. Not all Indigenous communities have access to reliable internet services\, so it is important to be aware that this research may not currently be useful to them. But archiving what is currently out there may be important in the future when there is (hopefully) less of a digital barrier.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 5th Floor - Skyline Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:8c2bf92a94a871db3d6aa96a63521067
+URL:http://mcn2025.sched.com/event/8c2bf92a94a871db3d6aa96a63521067
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T161500Z
+DTEND:20251021T170000Z
+SUMMARY:Future-Proofing through Sustainability and Resilience
+DESCRIPTION:Following our joint session at MCN 2024\, “One Collection to Rule Them All\,” we're back to share the next chapter of our journey. Last year\, we introduced a functional\, unstyled prototype of a unified online collection discovery portal that sparked interest and meaningful conversation across the MCN community.\n\nThis year\, we’ll walk through the evolution of that prototype into a fully launched beta MVP —delivered alongside a new institutional brand\, a headless website\, and a completed DAMS-CMS integration.\n\nOur session will explore how we approached infrastructure sustainably: maintaining our existing CMS while redeveloping its public interface\, integrating the DAMS\, and building a unified collection experience. Together\, these efforts have laid the foundation for future innovation. We're also hoping to be able to preview plans for our latest initiative: a “My Huntington” customer portal on our flagship website\, a project that will centralize member account management\, increase web-generated revenue\, and improve customer experience.\n\nToo often\, long-term digital projects are only discussed in hindsight. We aim to share our experience as it continues to unfold—the wins\, the challenges\, and everything in between. Our hope is to foster a candid conversation about navigating these complex projects together.\n\nAligned with this year’s conference themes of resilience and resonance\, we’ll reflect on how a strong client-vendor partnership enabled us to adapt\, persevere\, and deliver impactful results. We’ll share what we’ve learned about collaboration\, communication\, and sustaining momentum to achieve ambitious goals.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Bazinet Lobby - Cinema\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:e446e9f0fc1e909f7dc4d46823d7a19c
+URL:http://mcn2025.sched.com/event/e446e9f0fc1e909f7dc4d46823d7a19c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T161500Z
+DTEND:20251021T170000Z
+SUMMARY:Let’s Build The MCN Museum: Live-Building a New 3D Museum with MCN Community Assets
+DESCRIPTION:The MiM platform lets non-technical users create 3D experiences of exquisite quality\, and in the time it takes to create a PowerPoint. The platform lets collections open up access to their IP without losing control\, and to make revenue along the way.\n\nIn this session\, we will demonstrate the process of building an experience from start to finish with assets contributed by community members. This will showcase the Creator side of the platform\, and we will be able to take questions and suggestions about the process.\n\nThere will be opportunities for members to experience the resultant MCN Museum with a dedicated session on Wednesday at 1pm at the MiM booth in the Community Partner Forum.\n\nPresented by Museums in the Metaverse (MiM)\, a community partner for this year's conference.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Barnes Building\, 8th Floor - Garden Terrace Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:0ebed42c0a45bd1e7d138cc86c4ff8a4
+URL:http://mcn2025.sched.com/event/0ebed42c0a45bd1e7d138cc86c4ff8a4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T161500Z
+DTEND:20251021T170000Z
+SUMMARY:War in Court – bringing War Archives to the Web
+DESCRIPTION:War in Court is a Dutch collaborative project of four Institutes:\n\nThe National Archives\; NIOD Institute for War\, Holocaust and Genocide Studies\; Huygens Institute for Dutch History and Culture and WO2Net.\n\nThe ambition of the project is to make the Central Archive of Special Jurisdiction (CABR) broadly accessible online. The CABR is the largest and most frequently consulted war archive in the Netherlands. The CABR is a legal archive containing files of individuals suspected of collaborating with the German occupiers during World War II. It includes 485\,000 cases of approximately 425\,000 people who were investigated within the Special Jurisdiction. This archive also holds information on victims\, resistance activities\, events\, and more. The archive consists of over 30 million pages.\n\nThe archive contains legal\, factual information\, but is also divers\, unorganized and with a lot of legal technical terms. And on top\, it contains many eye witness accounts that require additional context for better understanding. The main audiences of the website (Oorlogvoorderechter.nl) are relatives: descendants of persons investigated or mentioned (as witness or victim) in the archive\, so the website is built for a very large\, general audience with little knowledge of archives or legal procedures. In this project a radically different way of presenting archival material was created to make the archive accessible for everyone.\n\nThe entire four kilometers of archive are digitized\, mechanically transcribed\, classified\, digitally organized\, annotated and presented on an easy-to-use website. Each page is or will be digitized (so far over 12 million pages have been processed\, the entire archive will be digitized in 2027). Each scan is made machine readable (Automatic Text Recognition) based on Machine Learning/LLMs/Generative AI. Software for document classification and separation was created to reconstruct the original documents from individual scans and analyse the document to determine the type of document. Document classification is used to explain all the different types of documents in this legal archive\, and it is also used to organize files in a user-friendly way: to reconstruct court procedures.\n\nTo help people understand the documents we also use Named Entity Recognition (NER): generic NER to detect people\, places\, organizations etcetera. The NER then is matched with a WW2 Thesaurus: a specialized encyclopedia of WW2 themes (Nazi-organizations\, resistance groups\, camps\, war events etcetera) to explain these concepts.\n\nIn this presentation we will demonstrate the website War in Court and the different techniques to make this complicated archive accessible for an emotionally involved\, general audience.\n\nWith this project we hope to facilitate the debates about good\, bad and all 50 shades in between: the choices people made and the consequences of these choices.\n\nAnd we also hope to improve the way Archives and Museums present their archival inventories online.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 3rd Floor - McGuire Theater\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:638bd04bbde58d41b1a1f0f638eea8fd
+URL:http://mcn2025.sched.com/event/638bd04bbde58d41b1a1f0f638eea8fd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T164000Z
+DTEND:20251021T170000Z
+SUMMARY:Building the Social Forest: An Interactive Curriculum Rooted in Tongva Knowledge
+DESCRIPTION:Social Forest: Oaks of Tovaangar is a digital curriculum designed by The Broad in partnership with Urban Insight and Tongva authors. Part of the Getty PST Art: Art + Science Collide initiative\, the project connects students with the art and social impact of Broad collection artist Joseph Beuys while centering Indigenous knowledge systems into a new educational experience for middle and high school students\, designed to be exploratory\, interactive\, and culturally grounded. This session shares lessons from a collaboration between museum educators and a technical development team. From The Broad’s perspective\, the goal was to work with Native contributors to create an interactive curriculum that emphasizes the interconnectedness of people\, land\, science\, and art from a distinctly Indigenous perspective. The result is a classroom-ready tool that blends audio\, imagery\, and discussion prompts in a structure that resists linear storytelling\, inviting students to explore at their own pace. From the technical side\, the solution uses a progressively decoupled architecture with a shared Drupal backend and a custom Next.js frontend. Urban Insight developed a replicable system for managing content using layout paragraphs\, allowing content editors to define grid layouts without developer involvement. A custom Drupal module transforms structured data into a frontend-ready JSON schema\, powering an interactive experience optimized for Chromebooks and a touchscreen kiosk mode in-gallery. We will highlight key learnings and technical challenges from the implementation\, including how we balanced performance\, editorial flexibility\, and the unique needs of an interactive educational interface. Together\, the presenters will explore how the project was conceptualized and built—from authoring educational content with cultural sensitivity\, to creating a modular and flexible content model\, to designing for nontraditional navigation and touchscreen use. The session highlights how thoughtful collaboration can produce an experience that is both technically sound and pedagogically meaningful.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 5th Floor - Skyline Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:910fd4bf597a2d27f7665afd5e05ae10
+URL:http://mcn2025.sched.com/event/910fd4bf597a2d27f7665afd5e05ae10
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T170000Z
+DTEND:20251021T181500Z
+SUMMARY:Networking Lunch
+DESCRIPTION:Enjoy lunch in both the Community Partner Forum and in the Cargill Lounge.
+CATEGORIES:EVENT
+LOCATION:‎ ‎ Bazinet Lobby\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:419ad5e6d2b92e0fc16f0a85182fa2af
+URL:http://mcn2025.sched.com/event/419ad5e6d2b92e0fc16f0a85182fa2af
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T170000Z
+DTEND:20251021T181500Z
+SUMMARY:Networking Lunch
+DESCRIPTION:Enjoy lunch in both the Community Partner Forum and in the Cargill Lounge.
+CATEGORIES:EVENT
+LOCATION:‎ Barnes Building - Cargill Lounge\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:7aaf63eec5c9078a849cf432cfa38570
+URL:http://mcn2025.sched.com/event/7aaf63eec5c9078a849cf432cfa38570
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T181500Z
+DTEND:20251021T183500Z
+SUMMARY:Creating a Patient-Centered Framework for Art Museum Robot Tours
+DESCRIPTION:In the face of isolation\, illness\, and uncertainty\, how can museums resonate more deeply with individuals receiving care in hospitals? This case study introduces Arty\, The Ringling’s telepresence touring robot\, and the Caring Together Framework\, a patient-centered approach to digital engagement that brings museum experiences directly to hospital rooms through human-guided robot tours. Built on principles of empathy\, interaction\, and learning\, the framework reimagines digital outreach by prioritizing the emotional and intellectual needs of patients\, rather than simply broadcasting content.  This session will explore how museum staff\, healthcare professionals\, and technologists collaborated to design personalized\, meaningful encounters for patients using telepresence robots. These tours are not just technological interventions—they are crafted social experiences that foster connection\, resilience\, and inspiration during some of life’s most challenging moments.  By grounding design decisions in patient voices and emphasizing human interaction over automation\, the Caring Together Framework offers a model for how digital museum experiences can be both scalable and deeply personal. Attendees will leave with insights into creating more inclusive\, responsive programs that embody care in digital practice.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 5th Floor - Skyline Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:63f6fe74ef0824f6b0542b401dce7f2f
+URL:http://mcn2025.sched.com/event/63f6fe74ef0824f6b0542b401dce7f2f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T181500Z
+DTEND:20251021T190000Z
+SUMMARY:Game Jam! FUNdamentals of game design for the GLAM sector
+DESCRIPTION:Many museums are interested in “playing around” with game design to engage their audiences\, but are concerned about investments of time and budget or just unsure of where to start. A Game Jam--a time-boxed gathering in which game designers\, code artists\, museum staff and other creatives can develop quick prototypes of games for visitors to play--is a low cost low stakes way for museums to experiment with games. \n\nThis hands-on workshop will model a Game Jam\, from start to finish\, in a way that participants can take home to their own institutions. Participants will learn best practices of game design\, and develop games which can then be playtested by MCN attendees. Participants will have the opportunity to reconvene throughout the conference to share player feedback and iterate on games. \n\nGames have overtaken film as the highest-grossing and most popular form of entertainment worldwide. At the same time\, digital native millennial audiences are coming through museums’ doors and to our digital channels expecting populist and participatory forms of engagement. Many museums have hastened to catch up with these trends\, developing “learning games” or “gamifying” aspects of the visitor experience. But many museums are wondering how best to strike the balance between their educational mission and FUN. What kinds of games are right for GLAM audiences? And do all games have to be digital or video games? \n\nThis hands-on workshop will model a Game Jam-- a time-boxed gathering in which game designers\, code artists\, museum staff and other creatives can develop quick prototypes of games for visitors to play--from start to finish\, in a way that participants can take home to their own institutions. Participants will learn best practices of game design\, and develop games which can then be playtested by MCN attendees. Participants will have the opportunity to reconvene halfway through the conference to gather player feedback and iterate on games. Many in the GLAM sector are unsure where to start with game design\, or are daunted by the high-tech\, big-budget games industry. A Game Jam format is a low cost\, low tech\, low stakes way to experiment with games as a mode of audience engagement. \n\nGames\, like film\, are an expressive medium in their own right. But they are not well understood as such by the cultural sector. This workshop will provide a common vocabulary for developing successful games to create engaging and meaningful experiences for audiences of all ages.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Barnes Building\, 8th Floor - Garden Terrace Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:24e5ce37fa1edfdf28ba61d349d61cad
+URL:http://mcn2025.sched.com/event/24e5ce37fa1edfdf28ba61d349d61cad
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T181500Z
+DTEND:20251021T190000Z
+SUMMARY:Sustainable Futures for Digital Resources: Aligning Mission\, Audiences\, and Infrastructure
+DESCRIPTION:This panel explores how museums and cultural institutions can create digital research resources that balance the needs of both scholarly and broader audiences\, as well as internal staff and partners\, while supporting long-term institutional resilience. As organizations expand online collections\, digital publications\, and research platforms\, the sustainability of these efforts—both in terms of infrastructure and impact—becomes critical. Panelists will share case studies and practical decisions that illustrate how digital products can serve as strategic tools for mission alignment\, audience development\, and institutional adaptability.  Case studies include: - Pivoting a print publication to a digital framework\, identifying areas where information is\, or can be\, shared effectively across different uses in the web ecosystem\, increasing the efficiency of production and sustainability across projects. - Reimagining Collections Online to include objects from other collections as a digital catalogue raisonné to support researchers\, museum guests\, art enthusiasts\, and educators by increasing flexibility and facilitating different styles of research information gathering and uses. - Creating cross-collection and cross-institution integrations that\, as a by-product of their original project purpose\, increase the efficiency and reduced time required to support new project ideas. - Migrating a bespoke publishing platform to a shared content management system\, ensuring sustainability and workflows for internal stakeholders and creating a more consistent experience. From rethinking publishing platforms to integrating content more deeply with existing ecosystems\, the conversation will address how we understand our users’ needs\, collaborate across departments/institutions to harmonize information\, and identify where constraints can lead to better user experiences. Digital strategy is evolving with thoughtful design\, and responding to changing funding models and staff capacities.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Bazinet Lobby - Cinema\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:d749ff90bbefaa2932aa14f4bcb11e5b
+URL:http://mcn2025.sched.com/event/d749ff90bbefaa2932aa14f4bcb11e5b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T181500Z
+DTEND:20251021T190000Z
+SUMMARY:We are still asking “What is digital?”
+DESCRIPTION:In museum technology\, you can almost set your watch to someone asking\, “What is digital?” Practitioners regularly evaluate digital’s scope of work given how frequently technologies and goals change. We’ve investigated strategies\, team models\, skills matrices\, maturity models—the list goes on! —and have consistently emphasized the value of positioning digital projects and literacy across the entire organization. Once again\, the field finds itself in a moment of tectonic shifts\, including the impact of generative AI and other rapidly emerging technologies. Our institutions are moving with and against changes in technologies\, resources\, goals\, and politics. How we meet this moment demands both adaptation and reflection. So\, let’s once again ask: What is digital?\n\nThis session includes panelists from the American Museum of Natural History\, the Metropolitan Museum of Art\, and the Monterey Bay Aquarium who will explore these guiding questions:\n\nWhat is now within the scope of “digital”?&nbsp\;What skills\, structures\, and resources make digital successful?&nbsp\;What are the constraints on digital? What are its catalysts?\nWe’ll cite artifacts from the #MuseTech archive and add contemporary insights/expertise. We’ll also look at other sectors—specifically the government and public interest technologies—for inspiration. After the session\, we’ll author a short series of blog posts we’ll write post-conference to offer further context and additional resources.\n\nIt’s our hope that by critically examining the evolution\, successes\, and failures of digital practice\, we’ll know where to go next for a more intentional and effective future for digital in museums.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 3rd Floor - McGuire Theater\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:265cf2b56c46bf04b2c1e9d9ff2caa15
+URL:http://mcn2025.sched.com/event/265cf2b56c46bf04b2c1e9d9ff2caa15
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T184000Z
+DTEND:20251021T190000Z
+SUMMARY:Resilient by Design: How WCMA's MOSS App is Streamlining a Major Collection Move
+DESCRIPTION:Faced with the challenge of relocating 15\,000 collection objects in advance of a new building\, the Williams College Museum of Art (WCMA) needed a location tracking solution that was fast\, reliable\, and easy to use. Working with Concrete Computing and Most Media\, WCMA developed MOSS (Museum Object Scanning System)\, a lightweight web app built to streamline barcode-based inventory and moves\, cutting task time in half while improving accuracy and staff coordination. This session offers a case study in rapid\, resilient tool design—showing how targeted digital interventions can support institutional change\, reduce friction in collaboration with IT departments\, and maintain human-centered workflows at scale.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 5th Floor - Skyline Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:102cc426446d06089b864a5ad2a1bf28
+URL:http://mcn2025.sched.com/event/102cc426446d06089b864a5ad2a1bf28
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T191500Z
+DTEND:20251021T193500Z
+SUMMARY:Exploring Collections in Latent Space: Machine Learning for Visual Drift\, Interpolation\, and Insight
+DESCRIPTION:Latent space modeling offers a new way to engage with collections—not as rows in a database\, but as fluid visual systems where relationships between objects can be explored\, interpolated\, and reimagined. This presentation introduces a framework for training unsupervised machine learning models—particularly VAEs and VQGANs—on small\, high-resolution image datasets drawn from scientific and cultural collections. By embedding objects in a continuous visual space\, we gain the ability to generate new representations that exist between known examples\, opening up insights into both natural morphology and aesthetic variation.\n\nThe work began with Hawaiian seed imagery\, training species-specific VAEs that could interpolate within narrowly scoped datasets. These models were deliberately limited in scope—trained without CLIP or text-based embeddings—to focus purely on visual properties: symmetry\, texture\, contour\, noise. This constraint revealed a surprising strength: the models began to surface latent structures in the data that reflected phylogenetic relationships\, collection anomalies\, and in some cases\, artistic potential. In short\, the model didn’t need to “know” what it was looking at to find meaningful continuity.\n\nThe presentation covers both the technical workflow and conceptual implications.\n\nBeyond botany\, the same workflow has been applied to objects from archaeological\, ethnographic\, and artistic collections. When trained on carved forms\, textiles\, or repeated motifs\, latent space models offer an alternative mode of formal analysis—surfacing unexpected connections across geography\, culture\, or time. These connections are not prescriptive\; rather\, they open up curatorial and scholarly questions. Why do two distinct artifacts interpolate so cleanly? Why do others resist? What might a “missing” object in the middle of that transition look like?\n\nFor curators and conservators\, this technique offers a speculative framework for analyzing fragmentary or context-poor materials. For scientists\, it provides a new mode of visual hypothesis testing. And for artists or exhibition designers\, it’s a tool for generative creation and interpretive storytelling.\n\nThis talk is intended for those at the intersection of machine learning\, visual collections\, and public knowledge infrastructure. Attendees will leave with reproducible workflows\, model references\, and a broader perspective on how unsupervised image models can support—and challenge—the ways we interpret material culture and natural history.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Barnes Building\, 8th Floor - Garden Terrace Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:ae8b94385879e829323845c08a33498c
+URL:http://mcn2025.sched.com/event/ae8b94385879e829323845c08a33498c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T191500Z
+DTEND:20251021T193500Z
+SUMMARY:The Cost of Curiosity: How to Budget for Interpretive Exhibits Before You Have All the Answers
+DESCRIPTION:We've all been there: A Director\, Board Member\, or partner turns to you and asks\, “How much would it cost to do something like this?” It’s just a spark of an idea—there’s no plan\, no drawing\, and no clear scope. But somehow\, you need to provide a thoughtful\, ballpark estimate that’s grounded in reality and helps keep momentum moving forward.\n\nThis session unpacks how to build a flexible\, high-level exhibit budget in the early phases of a project—before you know all the details. We’ll walk through a real-world framework for creating a Rough Order of Magnitude (ROM) budget\, drawing on best practices and a dynamic cost calculator that breaks down expenses by type\, phase\, and scale.\n\nTogether\, we’ll discuss:\n\n1. Rules of thumb for estimating exhibit costs on a per-square-foot basis&nbsp\;\n\n2. Differentiating capital vs. operating expenses\n\n3. Understanding hard costs (e.g.\, materials\, fabrication\, AV hardware) vs. soft costs (e.g.\, design\, planning\, media development)&nbsp\;\n\n4. Aligning exhibit phases with architectural design phases to improve predictability&nbsp\;\n\n5. How to use the ROM budget as a decision-making tool\, not a crystal ball\n\nAttendees will gain access to a customizable budgeting worksheet that helps build clarity\, consensus\, and confidence around exhibit planning—even in the early\, messy stages. Whether you’re launching a new visitor center or rethinking a gallery on a shoestring\, this session will help you respond to the question behind the question: “What’s it going to take to make this real?”
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 5th Floor - Skyline Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:564a9b4a88739ff5edd0bc7a806f8eac
+URL:http://mcn2025.sched.com/event/564a9b4a88739ff5edd0bc7a806f8eac
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T191500Z
+DTEND:20251021T200000Z
+SUMMARY:DAM for Public Impact: Aligning Infrastructure with Public Mission
+DESCRIPTION:Museums are under pressure to deliver public access\, ethical AI use\, and digital sustainability\, but most DAM systems are still treated as internal storage. This session\, led by the Canadian Museum for Human Rights and Orange Logic\, will explore DAMs as cultural infrastructure\, tools that shape access\, trust\, and storytelling. Attendees will leave with practical strategies to align their tech stack with mission-driven goals and public-facing needs.\n\nPresented by Orange Logic\, a community partner for this year's conference.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Bazinet Lobby - Cinema\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:b496420e11c4259dfc35dc774a6efda8
+URL:http://mcn2025.sched.com/event/b496420e11c4259dfc35dc774a6efda8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T191500Z
+DTEND:20251021T200000Z
+SUMMARY:Museums\, AI\, and Open Systems: Trust\, Autonomy and Sustainability
+DESCRIPTION:As AI and ML reshape sectors worldwide\, museums are increasingly integrating these technologies to enhance visitor experiences\, streamline operations\, and manage vast collections. However\, an over-reliance on proprietary\, commercially-driven AI and ML systems may inadvertently restrict museums\, compromising both their independence and public trust. This proposal examines the pressing need for museums to consider open-source AI and ML solutions as a means of preserving transparency\, control\, and ethical integrity within the sector. By fostering the development of open alternatives\, museums can establish themselves as custodians not only of cultural artifacts but of responsible\, trusted technological stewardship. Commercial AI platforms\, typically developed by major tech companies\, often come with proprietary limitations\, lack of transparency\, and a narrow focus that may not align with museums' unique missions. These systems may inhibit customization\, constrain data management practices\, and limit institutions’ flexibility to address emerging needs. For museums\, which prioritize accessibility\, preservation\, and public accountability\, the black-box nature of many commercial AI solutions poses ethical and practical challenges. Should museums uncritically adopt these systems\, they risk alienating audiences concerned about data privacy\, misrepresentation\, and bias. Alternatively\, investing in open-source AI and ML solutions provides museums with greater flexibility and autonomy. Open systems can be tailored to align with institutional values\, making them better suited to address the diverse needs of global audiences while preserving privacy and ethical considerations. Moreover\, open-source technologies enable collaboration across institutions\, facilitating shared innovation and cost-efficiency—essential factors in an often resource-constrained sector. By pooling resources to advance open AI systems\, museums can develop sector-specific solutions that foster public trust and meet ethical standards. By taking an active role in the development and implementation of open AI systems\, museums can build trust with their audiences and reinforce their commitment to ethical technology use. This session aims to foster a roadmap for integrating open-source AI into museum practices\, emphasizing the need for collective investment in non-commercial AI tools that reflect the sector’s values. Ultimately\, prioritizing open systems is not merely a technical choice but a statement of trust and commitment. Museums must lead by example\, demonstrating a future where technology serves the public good\, respects privacy\, and aligns with the principles of inclusivity and transparency. This session will inspire the museum sector to actively engage in shaping a responsible AI landscape\, ensuring that these vital cultural institutions retain their role as trusted custodians in the digital age.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 3rd Floor - McGuire Theater\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:d8522c60c5a76d1706791f1d476e3960
+URL:http://mcn2025.sched.com/event/d8522c60c5a76d1706791f1d476e3960
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T194000Z
+DTEND:20251021T200000Z
+SUMMARY:Can We Rely On Ai To Generate Long Description for Disabled Visitors
+DESCRIPTION:After conducting user research with the National Gallery of Art to understand if AI can create meaningful long descriptions that provide an equivalent experience for blind and visually impaired website visitors\, we would like to share what we learned\, what the reocmmendaitons form the BVI community werre\, and how AI can be integrated itno our accessibility initiatives. James\, a legally blind accessibility professional\, conducted the research interviews with 16 blind and low vision individuals and analyzed the results to ensure the entire research project was focused on he true experience. From this research\, we learned how to create prompts that help to visualize the artwork\, what aspects are most important to include in the description\, when to create unique prompts instead of using the same prompt every time\, and how involved people still need to be in the process without overrelying on AI. It is time to embrace AI to enhance accessibility\, but we must do it in a meaningful\, ethical\, and transparent manner.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Barnes Building\, 8th Floor - Garden Terrace Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:62b3a6a2757b6e160648195649db3977
+URL:http://mcn2025.sched.com/event/62b3a6a2757b6e160648195649db3977
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T194000Z
+DTEND:20251021T200000Z
+SUMMARY:Freedom Reimagined: Interactive Storytelling and Cultural Legacy in the Transformation of Miami’s Historic Freedom Tower
+DESCRIPTION:In September 2025\, Miami Dade College reopened the iconic Freedom Tower following a $30 million\, multi-year restoration. Originally built in 1925 as the Miami News headquarters and later known as “El Refugio” for its role supporting Cuban refugees\, the National Historic Landmark now enters a new chapter as a civic and cultural institution defined by storytelling\, technology\, and inclusive design.\n\nMDC engaged Local Projects to envision an inclusive\, interactive experience that would honor the past while engaging a very diverse audience. This presentation will explore how the Freedom Tower’s new exhibitions use immersive media\, responsive environments\, and participatory storytelling to activate memory and identity. These exhibitions invite reflection on migration\, resilience\, and belonging through a blend of historic artifacts\, digital archives\, oral histories\, and contemporary art.\n\nThe session will also examine the challenges and strategies behind integrating state-of-the-art digital hardware into a restored Mediterranean Revival structure without compromising its historic integrity.&nbsp\;\n\nThe Freedom Tower’s transformation offers a compelling case study in using technology not for spectacle\, but as a tool for empathy\, education\, and enduring cultural relevance.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 5th Floor - Skyline Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:dd611cb22a1e149a1f5626eefd878813
+URL:http://mcn2025.sched.com/event/dd611cb22a1e149a1f5626eefd878813
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T200000Z
+DTEND:20251021T201500Z
+SUMMARY:Refreshment Break
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:‎ ‎ Bazinet Lobby\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:3c7a105bdb2ff5b1d88b233aa4f5d210
+URL:http://mcn2025.sched.com/event/3c7a105bdb2ff5b1d88b233aa4f5d210
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T201500Z
+DTEND:20251021T203500Z
+SUMMARY:One Product\, Many Perspectives: A Case Study in Collaborative Design for Digital Interpretation
+DESCRIPTION:\n\nWhat happens when a UX researcher\, an interpretation specialist\, and a product lead come together to build a digital storytelling kiosk? How do their different perspectives\, roles\, and motivations drive the project forward\, especially with tight deadlines? \n \n This case study from the National Gallery shares how a cross-functional team developed an interactive platform to guide visitors through close-looking experiences with small\, detailed artworks. Designed as both an MVP and a reusable interpretive tool\, the kiosk combines storytelling and high-res image zoom powered by IIIF and DAM integration. \n \n Each presenter offers a different lens—on user needs\, curatorial goals\, and technical implementation—highlighting where their perspectives clashed and connected. The talk emphasizes the need for continuous dispersal of assumptions between team members\, how they managed shifting expectations\, scoped content\, and kept collaboration open and visitor-centered. \n \n&nbsp\;Ideal for small teams\, this session offers practical takeaways on working across disciplines\, launching imperfect products\, and iterating based on real user needs.\n\nClick here for a link to the presentation slides (Figma).
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 5th Floor - Skyline Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:42c1c3810f5f4cd02b93e1547eb86995
+URL:http://mcn2025.sched.com/event/42c1c3810f5f4cd02b93e1547eb86995
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T201500Z
+DTEND:20251021T210000Z
+SUMMARY:Empowering Institutional Priorities and Strategic Planning with Data
+DESCRIPTION:A good strategy helps a complex organization stay mission-focused and serves as a roadmap for guiding decision-making and resource allocation. Developing measures and targets is an essential part of the strategic process\, but putting them into practice can be challenging without the fundamental data and processes in place to support them. Gone wrong\, this can result in locking in on the wrong things. When done well\, it can fuel an iterative and virtuous cycle of critical thinking\, which can inform prioritization and help build data culture.\n\nThis session\, co-presented by the National Gallery of Art’s Chief Strategy and Planning Officer and its data analytics and audience development teams\, will share the National Gallery's approach to using cross-functional data to illustrate its impact and support strategic metrics at all levels of the organization. We will walk through the evolution of our strategic plan and the iterative process of determining measures and developing dashboards to track these metrics in ways that promote transparency and accountability. Participants will hear tangible examples of how this applies in practice to key areas of any museum\, including visitation\, public and educational programming\, and interpretive resources.\n\nIn addition to building in time for Q&A\, the session presenters will invite members of the audience to give examples of dashboards they have created at their Museums and share use-cases of their application. Our presenters will also ask audience members to name big barriers they’ve run into when designing and deploying dashboards\, and the tips and tricks they’ve found to overcome them. Lastly\, as the strategic plan continues to adapt and evolve\, this presentation encourages discussion on how diverse technology tools and resources can support continuous improvement at an institution.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Bazinet Lobby - Cinema\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:4a8eb9303f2f7054095a44c18ac900c3
+URL:http://mcn2025.sched.com/event/4a8eb9303f2f7054095a44c18ac900c3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T201500Z
+DTEND:20251021T210000Z
+SUMMARY:Simpler\, Lighter\, More Effective: Rethinking Infrastructures for Online Collections
+DESCRIPTION:New ideas and approaches are emerging that can help museums build robust and performant online collections.&nbsp\;\n\nDespite years of blood\, sweat and tears\, many of the old challenges remain\, and in some cases\, new complexity has crept in. Extracting information and media from legacy systems\, building data pipelines and image services\, and weaving backend systems into an engaging web platform—these are all opportunities for new thinking and innovation.\n\nMoreover\, building sustainably requires more than technology systems\, it means building internal workflows\, staff expertise and governance—it means building a team. There’s nothing quite like a new website and online collection to bring a museum team together.\n\nFresh from the launch of a new online collection\, the technical group behind the new Menil.org—including internal staff\, agency partners and a museum technology consultant—will lead a discussion detailing common approaches\, challenges and new opportunities for building an online collection in 2025.\n\nIntroduction: What good is an online collection? MCN has a long history as a forum for discussing online collections\; let’s keep pushing the state of the art forward.\n\nCollection data: Extracting data from collections management systems and delivering it to the web is a foundational process for online collections\, and it can still be a challenge. We’ll survey different approaches for data extraction\; we’ll touch on the difficulties posed by legacy collections management systems and their web services\; and we’ll survey the usefulness of APIs vs aggregated data files. With this context in mind\, we’ll detail the Menil’s approach\, which replaced a baroque aggregation of eMuseum APIs with an elegant database export to json.\n\nCollection images: Delivering collection images to the web comes with its own challenges. We’ll discuss legacy DAMS and new cloud-based services\; open-access initiatives\; and the opportunities of images-as-data. At the Menil Collection\, the team reconfigured an existing image pipeline with cloud-based storage and Serverless IIIF.\n\nWeb application integration: We’ll discuss different approaches\, including Incremental harvesting vs bulk ingest\; import into the web CMS vs lightweight data integration\; how to keep in sync\; performance and CDNs. For the Menil\, all collection data was delivered in a single json file\, updated nightly\; the web application converted the json to SQLite for use in the online collection.\n\nValues and approaches: Every architecture shows the values of the teams that built it. (Conway’s Law\, etc.) We’ll talk about different infrastructure choices\, and the teams behind them. At the Menil\, the team prized simplicity\, minimalism\, and modularity\, along with a clear separation of concerns.\n\nOnline collections work is an example of innovating with infrastructure: connecting core systems in new ways that promote resilience—sustainability and efficiency\, and provide for resonance—engaging and thoughtful digital experiences.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 3rd Floor - McGuire Theater\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:4043f791c1c0b0e8ca4e50821f31db4c
+URL:http://mcn2025.sched.com/event/4043f791c1c0b0e8ca4e50821f31db4c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T201500Z
+DTEND:20251021T210000Z
+SUMMARY:Where is the #musetech community online?
+DESCRIPTION:Where did the #musetech community and institutions go after Twitter became X? We propose holding a campfire session\, where presenters spend a few minutes discussing why they are holding the session\, then opening up the remaining time for audience discussion/participation. We’ll discuss the background of #musetech on Twitter\, and how some audiences are known to be in specific places now (Digital Humanities community is largely on Bluesky). Then attendees will be invited to put dots up on easel pads for what platforms they are on and whether they are Visitor or Resident according to David O. White Visitor/Resident model of online behavior\, as well as if they do social media for an organization or their personal accounts. We will have a discussion about everyone’s thoughts on whether we should try to recreate the online community that we had in the 2010’s on Twitter\, and where are institutions going in the post X era? Where do institutions collaborate? Larger metropolitan areas tend to have professional networks where social media managers can collaborate\, do managers from less populated areas have similar networks? If not\, where do they go? While hashtag campaigns used to go well on Twitter\, what’s working now?\n\nThis session is part 2 of a 3 step endeavor: Step one: We plan to send a survey out to social media managers and other #musetech professionals to get a wide variety of organizations and professionals involved. Step two: hold the campfire session. Step three: publish results of the survey and session in a venue that will be useful to the #musetech community.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Barnes Building\, 8th Floor - Garden Terrace Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:8678ad9c57e38c4bcb9a1c4bade0e7a5
+URL:http://mcn2025.sched.com/event/8678ad9c57e38c4bcb9a1c4bade0e7a5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T204000Z
+DTEND:20251021T210000Z
+SUMMARY:Moving Through the Layers: Creating an Immersive Conservation Experience
+DESCRIPTION:The conservation of Pintoricchio’s&nbsp\;Virgin and Child offered a rare opportunity to visualize a complex conservation process through digital storytelling. How could we create an experience where visitors move through each layer of conservation\, almost as the conservator had? This question led to Pintoricchio Magnified\, a first-of-its-kind immersive conservation experience.\n\nHidden beneath layers of an early 20th-century restoration\, the Virgin and Child painting was revived through meticulous treatment in the Cleveland Museum of Art’s Painting Conservation Lab. To support visitor understanding of the process\, we developed an immersive digital experience in a traditional gallery space of our permanent collection\, where technology is rarely utilized.\n\nLed by the Digital Innovations team in collaboration with the Painting Conservation team\, the experience invites guests to explore the conservation story interactively. As visitors move through the space\, a 10-by-10-foot digital display responds to their movements\, allowing them to amplify and study specific areas of the painting\, as if viewing it through a microscope and toggle between technical and treatment imaging layers\, revealing the process step by step.\n\nRather than relying on touchscreens or fast-paced interaction\, the experience encourages slow looking. Visitors engage at their own pace\, with the system adjusting subtly to their position. This meditative approach supports close observation and a deeper appreciation for the painting’s materials and structure. The system uses computer vision to track movement and adjust content in real time. Its flexible design suggests future applications for responsive experiences across gallery spaces.\n\nThis session will explore the full lifecycle of Pintoricchio Magnified: An Immersive Conservation Experience\, from concept to design to implementation\, sharing insights on:\n\n- Translating technical material into accessible\, public-facing interpretive experiences\n\n- Methods for inclusive engagement across a wide range of audiences\n\n- Expanding collaboration from focused expert groups to broader internal and external partnerships\n\n- Integrating interactive technology within the constraints of traditional spaces\n\n- Surfacing behind-the-scenes content in responsible and engaging ways\n\n- Strategies for demystifying complex topics and highlighting the often-unseen labor of museum professionals\n\n- Using analytics and evaluation to gain insights and inform future projects\n\nThis session invites museum professionals\, technologists\, and storytellers to explore how immersive digital interpretation can deepen public engagement in behind-the-scenes work and support meaningful innovation.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 5th Floor - Skyline Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:7ceb3a46bbbbe84ef50976b35de39331
+URL:http://mcn2025.sched.com/event/7ceb3a46bbbbe84ef50976b35de39331
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251021T220000Z
+DTEND:20251022T000000Z
+SUMMARY:Evening Reception
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:‎ ‎ Mill City Museum\, 704 S 2nd St\, Minneapolis\, MN 55401
+SEQUENCE:0
+UID:496288e82c4fd657737bf8b24fb24f4d
+URL:http://mcn2025.sched.com/event/496288e82c4fd657737bf8b24fb24f4d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T133000Z
+DTEND:20251022T150000Z
+SUMMARY:Continental Breakfast
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:‎ Hennepin Hallway\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:53a2c782c01729414274c73c65cb6529
+URL:http://mcn2025.sched.com/event/53a2c782c01729414274c73c65cb6529
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T133000Z
+DTEND:20251022T200000Z
+SUMMARY:MCN 2025 Community Partners Showcase: Driving Innovation Through Collaboration
+DESCRIPTION:MCN 2025 could not be possible without the support from our Community Partners. Visit the forum to meet representatives from:\n\nCapptionDigital ScholarForumOneMuse SoftwareMuseums in the Metaverse (MiM)\, University of GlasgowOrange LogicUrban InsightZetcom
+CATEGORIES:EVENT
+LOCATION:Herzog Building\, 2nd Floor - Cityview Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:bc52e2cdb6137cf080c0118ee8deebdb
+URL:http://mcn2025.sched.com/event/bc52e2cdb6137cf080c0118ee8deebdb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T133000Z
+DTEND:20251022T200000Z
+SUMMARY:Registration
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:‎ ‎ Bazinet Lobby\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:8cdb4920ed0faa35b63e7feee4c16ff2
+URL:http://mcn2025.sched.com/event/8cdb4920ed0faa35b63e7feee4c16ff2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T141500Z
+DTEND:20251022T150000Z
+SUMMARY:Emerging Tech in Art Museums: Three* Perspectives
+DESCRIPTION:Can museums be hubs for innovation and experimentation? In art museums specifically\, where should that innovation be centered: with artists\, with public engagement\, or somewhere in between? This panel will feature speakers from The Met and the Whitney\, and explore three different takes (not “answers”) to those questions. Each presenter will briefly review their museum’s emerging technology strategy\, where their role fits into the larger organization\, and a case study representing their working model. Case studies will explore recent projects with AI\, blockchain\, and virtual worlds. \n\nA panel discussion will follow\, exploring technology in general (what we’re prioritizing\, what we see as next\, etc)\, and wrestling with what role—if any—museums should play in the larger tech landscape. The panel will also include space for audience questions and group discussion.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 5th Floor - Skyline Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:bc3d4bdbfdc5c2c5a916e23929a349b4
+URL:http://mcn2025.sched.com/event/bc3d4bdbfdc5c2c5a916e23929a349b4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T141500Z
+DTEND:20251022T150000Z
+SUMMARY:Immersive Storytelling that Goes Beyond Traditional Interpretation
+DESCRIPTION:Interpretation from expert voices holds the keys to meaningful and memorable engagement with an object or exhibition. But are curatorial and education voices always the most "expert" of perspectives? Where might we look to traditional models of museum interpretation to influence non-traditional interpretation experiences?\n\nIn this session\, the presenters will look at models of audio-based interpretation that invite perspectives from beyond an institution's departmental structure.\n\nAt the Museum of Arts and Design in New York\, a team of producers and actors was enlisted to create an "audio drama" to compliment an exhibition of “worldbuilding” work by artist Saya Woolfalk. Each stop of the audio tour furthered the visitor’s sonic immersion in a fictional narrative expanding on to the exhibition’s utopian themes.. Together\, the full tour becomes a comprehensive audio performance that adds an engaging layer of interpretation and invites the visitor to develop a deeper appreciation of the works on view.\n\nMIT List Visual Arts Center invited rapper and MIT professor Lupe Fiasco to create a site-specific rap and field recording project exploring the relationship between rap and MIT's public art collection. Capturing ambient sounds and crafting lyrics in response to each piece\, the project transforms public art into a living sonic experience—where rap and visual art intersect in real time.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 3rd Floor - McGuire Theater\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:7e4a09eebed538d49b124daa74b04294
+URL:http://mcn2025.sched.com/event/7e4a09eebed538d49b124daa74b04294
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T141500Z
+DTEND:20251022T150000Z
+SUMMARY:SIG Coffee + Birds of a Feather
+DESCRIPTION:Share coffee and conversation with fellow professionals in your areas of practice or interest.\n\nMCN Special Interest Groups (SIGs) are volunteer-led MCN members’ communities of practice that are organized around specific topics of interest or niche practice areas. SIGs reflect the diversity of the many technology and digital practices in museums. SIGs provide MCN members the opportunity to connect with colleagues doing similar work in the field\, explore opportunities to collaborate among them\, share resources and best practices\, or discuss ways to advance their area of digital practice.\n\nCurrent SIGs include:Digital Stewardship SIGEducational and Interpretive Media SIGHuman-Centered Data and Design SIGInformation Technology SIGIIIF SIGSocial Media and Digital Content SIGStrategy SIG
+CATEGORIES:EVENT
+LOCATION:Barnes Building\, 8th Floor - Garden Terrace Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:f7923cdec43d7f08c691dacc403a1abf
+URL:http://mcn2025.sched.com/event/f7923cdec43d7f08c691dacc403a1abf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T151500Z
+DTEND:20251022T153500Z
+SUMMARY:From Seed to Tree: Building AI Systems That Actually Work in Museums
+DESCRIPTION:Moving beyond AI hype and vendor demonstrations\, this session shares the real-world journey of building MAPLE (Morton Arboretum Plant Learning Engine) — a RAG-based AI system that helps staff respond to visitor plant identification queries. Rather than a polished success story\, this is an honest look at the messy realities of implementing AI in cultural institutions: wrestling with 20 years of inconsistent data formats\, balancing technical capabilities with staff workflow needs\, figuring out how to define success\, and creating systems that enhance rather than replace human expertise.\n\nMAPLE processes thousands of documents from multiple sources — historical email exchanges\, plant database entries\, website content\, and clinic resources — using open-source tools. The system provides both formatted email responses for staff use and detailed reasoning for transparency\, while tracking performance metrics including response times\, token usage\, and associated costs.\n\nSession Structure:\n\nOpening: Overview of vector databases\, RAG (Retrieval Augmented Generation) vs. fine-tuning approaches\, and why RAG often makes more sense for museums\n\nDeep Dive: Live walkthrough of MAPLE's architecture\, including &nbsp\;unglamorous data preparation work and how we learned to evaluate AI responses for accuracy and institutional voice\n\nMaintenance Reality: Review of ongoing costs (actual numbers)\, the process for future updates\, and lessons learned from six months of operational use\n\nInteractive Demo: Attendees can test MAPLE with their own queries and examine how it handles edge cases and failures\n\nQ&A and Framework Sharing: Decision-making tools for evaluating whether AI makes sense for your institutional challenges\n\nAttendees will leave with practical resources including evaluation rubrics\, cost planning templates\, and a decision framework worksheet. This isn't about cutting-edge technology — it's about practical implementations using accessible tools that can run on modest hardware budgets and actually integrate with existing museum workflows.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 3rd Floor - McGuire Theater\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:919bfe9e9b5b15cc092122ce8adf9533
+URL:http://mcn2025.sched.com/event/919bfe9e9b5b15cc092122ce8adf9533
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T151500Z
+DTEND:20251022T160000Z
+SUMMARY:You Can't Plan Your Way Out of Complexity
+DESCRIPTION:You’ve heard it before and maybe you’ve even said it. But still\, museum technologists are handed project after project with timelines\, roadmaps\, and expectations that treat every problem like it’s simple or solvable by better planning. We write documentation. We build beautiful decks. We upgrade the system. And yet\, nothing really changes except maybe the burnout levels of the people tasked with “implementation.”\n\nThis session is for anyone who’s ever been asked to “just make it work” when the real issue was communication breakdowns\, trust gaps\, decision gridlock\, or invisible power dynamics. It’s for those who are tired of solving the wrong problem—or solving the right one with the wrong tools. And it’s for people who suspect there might be a better way to name\, frame\, and move through the real challenges of museum work today.\n\nWe’ll explore a simple but powerful framework for understanding four distinct types of problems—simple\, complicated\, complex\, and chaotic—and why trying to solve all of them the same way doesn’t just fail… it often makes things worse. This model helps shift us from asking “How do we fix it?” to asking “What kind of problem is this\, and how should we respond?” It’s an invitation to stop overengineering our approaches to human messes and start choosing methods that match the moment.\n\nWe’ll walk through real-world examples from museum teams and then jump into group discussions where participants will sort challenges from their own work lives\, exchange advice\, and practice right-sizing solutions. Expect micro-consulting moments\, pattern recognition\, and at least one sticker that says “it is what it is.”\n\nWhether you’re a project manager\, implementer\, technologist\, or anyone caught between configuration and people\, this session will offer you:\n\nYou’ll leave with greater clarity about the work ahead\, relief that you’re not the only one struggling\, energy to try something different\, and a few much-needed a-ha moments about why some things haven’t worked—and what might.\n\nBecause in the end?\n\nYou can’t plan your way out of complexity.\n\nBut you can learn to navigate it\, together.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 5th Floor - Skyline Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:64e75d2cb45e631660801e3087625808
+URL:http://mcn2025.sched.com/event/64e75d2cb45e631660801e3087625808
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T151500Z
+DTEND:20251022T160000Z
+SUMMARY:Speed Networking
+DESCRIPTION:Meet other MCN attendees with some speed networking! A facilitator will guide attendees through a series of breakout conversations. Share with fellow attendees where you're from\, what you're curious about\, and more—just be quick!
+CATEGORIES:EVENT
+LOCATION:Barnes Building\, 8th Floor - Garden Terrace Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:039742beaf98e8ebf5ed0acee82934ab
+URL:http://mcn2025.sched.com/event/039742beaf98e8ebf5ed0acee82934ab
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T154000Z
+DTEND:20251022T160000Z
+SUMMARY:Dancing like no one is watching in a panopticon of slop
+DESCRIPTION:In 2025\, and the idea of the web outside of established and reliable discovery channels\, as a vehicle for effective marketing and promotion\, is a difficult prospect for everyone. If we only imagine the web as the output of benevolent corporate overlords who promise us to "not be evil" – until they are – then the current conditions certainly makes it seem like things are a bit grim. The original promise of reach and discoverability – the illusory and often false promise of overnight success\, of maybe even going viral – is being undermined on all fronts. The AI-based alternatives which are beginning to occupy that space are even less certain and even more transactional in their nature. If we want any chance of escaping this quicksand I think we are all\, collectively\, going to have to re-imagine what “discovery” means and how it’s success is measured in both time and impact.\n\nThis presentation will argue that we are probably going to need to spend a little more time than we have in the past telling ourselves\, our peers and our audiences why the web is different. Why it is special and worth preserving even if it lacks the sparkle\, shine and the immediacy of the new because the alternatives are feeling pretty retrograde if not worse. And then how we make those realities durable enough to foster discovery and revisiting on the time scale of the humanities rather than the marketplace.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 3rd Floor - McGuire Theater\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:591597beaa428623273f2656fc66d942
+URL:http://mcn2025.sched.com/event/591597beaa428623273f2656fc66d942
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T160000Z
+DTEND:20251022T161500Z
+SUMMARY:Refreshment Break
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:Herzog Building\, 2nd Floor - Cityview Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:699e7ef591be1b575274f6f26f591ccf
+URL:http://mcn2025.sched.com/event/699e7ef591be1b575274f6f26f591ccf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T161500Z
+DTEND:20251022T163500Z
+SUMMARY:A Taste of Our Own Medicine: Building Products for Museum Staff at MoMA
+DESCRIPTION:Digital teams at museums work on a wide variety of public-facing projects. Equally important\, though\, are the digital products and infrastructure projects we build to support the needs of museum staff. This work requires us to harmonize diverse functions that include collection specialists\, floor staff\, researchers and archivists\, editorial teams\, marketing departments\, and more\, each with their distinct goals and workstreams. Successful museum systems can handle the complex\, nuanced requirements of each stakeholder and function in a way that maximizes simplicity and ease of use for everyone. When done well\, technology can empower our colleagues instead of encumbering them in complicated workflows. In a context where the possibilities of digital technology are taking vast leaps while staffing resources (at best) stand still\, successful digital systems can make outsized contributions towards helping museums meet their mission of caring for their visitors\, showcasing art\, and supporting scholarship.\n\nAs part of the process of migrating to a new content management system (CMS) and other internal projects\, the team at MoMA recently conducted a series of museum-wide stakeholder interviews to understand the workflows and pain points of various departments. The learnings were numerous. There was a lot of manual duplication of content needed to bridge different systems that teams were using. Staff faced lengthy\, often outdated documentation\, and opaque interfaces where functionalities and outcomes weren’t clear. Several features across products relied on manual scheduling and content production\, which increased workloads.\n\nMany of these learnings found their way into projects that followed: we created a revamped website dashboard in our new CMS\, which helps staff find and manage content they’re working on more easily. We optimized content creation interfaces and language to make workflows smoother\, minimizing the need to depend on external documentation. Significant additions were also made to our suite of behind-the-scenes products such as an app to manage virtual queueing in the museum\, ticket and membership sales management\, and onsite kiosk management. And lastly\, amidst all this work\, the team also snuck in a few tools and features to make life easier for itself: for example\, a Figma plugin that allows designers to quickly pull accurate artwork\, artist\, and exhibition data into their designs.\n\nIn this presentation\, we’ll talk about the process of turning the researcher's lens on ourselves: how we approached\, conducted\, and synthesized our conversations with staff\, converted those into actionable ideas and opportunities\, and tested in-flight ideas to make sure we were headed in the right direction. We’ll also discuss the impact we’ve seen and learnings we’ve gathered following the release of those initiatives. Finally\, we’ll go over some other ideas we’d love to work on in the future that might be relevant to the audience.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Barnes Building\, 8th Floor - Garden Terrace Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:1820652ff42672c4ea4dfec49f8d592b
+URL:http://mcn2025.sched.com/event/1820652ff42672c4ea4dfec49f8d592b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T161500Z
+DTEND:20251022T170000Z
+SUMMARY:3D Digital Assets & Longevity: Data Creation\, Maintenance\, and Preservation Strategies
+DESCRIPTION:3D digitization programs have high potential to transform conservation\, research\, education\, and engagement in museums. Conservators can plan restorations and preserve fragile objects without handling if detailed digital records are captured\, reducing risk of damage. Museum educators are also increasingly exploring the potential of 3D digitizations and 3D prints to enhance engagement and accessibility – creating immersive extended reality experiences and tactile programming with artifact replicas. However\, the technical complexity of producing and maintaining 3D digital derivatives presents significant challenges to the sustainability of 3D work. Various techniques are available for 3D digitization and 3D printing\, and several competing standards exist in file formats for 3D models. Staff from two institutions\, the North Carolina Museum of Art and the Williams College Museum of Art\, will present ongoing work toward creating standard procedures for 3D assets work to ensure longevity beyond turnover of key personnel.  The NC Museum of Art’s 3D digitization program began as an initiative within the education department\, with nearly all digitization work carried out by external contractors. Collections and IT staff did not oversee the deliverables\, leading to inconsistencies in 3D data specifications and risk of final models never making it to staff custody. The presenters are working to reframe 3D digitization as a long-term investment in the NCMA collection. Digitization is costly and we aim for 3D models to endure. We will discuss how contracts are drafted to specify deliverables and how we verify\, archive\, and publish finished digital assets. At the Williams College Museum of Art\, 3D model making began with needs of college-level classes ranging from Anthropology and American Studies to Chemistry. With support from prep staff\, most work is carried out by one staff member\, and the museum has no devoted IT support. Many models are created by students as part of internships or classes. Our process developed from the need to balance external access to high-resolution models and source files with the constraint of mandated storage and access systems like Google Drive. This approach is suitable to organizations trying to develop a sustainable program with student or volunteer labor and minimal system customization.  We will present our use cases\, the educational programs and research tools around 3D collection objects\, especially as project goals dictate specifications for mesh and texture optimizations as well as file types. However\, our primary focus will be on policies\, procedures\, and long-term strategies for 3D data creation and maintenance.  To offer a broad scope of perspectives on sustaining 3D asset initiatives this presentation brings together staff from digital imaging\, information technology\, and education at a mid-sized museum\, in addition to curatorial & teaching perspective at a college museum supported by external IT.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 5th Floor - Skyline Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:0a54a9c40b7f48b49fe05bd5158ff6fa
+URL:http://mcn2025.sched.com/event/0a54a9c40b7f48b49fe05bd5158ff6fa
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T161500Z
+DTEND:20251022T170000Z
+SUMMARY:How Good Is Good Enough? — Taming Our AI Expectations
+DESCRIPTION:Generative artificial intelligence is a powerful resource in helping get things done—that is\, when we view it as an efficient helper and not as an autonomous thinker. But when do our expectations of AI exceed what we expect of our human colleagues? Should we hold AI to the same standards of "correct" as we do of humans? What is the minimum threshold of "correct" for us to accept AI-generated outputs? In this session\, three experts will investigate the tolerances afforded to generative AI outputs. Drawing from experiences of using AI chatbots and other AI-powered tools in their everyday duties\, the speakers will describe how they each came to harnessing the benefits presented by generative AI. From research to prototyping to fuller development and execution\, the panelists will explore how they have approached AI chatbots in a similar manner to working with junior human colleagues: training them with basic instruction\; refining their outputs with prompts\; and ultimately putting them in a position to produce work that can continue to be refined by human expertise. Additionally\, panelists will share how their hands-on experience became instrumental in shaping broader institutional policies and guidelines for AI use within their organizations.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 3rd Floor - McGuire Theater\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:ee2c50504f95d674c1fc1a3c762b66f6
+URL:http://mcn2025.sched.com/event/ee2c50504f95d674c1fc1a3c762b66f6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T164000Z
+DTEND:20251022T170000Z
+SUMMARY:Stories that stick: Building human connection through staff and volunteer spotlights
+DESCRIPTION:The Monterey Bay Aquarium is well-known for sea otters\, jellies\, and the incredible Kelp Forest exhibit. However\, it’s the people behind the scenes who truly make the Aquarium a world-class institution.&nbsp\;\n \n This session will present a case study of Monterey Bay Aquarium’s “Day in the Life” social video series\, which focuses on Aquarium staff and volunteers\, their passion for their work\, and how they contribute to our mission to inspire conservation of the ocean.&nbsp\;\n \n As part of our&nbsp\;strategic commitments for 2024-2029&nbsp\;to build a thriving\, people-centered\, and fully bilingual organization\, we’ll explore how we’re telling more inclusive stories\, navigating translation and AI\, and keeping our voice authentic in a fast-changing digital world. We’ll also spotlight the often-unseen roles—from AV techs to volunteer guides—that run the Aquarium every day.\n \n These videos help create authentic human connections for our internal and external audiences and reinforce organizational culture for our staff. They offer our digital audiences inspiring\, relatable examples of what ocean conservation work can look like. They support the recruitment efforts of our People &amp\; Culture division by showing that the Aquarium is a place where people from all walks of life can belong\, contribute\, and thrive. Ultimately\, these videos remind us that museums and cultural spaces have the power to inspire not just through exhibits\, but through the people who bring them to life.\n \n In this session\, we’ll highlight how storytelling not only reflects a shared purpose but also invites audiences to connect the message to their own personal aspirations\, experiences\, and sense of meaning. We’ll also share general insights that demonstrate the power of visual storytelling to connect people with purpose.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Barnes Building\, 8th Floor - Garden Terrace Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:bb57233df87b37a3406ad3983c9fee17
+URL:http://mcn2025.sched.com/event/bb57233df87b37a3406ad3983c9fee17
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T170000Z
+DTEND:20251022T181500Z
+SUMMARY:Networking Lunch
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:Herzog Building\, 2nd Floor - Cityview Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:e82fd5cbfd3bfefc5d48f902285a8635
+URL:http://mcn2025.sched.com/event/e82fd5cbfd3bfefc5d48f902285a8635
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T180000Z
+DTEND:20251022T183000Z
+SUMMARY:Partner Demo - Museums in the Metaverse (MiM)
+DESCRIPTION:As a follow up to a Tuesday morning session\, the Museums in the Metaverse (MiM) team will demo a museum created on the platform with assets contributed by MCN community members.
+CATEGORIES:PARTNER DEMO
+LOCATION:Herzog Building\, 2nd Floor - Cityview Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:bb59daf34e7486ac0a0809cb8bdc08a5
+URL:http://mcn2025.sched.com/event/bb59daf34e7486ac0a0809cb8bdc08a5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T181500Z
+DTEND:20251022T183500Z
+SUMMARY:Embedding Accessibility into Process: Lessons from a Museum Website Redesign
+DESCRIPTION:Making a website accessible and inclusive for all users was a core goal of the Cleveland Museum of Art’s recent website redesign\, which brought together the online collection\, marketing\, and e-commerce into a single platform. As the project progressed\, it became clear that achieving our accessibility goals required more than compliance. It required rethinking digital processes across our institution. This expanded the project in two directions: implementing sustainable web practices and making all editorial and collection images accessible. As an art museum that relies heavily on visuals\, we saw this as an opportunity to explore how AI could support our goals while navigating complexities such as accuracy and implementation.\n\nIn partnership with Prime Access Consulting (PAC)\, we built accessibility reviews into every stage of the redesign. These evaluations were not just technical checklists but essential moments of reflection. This work was driven by disabled experts\, whose insights helped guide the team through moments of fatigue and challenge. Their behind-the-scenes labor was instrumental in ensuring accessibility was not deprioritized. Acknowledging this contribution is critical\, especially in a sector where disabled labor is often invisible. Through this collaboration\, we built internal capacity to identify barriers\, ask better questions\, and shift our long-term thinking. Accessibility became embedded in our development cycles\, not added at the end.\n\nTo support these practices\, we trained content editors across departments\, developed style guides\, created documentation\, and used our Drupal backend to enforce accessible practices. By creating standardized workflows\, we built a foundation that enabled content creators across the museum to meaningfully contribute to accessibility efforts.\n\nDriven by making artwork accessible to all\, we’ve also experimented with using AI to assist with alt text creation. This began with training a model using human-generated visual descriptions and reviewing its output through both automated and human assessment. Our style guide\, developed with PAC\, provides a reference point for assessing quality. We continue to refine our alt text\, learning from the challenges of scaling AI-generated content. With over 66\,000 objects in our collection\, AI makes possible our goal to add alt text for all works by November 2025.\n\nThis session will cover:\n\n- How expert guidance was integrated into ongoing development\n\n- What it took to keep accessibility a priority under pressure\n\n- How decentralized content workflows\, training and documentation support long-term goals\n\n- Strategies for expanding alt-text through AI and questions of accuracy and implementation that come with it\n\nThrough this project\, accessibility for CMA has evolved from a deliverable to an ongoing shared commitment across our digital and content teams\, supported by collaborative relationships with external partners.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 5th Floor - Skyline Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:3b3976b39cbac8e3c86a4b0ad4b57199
+URL:http://mcn2025.sched.com/event/3b3976b39cbac8e3c86a4b0ad4b57199
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T181500Z
+DTEND:20251022T190000Z
+SUMMARY:IIIF Implementations\, Approaches\, and Outcomes: A Common Framework for Many Stories
+DESCRIPTION:This session will showcase various implementations of the International Image Interoperability Framework (IIIF) to create rich digital interpretive experiences. The session intent is to exemplify a breadth of user experiences created with IIIF tools (e.g. deep zoom\, annotation\, pagination)\, highlight implementation approaches and extensions to these IIIF features\, and evaluate ideal audience experiences and outcomes. Projects for three institutions will be presented – the North Carolina Museum of Art\, the Workers Arts & Heritage Centre\, and Getty\, with speakers from project partners Urban Insight and Surface Impression. Urban Insight and the NC Museum of Art present an annotated image viewer built for both web and in-gallery kiosk experience. Technical details include: conformance to the IIIF Presentation API within a WordPress plugin where content editors have control of annotation placement\, text\, and additional imagery via CMS\, extension of the Clover IIIF viewer to support annotations\, kiosk feature availability via query parameter and webpage embeddable via \, and Google Tag Manager custom events track kiosk usage in addition to standard web analytics. This project emphasizes reusability – building once and deploying across multiple contexts – for maximizing impact when resources are limited. Surface Impression presents a virtual exhibition website\, All Together Now! Banners of the Labour Movement\, developed for the Workers Arts & Heritage Centre (Canada’s only labour history museum). The featured historical banners span up to six feet wide\, are usually double-sided\, and reveal key historical details through wear\, damage\, or their alteration over time — these complexities shaped our approach to digital storytelling and user experience\, all within the IIIF standard. We’ll share how we enabled virtual flipping of double-sided banners in 3D space and created custom annotations with a kiosk-like interface. The result is an enriched interpretive resource that amplifies the history of Canada’s labour movement and its messages of common purpose\, pride\, unity and the dignity of work. Getty presents a digital re-creation of the Bayard Album\, one of the earliest photo albums ever created\, related to the exhibition Hippolyte Bayard: A Persistent Pioneer. For conservation reasons the book no longer holds the fragile photographs. Thus\, this digital interactive—a re-creation of the album with interpretation\, presented in-gallery—offered visitors a unique opportunity: a chance to experience this historic object in its full richness\, approximating how its creator and subsequent owners may have engaged with it before the album was later disassembled for preservation. The interactive allowed a “browsing” as well as a “guided experience\,” enabling users to choose. Creating the digital album leveraged the expertise of diverse groups of Getty staff and marked the first time we produced a project merging IIIF technology and content interpretation.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Barnes Building\, 8th Floor - Garden Terrace Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:76dcb49149faad43478756f271a96050
+URL:http://mcn2025.sched.com/event/76dcb49149faad43478756f271a96050
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T181500Z
+DTEND:20251022T190000Z
+SUMMARY:Vibe Coding & Questioning One's Raison d'Être: A Perspective on the Future of Creation
+DESCRIPTION:This presentation explores how the rise of AI and rapid prototyping (dubbed "vibe coding") represents both a challenge and opportunity for experienced generalists. It critiques the current software development culture that prioritizes quick MVPs over sustainable\, thoughtful solutions\, while celebrating how those with diverse experiences across multiple disciplines are uniquely positioned to thrive in this new era. The talk examines how technological shifts throughout history have reshaped creative fields\, drawing parallels between the impact of the camera on painting and AI on software development. It argues that while anyone can now generate code or content quickly\, the true value lies in perspective—understanding systems holistically\, making meaningful connections between disciplines\, and bringing hard-won experience to bear on complex problems. The presentation concludes that we're entering a new Renaissance where breadth of experience\, pattern recognition\, and human judgment become the scarcest and most valuable resources—positioning seasoned generalists not as obsolete but as essential guides in an age of infinite generation. It's a call for reclaiming creativity\, ownership and perspective in a world being rapidly transformed by AI.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 3rd Floor - McGuire Theater\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:329d666c940f0c137f94003e2546b867
+URL:http://mcn2025.sched.com/event/329d666c940f0c137f94003e2546b867
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T184000Z
+DTEND:20251022T185500Z
+SUMMARY:Digital Signage Gets a Makeover: Integrated\, Intuitive\, Immersive
+DESCRIPTION:Digital signage is nothing new in museums. The&nbsp\;real challenge&nbsp\;is making it effective by delivering clear\,&nbsp\;timely&nbsp\;information that enhances the visitor experience without putting extra strain on a small team.&nbsp\;&nbsp\;\n\nThis&nbsp\;session&nbsp\;shares how to create a signage system that goes beyond static schedules.&nbsp\;The system&nbsp\;adapts in real time to changes in exhibitions\, tours\, performances\, and digital programs. It gives visitors the ability to act\, such as buying tickets directly from their phones. It stays visually cohesive with the&nbsp\;historic Breuer&nbsp\;architecture and&nbsp\;CMA&nbsp\;brand. Most importantly\,&nbsp\;it’s&nbsp\;built to be sustainable\, easy to update\, manage\, and scale with limited staff and resources.&nbsp\;&nbsp\;\n\nDuring the recent renovation and restoration of the CMA’s historic Breuer lobby\, we had a unique opportunity to rethink the role of digital signage. The project called for a large-scale screen that would act as&nbsp\;a central information&nbsp\;hub\;&nbsp\;distinct from the interactive&nbsp\;ArtLens&nbsp\;Wall but held to the same&nbsp\;high standards&nbsp\;for design\, clarity\, and experience.&nbsp\;&nbsp\;\n\nWe developed a streamlined\, visually elegant signage system using our existing digital infrastructure. Content updates automatically in real time\, pulling from systems already in use across the museum. Each event or program is paired with a QR code\, allowing visitors to learn more or buy tickets instantly from their phones. The layout is intuitive\, highlighting what is happening now and next\, and features artwork from the collection to inspire deeper exploration throughout the galleries.&nbsp\;&nbsp\;\n\nThis session will cover the strategies we used to create signage aligned with institutional digital goals\, focusing on key priorities:&nbsp\;&nbsp\;\n\n1. One source of truth: Updates made once are automatically reflected everywhere (on signage\, the website\, and anywhere someone interacts with our digital products).&nbsp\;&nbsp\;\n\n2. Fully integrated backend: Seamless system integration within our existing digital infrastructure ensures signage remains&nbsp\;up and&nbsp\;accurate.&nbsp\;\n\n3. Low content management lift: Designed for a busy team with minimal need for manual updates.&nbsp\;\n\n4. Development team collaboration: Design and development collaboration that allows our team to truly own and manage our systems after a vendor completes their scope. &nbsp\;&nbsp\;&nbsp\;\n\n5. Paperless ticketing: QR code access&nbsp\;eliminates&nbsp\;the need for kiosks.&nbsp\;&nbsp\;\n\n6. Increased visibility of our collection:&nbsp\;Leveraging&nbsp\;our robust collection digitization initiative to highlight 3D models\, collection searches\, and object locations to create more entry points into the collection\, encouraging independent exploration. &nbsp\;&nbsp\;\n\n7. Modular design: A flexible structure that can evolve with the institution’s needs.\n\nWe'll share how this signage project embodies our mission to create experiences “for the benefit of all the people\, forever\,” by increasing awareness of everything the museum offers and shaping strong\, positive first impressions. This session offers a practical roadmap for creating digital signage that works with and for your institution and your visitors.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 5th Floor - Skyline Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:38ded83ecfe9c2ab8fb4c376eff06c8d
+URL:http://mcn2025.sched.com/event/38ded83ecfe9c2ab8fb4c376eff06c8d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T191500Z
+DTEND:20251022T193500Z
+SUMMARY:A case study in making a multimodal map-based data visualization
+DESCRIPTION:For the new History of Lynching in Maryland exhibit at the Reginald F. Lewis Museum in Baltimore\, Quatrefoil Associates was tasked with creating an interactive media experience featuring soil samples from lynching sites around Maryland. We wanted to give visitors a personal experience while being respectful of these artifacts. We also needed to inform visitors about the victims and leave them with an understanding the lynching was widespread throughout Maryland. We created a projected video containing a map of Maryland which can show up to three pop-ups with information about individual victims. These are triggered by capacitive labels in front of each vessel. We consulted with Dr. Cheryl Fogle-Hatch on how to make this experience accessible to blind and low-vision visitors. Because it would be difficult to create a full interface for this interactive that doesn’t require vision\, we decided to add an alternate format instead. A tactile map placed next to the vessels shows the same map with points at each of the lynching sites\, braille labels\, and a QR code to access the full text. This presentation\, by the interactive producer responsible for creating the digital elements and their multiple interfaces for the exhibit\, will present their strategy and learnings from the project. The presenter welcomes discussion from session participants about universal design approaches to creating multiple interfaces to museum experiences\, the strengths\, drawbacks\, and pitfalls to avoid.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Barnes Building\, 8th Floor - Garden Terrace Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:480dadc6c1c0af6eda5a5c3bc01a3def
+URL:http://mcn2025.sched.com/event/480dadc6c1c0af6eda5a5c3bc01a3def
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T191500Z
+DTEND:20251022T193500Z
+SUMMARY:Classifying Emails with AI for Fun (and Non-Profit)
+DESCRIPTION:Picture this: Visitor emails continually flood your institution’s inboxes. Admission questions are mixed with emergency accessibility needs and international tourism inquiries arrive alongside local school group bookings. Each requires different expertise\, response times\, and cultural sensitivity. Your staff feels overwhelmed\, visitors wait too long for replies\, and essential communications risk getting lost in the shuffle.\n \n As museums strive to serve diverse audiences\, email communication remains a critical but tedious touchpoint. Email inbox rules are set up to help\, but become outdated and are hard to maintain. Tending to a catch-all inbox\, even after the spam filter has done its job\, is a time-consuming job that is never done.\n \n This case study presents our prototype solution: an AI system that classifies incoming emails along multiple dimensions\, to route to the right team members with subject matter expertise\, to ensure fair and timely responses.\n \n Built on an open-source DistilBERT transformer (an AI model) with custom architecture for museum contexts\, the system identifies the nuanced needs of different visitor segments—from international tourists requiring language assistance to local community members seeking accessibility accommodations.\n \n How It Works: Our prototype simultaneously analyzes emails across three(-ish) dimensions—category\, urgency\, and visitor segment. A hierarchical category-subcategory structure captures nuanced inquiries (booking -&gt\; accessibility accommodation.) The resulting classifications are used to get every email to the right person to respond to it.\n \n The system is private: no visitor emails are fed into ChatGPT\, Gemini or any other big cloud AI. Since DistilBERT is quite small and efficient\, the system runs on modest resources.&nbsp\;\n\nThis presentation will glance at the technical architecture and demonstrate how museums can extend the system for their specific taxonomies and use cases. The authors will share personal experiences with using AI tools like Claude\, Gemini and Cursor to build an AI solution.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 5th Floor - Skyline Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:fa5704c76512dcdfecea3995bf57c918
+URL:http://mcn2025.sched.com/event/fa5704c76512dcdfecea3995bf57c918
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T191500Z
+DTEND:20251022T200000Z
+SUMMARY:Reuse\, Remix\, Resonance: Open Access in the Wild
+DESCRIPTION:Overview\n\nOpen access is the gold standard for museums and universities alike\, and we know it resonates with public users. But how do we measure this impact\, once we release our collections into the wild?\n\nThis session will present a diverse range of examples of open access collections reuse\, followed by a guided discussion on the types of impact we can and can’t measure (brainstorming how we might creatively capture further future impact.)\n\nReuse & Resonance Showcase\n\nMCN happens to fall within International Open Access Week this year and the topic continues to hold significance and opportunities across the GLAM sector\, as highlighted by over 20 Open GLAM presentations and publications at MCN through the years. We will share updates from previous OA presenters while spotlighting a variety of compelling end-user reuse examples including creative works\, research\, citizen science\, crowdsourcing projects\, data visualizations\, Wiki knowledgegraphs\, NASA hackathons\, and third-party cultural aggregators.\n\nImpact & Insights Discussion\n\nIn celebration of its five-year open access anniversary\, the Smithsonian is conducting a survey and publishing a report covering internal findings and an external landscape survey of the current state of open GLAM collections. The report will be shared out alongside the presentation and we will draw from some resulting conclusions and questions to guide a group discussion on measures of impact as it pertains to audience reuse patterns.\n\nHarvard's Faculty of Arts and Sciences adopted an open access policy in 2008\, and will present DASH stories\, a clever solution encouraging user qualitative feedback in their open access repository. \n\nWe continue to hear from organizations their desire to better understand the motivations and usage patterns of their audiences. Building on examples presented and challenges to measuring reuse\, we will guide a discussion on how organizations can creatively capture and encourage sharing of reuse.\n\n-----\n\nSupplemental Materials: https://docs.google.com/document/d/1UgHeriFlC3Z_cQVtABQYu8y3n0NnN-hZS-9pUx7iPQs/edit?usp=sharing
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Herzog Building\, 3rd Floor - McGuire Theater\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:951fe83335debb15b8f8d526482bb00e
+URL:http://mcn2025.sched.com/event/951fe83335debb15b8f8d526482bb00e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T194000Z
+DTEND:20251022T200000Z
+SUMMARY:From Exhibits to Platforms: software infrastructure at the Exploratorium
+DESCRIPTION:Software-based exhibits in science museums are often developed as one-offs.. Developers are often tempted\, therefore\, to start coding every exhibit from scratch. Some features\, however\, are common to many types of exhibits\, especially screen-centered ones: support for multilingual text\, communication with microcontrollers\, and persistent memory are only some examples. \n\nAt the Exploratorium\, we created a template that includes these capabilities out of the box\, allowing developers to focus on exhibit-specific features\, but also contributing to a shared coding style that makes exhibits easier to maintain across our New Media team. This template gave rise to other infrastructure projects\, such as WOMBAT\, a local authoring tool allowing non-technical collaborators\, such as science writers and evaluators\, to edit text and other parameters at the exhibit. This\, in practice\, turns the exhibit into a platform\, where not just minor tweeks can be edited by non-technical collaborators\, but the entire physical and digital build of the exhibit can serve completely different types of content.\n\nIn this session\, we will showcase the capabilities of the template and WOMBAT through two examples. First\, we will explore Seeing Scientifically\, an exhibit that allows visitors to explore live samples at a microscope with the assistance of AI\, and how WOMBAT allows partner institutions to use their own organisms and write their own content. Then\, we will explore How Much Grandma\, a digitally-enhanced scroll mixing linear storytelling with visitor interactivity that tells the story of genetic inheritance. We will emphasize how WOMBAT was used for agile content development and evaluation\, while enhancing collaboration across the project team.
+CATEGORIES:15-MINUTE PRESENTATION
+LOCATION:Barnes Building\, 8th Floor - Garden Terrace Room\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:b189be6fcaed49594255da9486880c05
+URL:http://mcn2025.sched.com/event/b189be6fcaed49594255da9486880c05
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T020335Z
+DTSTART:20251022T201500Z
+DTEND:20251022T210000Z
+SUMMARY:Closing Remarks
+DESCRIPTION:Join members of the MCN board to recap the conference and explore what's next. Bring your feedback and ideas to this closing session!
+CATEGORIES:EVENT
+LOCATION:Herzog Building\, 3rd Floor - McGuire Theater\, Minneapolis\, MN\, USA
+SEQUENCE:0
+UID:9b6af7b2266db276adcea3a974054a81
+URL:http://mcn2025.sched.com/event/9b6af7b2266db276adcea3a974054a81
+END:VEVENT
+END:VCALENDAR

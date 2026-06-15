@@ -1,10 +1,10 @@
 module github.com/aaronland/mcn/go
 
-go 1.21
+go 1.25
 
 require (
 	github.com/anaskhan96/soup v1.2.5
-	github.com/arran4/golang-ical v0.1.0
+	github.com/arran4/golang-ical v0.3.5
 )
 
 require (

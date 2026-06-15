@@ -1,0 +1,681 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:mcn2024
+X-WR-CALDESC:Event Calendar
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+PRODID:-//Sched.com MCN 2024//EN
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241022T220000Z
+DTEND:20241022T223000Z
+SUMMARY:Conference Registration and Badge Pick-Up
+DESCRIPTION:All registered conference attendees are invited to pick up their badges and other conference materials at Abe and Jake's Landing during the Ignite reception. Doors for Ignite open at 5 p.m. and talks begin promptly at 5:30 p.m.
+CATEGORIES:SOCIAL
+LOCATION:Abe and Jake's Landing\, 8 E 6th St\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:9778dd6ca710f9ae93b58876e8333f55
+URL:http://mcn2024.sched.com/event/9778dd6ca710f9ae93b58876e8333f55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241022T220000Z
+DTEND:20241023T000000Z
+SUMMARY:Ignite Reception
+DESCRIPTION:Our signature welcome event\, Ignite\, showcases a series of rapid-fire talks from creative thinkers in the museum field. Expect lots of energy with fresh\, inspiring\, and timely ideas from familiar faces and emerging voices in the field and beyond. Talks follow the “Ignite” format\, in which presenters have five minutes and 20 slides (which advance automatically every 15 seconds) to enlighten\, entertain\, and inspire. Hear from several brave and visionary speakers sharing their experiences in a wide variety of disciplines:\nAmy JiaoJamie LawyerJessica Warchall&nbsp\;Brett RenferMarina Gross-HoyJasmine Pateljoe hobson\nThis reception is included in the registration cost\; no separate ticket is required. Light appetizers and beverages will be provided.
+CATEGORIES:SOCIAL
+LOCATION:Abe and Jake's Landing\, 8 E 6th St\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:3774974774c19f6c5bb16b5c290d55c9
+URL:http://mcn2024.sched.com/event/3774974774c19f6c5bb16b5c290d55c9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T133000Z
+DTEND:20241023T220000Z
+SUMMARY:Community Partner Forum
+DESCRIPTION:Meet with MCN's Community Partners in the Harrison Lobby. You can connect with representatives from:Art ProcessorsBloombergC&G PartnerscogappForumOnePrattTessituraZetcom
+CATEGORIES:SOCIAL
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - All-American Room\, Lawrence\, KS\, USA
+SEQUENCE:0
+UID:49acf74f16da6df30ef88c571f1fafdd
+URL:http://mcn2024.sched.com/event/49acf74f16da6df30ef88c571f1fafdd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T133000Z
+DTEND:20241023T150000Z
+SUMMARY:Registration & Continental Breakfast
+DESCRIPTION:
+CATEGORIES:SOCIAL
+LOCATION:Jayhawk Welcome Center - Glorious to View\, Lawrence\, KS\, USA
+SEQUENCE:0
+UID:78492ac3fd5eff059728ad7d29b4f3af
+URL:http://mcn2024.sched.com/event/78492ac3fd5eff059728ad7d29b4f3af
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T141500Z
+DTEND:20241023T150000Z
+SUMMARY:Opening Remarks
+DESCRIPTION:Join us to kick off MCN 2024 with remarks from the MCN board\, the MCN 2024 conference team\, and featured speaker\, Saralyn Reece Hardy\, the Marilyn Stokstad Director at the Spencer Museum of Art.
+CATEGORIES:SOCIAL
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room A and B\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:175db6eb24ce89af604f1b0db6ff94a5
+URL:http://mcn2024.sched.com/event/175db6eb24ce89af604f1b0db6ff94a5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T151500Z
+DTEND:20241023T160000Z
+SUMMARY:Algorithms & Artifacts: Deciphering AI’s Role in Museums
+DESCRIPTION:Artificial Intelligence has rapidly emerged as a transformative force in the museum community. As museum professionals\, understanding the basics of AI and its implications to our industry is crucial. This presentation provides an overview of AI and delves into the various opportunities\, challenges\, and serious concerns that we must face together.\n\nAI can offer the museum community tools from enhancing the visitor experience to improving how we do our business. AI-driven efforts can revolutionize how we do our work and foster innovation. However\, AI in museums raises ethical concerns\, especially regarding visitor data privacy and information biases. Equally important\, over-reliance on AI might diminish the human touch\, risking the loss of authentic\, trusted connections museums aim to foster. There are real concerns about AI as it can distort\, misrepresent\, or oversimplify complex historical and cultural narratives. If not properly trained or contextualized\, AI will perpetuate biases or misunderstandings. As museum professionals\, it's our responsibility to approach AI with a balanced perspective\, harnessing its potential while being mindful of its implications. Collaboration\, continuous learning\, and open dialogue will be key as we navigate this intersection of technology\, innovation\, and culture.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room A and B\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:90b285eee4aba3f77a6e65faed9a934e
+URL:http://mcn2024.sched.com/event/90b285eee4aba3f77a6e65faed9a934e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T151500Z
+DTEND:20241023T160000Z
+SUMMARY:Digital Content Types: How do you define\, inventory\, and measure impact of “digital"?
+DESCRIPTION:What is Digital Content? How do we create policy and strategy for digital without common definitions and a shared framework for managing digital content? How do we prioritize and resource digital content to support our institution’s mission and strategic goals?\n\nTo help answer those questions\, cross-departmental teams at the Smithsonian set out to research and inventory digital content types\, connected systems\, and workflows. The project differentiates between digital content and digital assets\, emphasizing that not all digital content holds long-term institutional value. Digital assets are specifically identified for their ongoing usefulness and significance to the SI. The project involved extensive stakeholder engagement\, including interviews and surveys with 102 staff members across 32 units\, covering diverse roles such as collections\, conservation\, research\, content production\, and data analysis.\n\nThe gap analysis section addresses the challenges in harmonizing collections data\, managing born-digital collections\, and ensuring effective digital stewardship. Recommendations include developing systems for aggregate collections data\, providing sustained funding for essential digital systems\, and creating tools and training for content transfer and management.\n\nThis session will highlight how we went about researching and communicating findings\, as well as prompt attendees to consider the types of content they engage with in their day-to-day work\, ensuring that valuable digital assets are effectively preserved\, accessed\, and utilized across one’s organization.\n\n30min: presentation\nBackground on the project\, process\, and findings.\nLinks of resources\, final report\, and supplemental materials will be made available to attendees.\n15min: group exercise and Q+A\nWe will invite users to contribute questions and add their own digital content types via QR code form to display real-time submissions.\nWe may also invite guests into our Systems Diagram Miro board.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Adams Alumni Center\, 1st Floor - Paul Adams Lounge\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:538105f70426519f5405cf3982ebb8e6
+URL:http://mcn2024.sched.com/event/538105f70426519f5405cf3982ebb8e6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T151500Z
+DTEND:20241023T160000Z
+SUMMARY:Speed Networking
+DESCRIPTION:Meet other MCN attendees with some speed networking! A facilitator will guide attendees through a series of breakout conversations. Share with fellow attendees where you're from\, what you're curious about\, and more—just be quick!
+CATEGORIES:SOCIAL
+LOCATION:Adams Alumni Center\, 1st Floor - Summerfield Room\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:5744583ef505add8190f7a910896ab97
+URL:http://mcn2024.sched.com/event/5744583ef505add8190f7a910896ab97
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T160000Z
+DTEND:20241023T161500Z
+SUMMARY:Networking & Refreshment Break
+DESCRIPTION:
+CATEGORIES:SOCIAL
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - All-American Room\, 1266 Oread Ave\, Lawrence\, KS 66044\, USA
+SEQUENCE:0
+UID:93838af9f323a44397e413a2cd92d01d
+URL:http://mcn2024.sched.com/event/93838af9f323a44397e413a2cd92d01d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T161500Z
+DTEND:20241023T170000Z
+SUMMARY:A Speculative Leap into the Future of Museum Workplace Well-being
+DESCRIPTION:What if our museum workflows encouraged us to be caring\, compassionate\, intentional people? What would our emails\, file folders\, purchase orders\, scopes-of-work\, and contracts look like? Let’s start by looking at speculative examples created by the workshop hosts. These tangible objects that participants can hold and feel\, read and look like they were transported from the future. Once we discuss what those design fictions imply about the future museum workplace\, we’ll imagine our own present-day museums with digital workflows that operate in service of not only our institutional goals\, but also our staff well-being along the way.\n\nThis session will invite participants to envision a near(ish)-future scenario in which museum workers have a sense of well-being at their jobs: they feel valued\, cared for\, and part of a collective\, cooperative team of colleagues. We’ll walk participants through some exercises designed to stimulate creative thinking about how digital tools might be helping those museum workers maintain that well-being. Then we’ll return to the present and think about what we might do today to begin building those systems for tomorrow.\n\nOur goal with this session is to encourage people to think optimistically and creatively about how digital platforms might be of benefit to make work a place of psychological safety and community. Working in nonprofits that are (at least nominally) focused on visitors’ experiences\, many museum workers feel encouraged to put their own needs aside to ensure visitors are centered. We propose to help reorient participants at this session to approach their work centering their own well-being to pave a more sustainable path toward meaningful visitor experiences\, as well.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Adams Alumni Center\, 1st Floor - Summerfield Room\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:70f4ede3e8661364e0fae510a3dd86c2
+URL:http://mcn2024.sched.com/event/70f4ede3e8661364e0fae510a3dd86c2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T161500Z
+DTEND:20241023T170000Z
+SUMMARY:Clicking Refresh: Website Redesign as Institutional Reintroduction
+DESCRIPTION:A website redesign is never just a fresh coat of paint: a new digital home on the web provides opportunities for institutions to reintroduce themselves from the ground up. This session encompasses a series of lightning talks that explore website redesign projects across a range of American institutions and content areas. Including projects at all stages of development\, the panel explores each institution’s goals for shifting their brand\, expanding their audience\, or solving existing problems for their users.\n\nFor Glenstone\, a website redesign provides an opportunity to reintroduce the institution after the completion of a large-scale renovation. The collection will be digitized and a new content strategy will be employed to humanize the sometimes-intimidating vibes that contemporary art institutions can have.\n\nThe Smithsonian Transcription Center\, undergoing the first website redesign in its decade+ history\, is seeking to adjust to pandemic-initiated changes in the digital volunteering landscape\, respond to the needs of a growing and diversifying volunteer community\, and rebrand to reflect their status as a premier digital offering of the Smithsonian Institution.\n\nAfter 10+ years of working with a custom CMS and a third party developer\, the Bullock Museum is in the process of migrating and redesigning their website in an open source platform. Originally funded with very different content goals in mind\, they are redesigning their website through the lens of a new mission\, content strategy & sustainability plan\, and a realistic look at what they can upkeep and scale long term.\n\nWhen the web site for the Brooklyn Seltzer Museum launched in 2023\, its goals were simple: capture emails and sell tickets. Since then\, it has accumulated content: press coverage\, a virtual museum\, a special events calendar\, and more. As the Museum approaches the start of its second year\, the web site needs to offer a more seamless way for visitors to explore the Museum and a more developed “voice” that expresses its character.\n\nThe Smithsonian National Museum of American History was prompted by a need to replatform an aging Drupal website\, and undertook a two-year project to revisit aspects of the site which reflected 20 years of piecemeal web development. The museum re-evaluated the site’s architecture\, design\, and features and improved communication of the museum’s newly-articulated mission and values\, along with strategic content and branding updates.\n\nThe Huntington is currently undergoing an iterative process to reskin and develop a series of priority new features and integrations to update its flagship website\, huntington.org. This exciting project follows on the heels of The Huntington’s adoption of a new five-year strategic plan and updated mission statement\, along with a comprehensive brand and brand strategy project\, resulting in recommendations related to voice and tone\, messaging guidelines\, a style guide\, graphic design\, and overall look and feel.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Adams Alumni Center\, 1st Floor - Paul Adams Lounge\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:23927265d7b5f3cbff2383b28b44127d
+URL:http://mcn2024.sched.com/event/23927265d7b5f3cbff2383b28b44127d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T161500Z
+DTEND:20241023T170000Z
+SUMMARY:Process\, Progress\, and Pitfalls in Website Accessibility
+DESCRIPTION:The concept of accessibility is simple in theory. You just need to ensure that people with disabilities can acquire the same information\, engage in the same interactions\, and enjoy the same services as people without disabilities. It’s much more complicated in practice\, as we’re learning at the Getty.\n\nAutomated accessibility reports and checklists can get your application to a minimum standard\, but they don’t always capture the complex user interactions and the organizational structure of a website. For instance\, using IIIF\, our users can zoom in to admire the strokes of a brush on a canvas. But how can we make those dynamic HTML canvases accessible and navigable for users who may not be able to see our image viewer? Well-structured HTML provides our users the ability to navigate a site without the use of a mouse. But how do we develop well-structured HTML when we’re stitching it together from multiple sources? How do we resolve conflicting structures in our applications from external libraries and our shared component system? And how do we maintain structure over time when we’re constantly making changes to our codebases across teams?\n\nBy reflecting on our successes and challenges in meeting the Web Content Accessibility Guidelines provided by W3C this session will outline how cultural heritage organizations can better provide online services to people with disabilities.\n\nOur session topics will include:Maintaining document hierarchy and preventing accessibility regressions when composing pages with components and complex data structuresDefining best-practices for improving the accessibility of complex user interactionsPromoting awareness of web accessibility concerns across teams
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room A and B\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:0fb0d80b50e499d883c44e81a287ab7d
+URL:http://mcn2024.sched.com/event/0fb0d80b50e499d883c44e81a287ab7d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T162000Z
+DTEND:20241023T164000Z
+SUMMARY:Nature-Inspired Digital Games: Developed through a Collaborative Museum-University Partnership
+DESCRIPTION:The Peggy Notebaert Nature Museum served as the “client” for DePaul University’s Game Development II course\, where students develop skills in game design and development through the creation of a 2D digital game designed from a set of client based restrictions. Students visited the Nature Museum\, learned about the collections and education programs\, and toured the space to be inspired by local animals. The university students developed the games for an elementary school student audience\, but were also learners themselves as they studied the habitats\, diets\, and behaviors of the focus animals for their games. Nature Museum staff answered content questions and provided feedback on the games in progress. The result was 6 nature-focused\, web-based games built in Unity\, including custom animations\, sounds\, and game mechanics. DePaul and Nature Museum staff are continuing collaboration on how these games can be shared out and what future iterations of the collaborative partnership could look like. Some of the games are available to be playing on the Nature Museum website: https://naturemuseum.org/nature-inspired-digital-games
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Adams Alumni Center\, 2nd Floor - Bruckmiller Room\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:1333cd2f4d80ebcf73c8039d83d49cb6
+URL:http://mcn2024.sched.com/event/1333cd2f4d80ebcf73c8039d83d49cb6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T164000Z
+DTEND:20241023T170000Z
+SUMMARY:MoMA’s Visitor Guide: Building a digital product to assist in discovery\, wayfinding\, and interpretation."
+DESCRIPTION:Since 2020\, MoMA no longer offers print materials such as maps and brochures to onsite visitors. In their place\, the Digital Product team at MoMA developed a Digital Visitor Guide to provide these and other onsite resources\, such as audio\, to visitors. The first iteration of the guide was put together quickly in the early days of the pandemic\, and was a simple collection of links to existing online content and digitized versions of print materials.\n\nSince then\, user research and visitor feedback has highlighted some ongoing challenges that visitors face during their onsite experience and the ways MoMA’s digital materials fell short of alleviating them. PDF resources are difficult to use on a mobile device\, and tedious to update internally. Exhibition listings are insufficient for visitors who are either not sure where to start\, or looking for specific artists or works on view. The first version of the guide was also not built with accessibility standards in mind.\n\nWith these learnings\, the Digital Produce team embarked on a process of designing\, testing\, and iterating on a number of new features and enhancements\, such as an interactive map\, floor-by-floor previews of exhibitions\, galleries\, artists and amenities\, a streamlined audio experience\, self-guided tours that cater to different interests\, and an improved search experience for various types of onsite content.\n\nThis talk will cover the initial research that exposed these challenges\, walk through the product design process of developing these new features\, discuss insights and adjustments arising from rapid onsite testing that followed each iteration\, and share quantitative metrics that outline the impact of all these changes. We’ll also discuss ideas for future features and improvements for the guide\, as well as thornier challenges that we’re still exploring solutions for.\n\nThough our discussion will not focus heavily on the technical aspects of our solution\, we will briefly touch upon some important points such as geolocation\, building a web-based onsite map without relying on an app or third-party software\, and connecting the guide to our content management system to ensure exhibition\, location\, and artwork data is automatically kept up-to-date.
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Adams Alumni Center\, 2nd Floor - Bruckmiller Room\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:8e9ce6e96f99c1c8a5504ef01fdee1aa
+URL:http://mcn2024.sched.com/event/8e9ce6e96f99c1c8a5504ef01fdee1aa
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T170000Z
+DTEND:20241023T181500Z
+SUMMARY:Networking Lunch
+DESCRIPTION:
+CATEGORIES:SOCIAL
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - All-American Room\, Lawrence\, KS\, USA
+SEQUENCE:0
+UID:186e59f5ada33cbda2b6bfb9ccd1b1f2
+URL:http://mcn2024.sched.com/event/186e59f5ada33cbda2b6bfb9ccd1b1f2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T181500Z
+DTEND:20241023T183500Z
+SUMMARY:A Quire Case Study: Collaborating with Non-Technical Colleagues
+DESCRIPTION:Getty developed Quire\, an open-source\, multiformat publishing tool\, to solve our institution’s digital publishing challenges and to help smaller\, less resourced museums solve theirs. From the beginning\, the Quire team has collaborated closely with our Getty Publications colleagues to achieve publishing goals and gain insight into how non-technical staff use and understand the tool. This is helpful\, as a large percentage of Quire’s community is made up of editors\, curators\, academics\, designers\, and others who don’t possess deep knowledge of coding or web development.\n\nAs a tool\, Quire was designed to be flexible\, extensible\, and sustainable\, which necessitates a more exposed work environment. Rather than an intuitive GUI\, Quire users are confronted with navigating the command line\, working in Markdown and YAML\, and sometimes even using (gasp!) GitHub. While this might feel like second nature for developers\, it represents a very different and often intimidating way of working for content creators.\n\nIn this 15-minute case study\, we’ll talk about the lessons we’ve learned using a technologically nuanced tool like Quire with a Getty Publications book editor. Using a 600-object collection catalogue as an example\, we’ll discuss the drawbacks and benefits of switching to a digital toolbox and how that change can impact workflows and how we think about content. We’ll also share advice on how the Quire team seeks to make the challenges of working digitally more approachable to our non-technical colleagues and users.
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room A\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:8a4835a426475b0a90519fad3c04f76d
+URL:http://mcn2024.sched.com/event/8a4835a426475b0a90519fad3c04f76d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T181500Z
+DTEND:20241023T183500Z
+SUMMARY:Lessons in innovation: behind the scenes of tech success
+DESCRIPTION:Innovation fuels progress. This session will look at the “magic sauce” behind successful tech projects. We’ll look at what drives innovation: user needs\, emerging technologies\, fails\, and a sprinkle of creative disruption. We’ll also think about what we can do to encourage a culture that embraces calculated risks\, and celebrates the rewards of pushing boundaries\, explore ideas for staying ahead of the curve by identifying the next cutting-edge advancements (surviving the current ones!) and fostering a psychologically safe environment where groundbreaking ideas can take off.\n\n\n
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Adams Alumni Center\, 2nd Floor - Bruckmiller Room\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:e3f23ad37e54beba6c257b6143f000a8
+URL:http://mcn2024.sched.com/event/e3f23ad37e54beba6c257b6143f000a8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T181500Z
+DTEND:20241023T190000Z
+SUMMARY:From Idea to Implementation: Case Studies in Digital Planning at University Art Museums
+DESCRIPTION:Every museum has a digital strategy\, whether it is formalized or ad-hoc. The challenge is to make that strategy useful and meaningful. This session presents three case studies that showcase approaches to making digital strategy operational and useful as museums look for new digital initiatives and innovation. The Spencer Museum of Art focused on the creation of a digital plan that operationalizes well thought-out institutional goals\, and incorporated museum- and campus-wide input\, and sought guidance from digital leaders across the museum sector. The Arizona State University Art Museum started from a broad assessment of where they were\, and what peer institutions had done\, in order to plan how to proceed. The Yale University Art Gallery approached planning after completing a major digital project\, reflecting on what the project’s twists and turns said about the organization as a whole\, and exploring how they might better plan for digital initiatives in the future. At Yale\, digital strategy is an ongoing activity\, managed by a cross-departmental team. In each case\, digital planning is operational. It is focused on doing: where to start\, what to do next\, and how to measure and learn from doing. As such\, digital planning bridges the visionary strategy with the nuts-and-bolts and day-to-day.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room B\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:43ee3991c334aabc410e421b36e4b1a4
+URL:http://mcn2024.sched.com/event/43ee3991c334aabc410e421b36e4b1a4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T181500Z
+DTEND:20241023T190000Z
+SUMMARY:What is a new ideal #musetech syllabus now?
+DESCRIPTION:In 2017 Greg Albers and Kathryn Cody sent out a survey and held "An Ideal #musetech syllabus" a highly participatory session at MCN 2017 where participants built what they thought were the core needs for students studying #musetech. Seven years later\, and the landscape of what is needed may have changed\, certainly much has changed in the #musetech landscape since 2017. The team (Max Evjen\, Suse Anderson) intends to replicate the participatory experience (survey sent to the #musetech community\, and participatory MCN session) that led to to this output\, so we can draw upon the current trends that the #musetech community sees that emerging professionals\, as well as fellow staff\, should know about digital in museums.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Adams Alumni Center\, 1st Floor - Summerfield Room\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:fde171ef41c1a763655a3a901e81cd3e
+URL:http://mcn2024.sched.com/event/fde171ef41c1a763655a3a901e81cd3e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T184000Z
+DTEND:20241023T190000Z
+SUMMARY:Generative systems and the "content deficit"
+DESCRIPTION:One of the challenges that digital technologies have made manifest in cultural heritage organizations is that there is more stuff than most staff have the time\, attention or ability to devote to. In the past\, before networked computers and compendiums of information like Wikipedia (or Amazon) changed people's expectations of what can and should be taken for granted\, the cultural heritage sector dealt with this problem by hiding it in a flurry of words and never letting anyone see all the things stacked on shelves in the backroom. But people's expectations have changed and coupled with the calls for open access around our collections suddenly all that stuff\, much of it uncataloged and unresearched\, is seeing the light of day without much context. This session will discuss the organization and technical challenges that these new realities present emphasizing the questions surrounding the use of generative and artificial intelligence systems to address the cultural heritage sector's perennial "content deficit" and what many of the concerns about their use say about the sector itself.
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room A\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:9a66aa20be7bd3a08ee1b90a41212dc0
+URL:http://mcn2024.sched.com/event/9a66aa20be7bd3a08ee1b90a41212dc0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T184000Z
+DTEND:20241023T190000Z
+SUMMARY:Lessons From a Decoupled Migration: Gilcrease Museum Online Collections Goes Headless!
+DESCRIPTION:With the approaching end-of-life of Drupal 7\, our ongoing challenges of managing separate websites for museum visitors and online collections\, the construction of a new physical museum\, and an impending rebranding\, it was clear that we needed to reevaluate the overall architecture of Gilcrease's online ecosystem. In this session\, we will present a case study and share the lessons we've learned from the decoupled migration of the Gilcrease Museums Online Collections.\n\nYou might be wondering\, what exactly is a decoupled website? What benefits\, drawbacks\, and compromises did we encounter during the transition to a new website architecture? What are our plans post-launch? We will address these questions and many more.\n\nWe'll share relatable experiences and obstacles that small to medium-sized museums often face\, demonstrating the strategies we used to “lift and shift” the website migration while balancing innovation with budget constraints and timelines. Throughout this process\, we aimed to minimize technical debt and adhere to a reasonable timeline\, despite the temptation to add new features. Sometimes\, we resisted\; other times\, we had to compromise.\n\nWe will also share key technical highlights such as:\n- A brief high-level overview of the Gilcrease collections systems architecture including TMS\, Library\, and ArchivesSpace custom integration with DAMS and collections website.\n- Building\, serving\, and presenting IIIF manifests with Drupal and Clover IIIF.\n- Enhancing performance and SEO with decoupled architecture.\n- Hybrid static and dynamic content rendering with Next.js.
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Adams Alumni Center\, 1st Floor - Paul Adams Lounge\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:3c4c4baecedf7f0c500590cba04c2aea
+URL:http://mcn2024.sched.com/event/3c4c4baecedf7f0c500590cba04c2aea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T191500Z
+DTEND:20241023T193500Z
+SUMMARY:Grounding Indigenous Rights in Redesigning Newfields' Online Collections
+DESCRIPTION:In August 2022\, the Indianapolis Museum of Art (IMA) at Newfields was awarded a Museums for America grant from the Institute of Museum and Library Services (IMLS) to support the comprehensive redesign of their online collection\, including a complete overhaul of the underlying infrastructure. The project\, Open and Integrated: Redesigning Newfields’ Online Collections\, will be completed in August 2024\, resulting in the expansion of Newfields’ existing online art and historical collections into a single\, integrated collections portal (https://collections.discovernewfields.org/). In addition to the delivery of art collection data and assets\, the integrated collections portal will serve as an access point to the IMA’s full exhibition history\, archival collection descriptions\, item-level information\, and digitized audio and visual materials from the Indianapolis Museum of Art historical and exhibition files\, the Indianapolis Museum of Art archives\, and Stout Reference Library artist files. The goals and deliverables of the collections portal redesign—led by a cross-departmental team—considered a variety of technical approaches\, ethical considerations\, and sustainable practices that have been central to this two-year project:\n\nIn this session\, Anne Young\, Director of Legal Affairs & Intellectual Property\, will provide attendees with an introduction to Local Contexts (https://localcontexts.org/)\, whose Traditional Knowledge (TK) and Biocultural (BC) Labels “offer Indigenous communities a tool to add cultural and historical context and cultural authority to cultural heritage content in their own local digital heritage archives as well as in digital archives\, libraries\, museums and other digital repositories globally.” Following this introduction\, Anne will detail Newfields’ implementation of Local Contexts’ Notices and Labels within the museum’s CMS and how that cataloged information is presented to increase understanding and respectfully care for the IMA collection while grounding Indigenous rights.
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Adams Alumni Center\, 2nd Floor - Bruckmiller Room\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:df9728f43ebc95b5e58da33fcb9de3d9
+URL:http://mcn2024.sched.com/event/df9728f43ebc95b5e58da33fcb9de3d9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T191500Z
+DTEND:20241023T193500Z
+SUMMARY:Innovating Access: Experiential Learning at the Crossroads of Art and AI Technology
+DESCRIPTION:The recent advancement and integration of AI’s advanced language models (LLM) in higher education\, culture\, and art institutions offer transformative potential for museums and galleries with permanent holdings of art and material culture items. This session explores an innovative project undertaken by Mead Art Museum at Amherst College\, MA\, to develop and record audio descriptions for its online collection using ChatGPT 4\, when it became available in 2023.\n\nThe project required a structured methodology that combined AI's impressive efficiency with diligent human oversight. The museum envisioned this initiative to primarily enhance its digitized collection's accessibility for visually impaired visitors\, but the benefits and impact have proven to be multi-dimensional. The Mead uniquely engaged undergraduate students in the roles of reviewers\, editors\, researchers\, and narrators\, empowering them to refine AI-generated content\, check fact accuracy\, and adjust the composition and style of the descriptions according to the pre-set guidelines. By increasing online discoverability and providing experiential learning opportunities\, the outcome proved to be beneficial for both the museum and the students and faculty involved.\n\nBy presenting this case study\, I aim to highlight the innovative uses of AI in museum collections and provide valuable insights into the collaborative possibilities between museums and institutions of higher education.\n\nI hope to inspire other museums and educational institutions to explore similar collaborative initiatives with far-reaching impact\, enhancing learning and accessibility across their campuses\, constituents\, and communities.
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room A\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:0b51ac57eece939abe34898a1ba895ec
+URL:http://mcn2024.sched.com/event/0b51ac57eece939abe34898a1ba895ec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T191500Z
+DTEND:20241023T200000Z
+SUMMARY:Show Off Your Stack: Approaches to Building and Documenting Systems that Work
+DESCRIPTION:Technology teams are as diligent as they are curious. They manage tech stacks that reach across audiences and departments to service ticketing\, websites\, online stores and more. At the same time\, they’re keen to learn from how other organizations manage these systems. Often these conversations unfold under the guise of vendor or platform assessments or in back channels as we all just want to know: “how’d they build that?”\n\n“Show Off Your Stack” is a 45-minute session that will connect technology users\, admins\, and decision-makers around this central question. We’ll look closely at the tech stacks powering the MIT Museum\, Monterey Bay Aquarium\, and SFO Museum. We’ll discuss key issues related to building\, configuring\, and maintaining these systems including:\n\nIntegrations: When and how do we connect APIs\, message queues\, data hubs\, and other streams of information?Re-platforming: How do organizations evaluate the efficacy of existing platforms and what happens when we make the call to replace them?Value: What are the central/foundational systems in a stack? How do they inform an organization’s overall approach to digital strategy?Data Governance: How should we handle and govern data to ensure security\, compliance\, and integrity across the organization?Tools: How do we develop and adopt focused tools (as opposed to one-size-fits-all solutions that meet the specific needs of our organizations?\nThe session will end with a call to action for documentation. In 2020\, David Nunez started the Museum Online Expression Research spreadsheet.\n\nThis is a wonderfully through and incredibly useful crowdsourced resource that consolidates information on tech stacks for organizations across the world. We’ll reamplify this resource with attendees and invite them to contribute to the document.\n\nTech stack maintenance may not be the flashiest or the trendiest work\, but it is essential. Our panelists and case studies we’ll talk candidly through the intricacies of this work. And together\, we’ll create a resource to empower organizations to make informed decisions\, foster innovation\, and enhance the visitor experience.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room B\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:7cc605ae7d255a011cbef8812bb11ae3
+URL:http://mcn2024.sched.com/event/7cc605ae7d255a011cbef8812bb11ae3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T194000Z
+DTEND:20241023T200000Z
+SUMMARY:Augmented play: Empowering Young Audiences with Immersive Technologies in Museums
+DESCRIPTION:Engaging young audiences in museums is key to sparking their creativity and deepening their connection to cultural heritage. By integrating immersive technologies\, in-person visits can evolve into interactive adventures\, enticing young people with captivating learning experiences.\n\nIn this session\, explore how the V&A Learning team uses design-led participatory practices to develop their public programmes. Discover two compelling case studies showcasing how digital try-on experiences have elevated visitor interactions with museum objects\, creating memorable and educational moments for young audiences.\n\nDiva of Tomorrow: A Digital Costume Try-on Experience\nThe V&A hosted a try-on experience where visitors could wear digital garments created by talented young fashion designers\, inspired by the V&A Diva exhibition. This event resulted from a month-long Digital Fashion Course for a cohort of young people aged 18 to 26. A design brief challenged students to celebrate the creativity of iconic performers and to create a digital costume that reflects their vision of the 'diva' identity.\nThroughout this course they were introduced to new digital technologies to help them envision\, investigate\, and realise a digital outfit with a focus on sustainable practice and digital innovation. \nAt the showcase\, students presented their work to the public\, explaining their creative process from inspiration to final design. Visitors were able to experience the digital garments first-hand through augmented reality filters and see themselves as Diva Characters on the museum’s large screens.\n\nDrop in Design: Digital Tal-nori was a family-friendly engagement activity for visitors at the V&A South Kensington. Inspired by the Hallyu! exhibition\, the V&A Families team worked with Seoul-based creative studio\, Commoners to design an AR experience. This case study will unpack the V&A's approach to platforming creative technologists as well as inspiring creative confidence in young visitors.
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room A\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:b03af39fac58f51516133186d5651bf8
+URL:http://mcn2024.sched.com/event/b03af39fac58f51516133186d5651bf8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T194000Z
+DTEND:20241023T200000Z
+SUMMARY:Sustaining Access to Feminist Art: The Judy Chicago Research Portal
+DESCRIPTION:This talk will give an overview of the creation of the Judy Chicago Research Portal\, a cross-institutional collaboration to provide access to the archives of a prominent feminist artist on one website. Judy Chicago is a ground-breaking feminist artist who has been active as an artist and an arts educator since the 1960s. Her archives are held at four different institutions: two large university libraries and two museums in different parts of the country. These organizations formed a collaborative to create an online portal\, hosted by one of the large university libraries\, where selections from each of their distinct collections are accessible to researchers\, scholars\, curators\, educators\, and students through an easy-to-use interface. A fifth institution\, a private foundation\, which holds a complete collection of Chicago’s prints\, also contributed records. The project represents a model for collaboration\, iterative development\, and improving access and discoverability for both feminist art archives and for collections at smaller institutions.\n\nThe partner organizations were united in ensuring that the unique history of feminist art and the artist’s significant contributions to this unique field were not lost in the archives. Through the portal’s inviting and welcoming interface\, primary documents—artworks\, photographs\, manuscripts\, and correspondence—from the artist’s 60-year career are accessible to anyone with an Internet connection. Rather than being sequestered in multiple archives\, The artists’ papers and artworks are easily available to inspire and educate new generations of students\, artists\, curators\, and researchers. This includes collaborative curricula from her Feminist Art Program. By providing free and widely available access to educational materials on feminist art\, our poster supports The Global Campaign for Education’s Sustainable Development Goal 4 (inclusive & equitable education) and Goal 5 (gender equity\, empowering women and girls).\n\nWe have developed infrastructure to support a network\, that includes implementing a Drupal portal\, setting up static and dynamic data exchange\, and designing search and discovery tools that can effectively navigate aggregated content. This work was challenging\, and we are ready to discuss how we scaled the infrastructure to accommodate the growing volume of digital assets and the evolving needs of the user community.\n\nIn addition\, the presentation will cover the various aspects of building a comprehensive network in collaboration with others. This includes negotiating shared objectives\, coordinating digitization efforts\, and establishing process flows to manage and expand the network over time. The Judy Chicago Research Portal will serve as a practical example of this process\, highlighting the importance of clear communication\, mutual respect for each partner's unique contributions\, and a shared commitment to the project's overarching goals.
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Adams Alumni Center\, 2nd Floor - Bruckmiller Room\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:d698f32fcd38e8e10d8bbda84b7f98b3
+URL:http://mcn2024.sched.com/event/d698f32fcd38e8e10d8bbda84b7f98b3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T200000Z
+DTEND:20241023T201500Z
+SUMMARY:Networking & Refreshment Break
+DESCRIPTION:
+CATEGORIES:SOCIAL
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - All-American Room\, 1266 Oread Ave\, Lawrence\, KS 66044\, USA
+SEQUENCE:0
+UID:48f899364f21160042a1ff745f3bc49b
+URL:http://mcn2024.sched.com/event/48f899364f21160042a1ff745f3bc49b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T201500Z
+DTEND:20241023T210000Z
+SUMMARY:AI for Breakthrough Visitor Insights: Practical Applications Now While Envisioning the Future
+DESCRIPTION:Exploring AI and machine learning in art museums often feels like an exercise in separating hype\, achievable near-term value\, and potential long-term game-changers. In this presentation\, the National Gallery of Art will share how that pursuit is playing out after 18 months of pilots with cross-functional teams in two priority use cases\, with lessons learned to date and plans for the way ahead. First: after initial work to scan\, run optical character recognition (OCR)\, and analyze exhibition response wall cards and visitor comments\, the team found that an AI-powered chatbot built within the network helped quickly find insights among thousands of comments\, unlocking new value from qualitative data. Second: as a part of ongoing transformation in exhibition planning and operations\, machine learning helped mine a decade of data to predict attendance curves and gauge what drives audience engagement. The data science team will present data visualizations\, predictive modeling techniques\, and methods for natural language processing and chatbot development\, while members of visitor experience and evaluation will share findings\, time savings\, and future plans from these two initiatives. Recognizing that the value of analytics projects is measured by the decisions and outcomes they inform\, the session will address how the results are used and future plans for plugging into business processes\, with relevance to any museum and an invitation to participate in ongoing analysis\, benchmarking\, and collaborative data culture across museums.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room B\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:beb96612e2c047dc9974e1b796574b6f
+URL:http://mcn2024.sched.com/event/beb96612e2c047dc9974e1b796574b6f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T201500Z
+DTEND:20241023T210000Z
+SUMMARY:Let's Get Phygital : Combining Physical and Digital Interfaces in Museum Games
+DESCRIPTION:Imagine museum interactives that combine the durability and flexibility of digital with the satisfaction and tactile learning of physical objects. Today’s museums have learned to rely on the ease and content flexibility that digital platforms offer but interactive screens have become ubiquitous and an analog dial telephone is suddenly strange and intriguing. How could we ever go back to the traditional diorama? This session will explore “phygital”: what happens when we combine digital and physical interfaces for museum engagement. Phygital includes AI overlays but it also includes alt controllers where visitors can use physical objects to control digital environments. You’ll hear from designers and creators using digital/physical interfaces to wash digital boats\, play the digital drums and redirect digital water. Join us as we explore the possibilities of combining digital and physical into engaging interactive experiences.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room A\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:7943b8b57fec3e0fea51cde1ac9a96a0
+URL:http://mcn2024.sched.com/event/7943b8b57fec3e0fea51cde1ac9a96a0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T201500Z
+DTEND:20241023T210000Z
+SUMMARY:Restorative Design at the Kansas City Museum 
+DESCRIPTION:The Kansas City Museum aims to be the “Home of the Whole Story.” But what does that mean when you design interactive media experiences?\n\nIn 2022\, KCM engaged G&amp\;A to design a suite of experiences specifically aimed at youth: one welcomes them to discover the lesser told stories of the former mansion throughout time\; another shifts their perspective on Kansas City’s development to see it through the lens of those who inhabited it\; a third takes students on first-person narrated journeys through generations of marginalized groups and neighborhoods to understand how Kansas City has been shaped both by structural forces and the communities who live there.\n\nThe process of developing these pieces has been beautifully humbling and non-linear. We have had extensive conversations with representatives of communities that have experienced historical harm and exclusion–and those conversations have upended our assumptions about our design goals. We have conducted onsite user testing with our target audience–which has compelled us to think about their needs in new ways. And we are doing deep research to inform the pixels that create the collective visuals to ensure they properly convey the perspectives we are trying to represent. We have asked ourselves questions like: How do you design a map when the very understanding of a map differs by group? How can a virtual tour make a Gilded-era mansion feel more welcoming? How do you create a composite character to stand in for a group’s diverse experiences while remaining authentic?\n\nThis session will answer the following questions:\nWhat is Restorative Design?\nHow do a museum and design firm work together in this practice?\n\nYou'll learn from what we've learned and leave with resources to help embark on restorative experience design yourself.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Adams Alumni Center\, 2nd Floor - Bruckmiller Room\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:5e8bc5db0ce8a69f2a2e57ad9b1d7d63
+URL:http://mcn2024.sched.com/event/5e8bc5db0ce8a69f2a2e57ad9b1d7d63
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241023T213000Z
+DTEND:20241023T233000Z
+SUMMARY:Evening Reception
+DESCRIPTION:Enjoy an opportunity to network with peers while strolling through the Jayhawk Welcome Center\, Spencer Museum of Art\, and KU Natural History Museum. Participate in our scavenger hunt to win a prize donated by the Spencer Museum of Art. \n\nLight food and non-alcoholic drinks will be provided at all venues. MCN attendees will be provided with a drink ticket to be used for a glass of beer or wine at the Jayhawk Welcome Center only. A cash bar will also be available at the Jayhawk Welcome Center.\n\nNo separate registration or ticket is required.
+CATEGORIES:SOCIAL
+LOCATION:Jayhawk Welcome Center\, Spencer Museum of Art\, KU Natural History Museum\, Lawrence\, KS\, USA
+SEQUENCE:0
+UID:93c6f9d58de41cf80c6f31ae31e4249b
+URL:http://mcn2024.sched.com/event/93c6f9d58de41cf80c6f31ae31e4249b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T133000Z
+DTEND:20241024T220000Z
+SUMMARY:Community Partner Forum
+DESCRIPTION:Meet with MCN's Community Partners in the Harrison Lobby. You can connect with representatives from:Art ProcessorsBloombergC&G PartnerscogappForumOnePrattTessituraZetcom
+CATEGORIES:SOCIAL
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - All-American Room\, Lawrence\, KS\, USA
+SEQUENCE:0
+UID:d5d9c5128de2c2606246742fba443e91
+URL:http://mcn2024.sched.com/event/d5d9c5128de2c2606246742fba443e91
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T133000Z
+DTEND:20241024T141500Z
+SUMMARY:Continental Breakfast
+DESCRIPTION:
+CATEGORIES:SOCIAL
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - All-American Room\, 1266 Oread Ave\, Lawrence\, KS 66044\, USA
+SEQUENCE:0
+UID:4a99a4c66f05299a2d348121a616e073
+URL:http://mcn2024.sched.com/event/4a99a4c66f05299a2d348121a616e073
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T140000Z
+DTEND:20241024T150000Z
+SUMMARY:SIG Coffee + Birds of a Feather
+DESCRIPTION:Share coffee and conversation with fellow professionals in your areas of practice or interest.\n\nMCN Special Interest Groups (SIGs) are volunteer-led MCN members’ communities of practice that are organized around specific topics of interest or niche practice areas. SIGs reflect the diversity of the many technology and digital practices in museums. SIGs provide MCN members the opportunity to connect with colleagues doing similar work in the field\, explore opportunities to collaborate among them\, share resources and best practices\, or discuss ways to advance their area of digital practice.\n\nCurrent SIGs include:Data & InsightsDigital Asset ManagementDigital ImagingEducational and Interpretive MediaHuman-Centered DesignIntellectual PropertyInformation TechnologyIIIFMedia Production and BrandingSocial MediaStrategy
+CATEGORIES:SOCIAL
+LOCATION:Adams Alumni Center\, 2nd Floor - Bruckmiller Room\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:bcbb61cc40522106b42f499b24059d69
+URL:http://mcn2024.sched.com/event/bcbb61cc40522106b42f499b24059d69
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T141500Z
+DTEND:20241024T150000Z
+SUMMARY:Now In Session: DIY Audio for All
+DESCRIPTION:Office spaces make for great recording studios. And expert voice talent is closer than you think.\n\nFor decades\, audio guides have remained a staple of the museum visit. Though technologies have evolved\, the core experience remains the same: Today's visitors continue to arrive at cultural institutions with an expectation of having access to expert audio commentary from curators\, artists\, historians\, community members\, and any array of voices providing a complementary perspective to the environment surrounding them.\n\nGreat audio content can be produced inexpensively and with tools that are readily available. This session will provide insights into the technical and creative aspects of creating compelling audio content using readily and easily available resources.\n\nPresented by Bloomberg Connects\, a community partner for this year's conference.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room A and B\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:84485042dd7e1b8e5e478bdf559c1c4a
+URL:http://mcn2024.sched.com/event/84485042dd7e1b8e5e478bdf559c1c4a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T151500Z
+DTEND:20241024T153500Z
+SUMMARY:A Graphic (Novel) History: Representation and Resistance
+DESCRIPTION:In colonial Manhattan\, fiery tensions bubbled beneath the veneer of society. Kofi’s Fire: A Spark of Resistance\, an interactive graphic novel\, documents the 1741 uprising of New York City\, in which enslaved people and indentured servants set fire to businesses throughout Manhattan. We follow Kofi\, an enslaved man put to trial\, convicted\, and executed for arson in our online graphic novel\, created in partnership with Historic Hudson Valley Society\, and supported by the National Endowment for the Humanities\n\nCreated by a Black-led team\, Kofi’s Fire interprets biased archives\, giving faces and personalities to underrepresented voices in a courtroom drama created for middle- and high-school audiences. In illuminating this hidden narrative\, we found opportunities to contextualize the story of injustice and juxtapose 1741 Manhattan and present day\, illustrating the ongoing consequences of history.\n\nThe session will focus primarily on the collaborative and creative aspects of developing a web-based interactive/digital-first exhibit aimed at middle- and high-school students and teachers. We will provide an overview of the intake of archival materials\, the creative breakdown of documents into a narrative\, building upon that story with illustration and dialogue\, and how the final product incorporates opportunities for further learning.\n\nAttendees will learn how charrettes and user testing with Africana scholars\, K-12 educators\, and students created a compassionate\, engaging “modern-day textbook.” We’ll discuss how museum professionals\, artists\, and educators collaborated to find beauty and contemporary relevance within this difficult history\, while crafting a digital-first experience that meshes a historical visit to Philipsburg Manor (operated by Historic Hudson Valley) with an in-class lesson.
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room A\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:746b93d6e7c127edbbb4e74c492d8cf0
+URL:http://mcn2024.sched.com/event/746b93d6e7c127edbbb4e74c492d8cf0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T151500Z
+DTEND:20241024T160000Z
+SUMMARY:Adopting a Data-Driven Strategy: Insights from Emerging Digital Innovation Journeys of Two Art Museums
+DESCRIPTION:This is a joint session by the North Carolina Museum of Art and the Perez Art Museum Miami\, two medium-sized art museums that have broadly increased capacity to collect and utilize data over the past three years. Our session will showcase digital capabilities to translate strategic goals into measurable and actionable metrics supported by integrated data workflows. Both institutions will share data methodology that supports internal accountability and continuous improvement\, bolsters board and grantor confidence\, and strengthens support of diverse artistic practices and relationships with members.\n\nIn 2021\, NCMA created a Museum Evaluation position which has led to drastic increases in internal buy-in of data practices. Data is now collected across departments to produce quarterly and annual reports\, and nearly all departments are beginning to think about how data can be leveraged to shape their projects. NCMA’s Evaluator\, Melissa Dean\, will highlight the work of several staff members in the larger context of interdepartmental collaboration. NCMA staff Kevin Kane and Heiker Medina will highlight data contributions toward collecting goals\, marketing performance\, utilization of our CRM system (Tessitura)\, as well as in-gallery and remote educational technology platforms.\n\nThe Digital Engagement department at PAMM is a relatively new venture funded specifically to empower a digital initiative that benefits the museum and its community. PAMM’s digital engagement group originally comprised three members\, a department head\, web developer\, and data analyst\, Patrick Fox. Patrick will share his work of finding and aggregating all of the data sources in a system that brings unique departmental data to each group for KPI monitoring. PAMM will also showcase their efforts to understand and increase collection artist presence on Wikipedia and a custom membership application for seamless check-in to museum events.\n\nAbove all\, we are excited to share how building data workflows by combining existing computational knowledge and tools are encouraging formal digital strategies to informally emerge. This is an exploratory showcase of our works-in-progress collaboratively experimenting while learning from each other’s challenges. We hope that sharing our journeys from previously nonexistent or siloed roles to realized responsibilities in data reporting will inspire new projects and roles at your institution as it has ours.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room B\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:0fb37b2679faaf7203dfc5f791587766
+URL:http://mcn2024.sched.com/event/0fb37b2679faaf7203dfc5f791587766
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T151500Z
+DTEND:20241024T160000Z
+SUMMARY:Digital First\, Community Focused: A Strategic Framework for Audience Engagement
+DESCRIPTION:The new Smithsonian American Women’s History Museum has a digital-first mandate and a commitment to community co-creation. Join us for a session exploring why community-focused programs should be at the center of exploring women’s visibility (or the lack thereof). By presenting case studies and provocations\, the session will share how evolving digital expectations can foster community participation while offering insight and inspiration for your digital storytelling and audience engagement efforts.\n\nIn March 2024\, the museum unveiled multiple initiatives that engage audiences in different ways – "Becoming Visible: Bringing American Women’s History into Focus\," a compelling story-driven digital experience and “Community Story Explorer\,” an interactive browsing experience showcasing stories contributed by the community. While each initiative offers its own format\, their roots are interconnected\, originating from an underlying strategy meant to invite diverse audiences to engage and participate across mindsets\, interests\, and locations.\nFeaturing speakers from the Smithsonian American Women’s History Museum\, the Smithsonian Office of Digital Transformation\, and digital agency Forum One\, this interactive panel will illustrate important connections between organizational goals\, strategic planning\, and program design\, offering valuable insights into developing a coherent approach for community building and engagement.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Adams Alumni Center\, 1st Floor - Paul Adams Lounge\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:0ed3df2d0621fbd476e5d476a60494ba
+URL:http://mcn2024.sched.com/event/0ed3df2d0621fbd476e5d476a60494ba
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T151500Z
+DTEND:20241024T160000Z
+SUMMARY:Speed Networking
+DESCRIPTION:Meet other MCN attendees with some speed networking! A facilitator will guide attendees through a series of breakout conversations. Share with fellow attendees where you're from\, what you're curious about\, and more—just be quick!
+CATEGORIES:SOCIAL
+LOCATION:Adams Alumni Center\, 1st Floor - Summerfield Room\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:a171570f41514953a91ef4dca7585644
+URL:http://mcn2024.sched.com/event/a171570f41514953a91ef4dca7585644
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T160000Z
+DTEND:20241024T161500Z
+SUMMARY:Networking & Refreshment Break
+DESCRIPTION:
+CATEGORIES:SOCIAL
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - All-American Room\, 1266 Oread Ave\, Lawrence\, KS 66044\, USA
+SEQUENCE:0
+UID:4c47ce81e39f218261c114bd2243067e
+URL:http://mcn2024.sched.com/event/4c47ce81e39f218261c114bd2243067e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T161500Z
+DTEND:20241024T163500Z
+SUMMARY:There and Back Again: Collaboration and Digitization Go Where Few Can 
+DESCRIPTION:The CMA has prioritized collection digitization for two decades\, refining workflows into a comprehensive roadmap that fully documents asset creation\, management\, usage\, and preservation. This initiative does not just include traditional 2D digitization\, and additionally incorporates a major investment in generating 3D assets with advanced photogrammetry techniques and animation. This investment in 3D allows us to be agile\, iterative\, and collaborative when creating new immersive and interactive experiences.\n\nWhile we know the process of collection digitization is never truly done\, we see immense value in sharing digitized resources on a global scale\, and believe that continually incorporating new practices allows us to make remarkable content that makes art matter to all.\nOur latest case study involves collaboration with an organization in South Korea where we leveraged our digitization efforts for an immersive exhibition featuring a folding screen depicting the landscape of a remote mountain range in North Korea\, exhibited simultaneously at the CMA and at the National Palace Museum (NPM) in Seoul.\nThrough a partnership with the Overseas Korean Cultural Heritage Foundation (OKCHF) and collaboration with the experience design firm Technology Research Institute for Culture & Heritage (TRIC) the exhibition on view at the CMA and NPM took shape from the collaborative digitization of objects in our Korean art collection and years of sharing assets between organizations. The exhibitions used CMA’s 3D modeling techniques developed through multiple years of prioritizing 3D as a method of digitization\, and TRIC’s animation of the illustrations in the folding screen to create a captivating\, first person narrative.\n\nEach institution worked to shape their version of the exhibition to align with their institutional goals. Our result? An immersive exhibition harmonious with the learning goals of our iteration\, born from the success of a comprehensive 3D digitization initiative\, complete with the voice talents of a famous actor\, a cinematic score\, and primary source materials from an ancient traveler\, all combined for an exhilarating trip into an otherworldly terrain where few can currently set foot.
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room B\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:359a7402961a8cc047c1ac08e2d5da71
+URL:http://mcn2024.sched.com/event/359a7402961a8cc047c1ac08e2d5da71
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T161500Z
+DTEND:20241024T163500Z
+SUMMARY:TikTok\, Time's Up: Now What?
+DESCRIPTION:In April\, Biden signed a potential TikTok ban into law. ByteDance\, the company that owns TikTok has until January 19\, 2025 to sell their app or risk its removal from app stores in the US. In preparation for TikTok’s potential\, eminent demise\, this 15 minute fast-paced session will provide a quick overview of alternative use cases for short form video content in a post-TikTok media landscape. This presentation will aim to answer questions like: How can museums leverage short form video content for engagement on other social media platforms like YouTube Shorts and Instagram Reels? How do audiences on these alternate platforms differ from the TikTok audience? Where will the TikTok audience go? Through experience and analytics\, the presenter will share how the National Constitution Center is prepping for a potential\, post-TikTok future.\n\nView presentation slides online:&nbsp\;https://nationalconstitutioncenter.my.canva.site/tiktok-time-s-up-now-what
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room A\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:dbfb31e2c3d751598cb5f4187901b3a8
+URL:http://mcn2024.sched.com/event/dbfb31e2c3d751598cb5f4187901b3a8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T161500Z
+DTEND:20241024T170000Z
+SUMMARY:No Finish Line: Embedding CRM Optimization Into Your Project from Preflight to Infinity
+DESCRIPTION:Museums are increasingly eager to leverage powerful software that promises to deliver valuable insights into growing audiences. However\, implementing Customer Relationship Management (CRM) systems in organizations with limited budgets\, uneven tech literacy\, and varying definitions of audiences are guaranteed to be challenging. While CRMs can enhance visitor engagement\, streamline operations\, and boost institutional support\, their configuration and implementation is fraught with difficulties\, potentially leading to costly upgrades and reinforcing siloed data practices.\n\nThis panel will offer a candid exploration of CRM deployments drawing on the diverse experiences of three organizations and insights from three key departments: Development\, Marketing\, and Technology. Through these multidisciplinary perspectives\, attendees considering the adoption or migration of CRM systems like Tessitura or Salesforce will gain a holistic understanding of the best practices and common pitfalls associated with platform implementation in cultural institutions.\n\nDevelopment departments across the museums collectively emphasize the importance of a CRM in enhancing donor relations and fundraising efficiency. Best practices include conducting thorough needs assessments\, involving end-users in the selection process\, and investing in comprehensive staff training. Common pitfalls are the underestimation of data migration complexities and resistance to change from staff who prefer legacy systems.\n\nFrom the marketing perspective\, leveraging CRM for targeted campaigns and visitor insights is essential. Best practices involve integrating CRM with social media and other digital marketing tools\, continuously updating visitor data\, and utilizing analytics for advanced segmentation and campaign adjustments. Pitfalls include data silos resulting from poor integration and the challenges of keeping up with constantly evolving digital marketing trends.\n\nFinally\, technology departments underline the significance of choosing a scalable and flexible CRM platform that can grow with the institution’s needs. They will advocate for rigorous testing phases\, robust data security protocols\, and continuous system upgrades. Key pitfalls include failing to inform critical stakeholders of how key decisions may affect long-term functionality\, inadequate initial customization\, lack of user-friendly interfaces leading to low adoption rates\, and insufficient IT support post-implementation.\n\nThis panel will equip museum professionals with actionable insights and strategies to navigate the complexities of CRM implementation\, ultimately enhancing their institution’s ability to foster deeper connections with their audiences and supporters.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Adams Alumni Center\, 1st Floor - Paul Adams Lounge\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:02d050cd53e7f42492174a7b2d6d8fff
+URL:http://mcn2024.sched.com/event/02d050cd53e7f42492174a7b2d6d8fff
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T161500Z
+DTEND:20241024T170000Z
+SUMMARY:When New Mexico Gave Land Back - Here’s What Happened
+DESCRIPTION:The New Mexico State Land Office leases and manages New Mexico state trust lands. Much of that land has been leased for extractive practices such as oil and gas drilling. During her tenure\, Commissioner Stephanie Garcia-Richards works closely with Indigenous communities to return stolen land to displaced tribes. In 2022\, just over 2\,000 acres were returned to the Fort Sill Apache Tribe. The tribe had been separated from their ancestral land since the US Government captured their forebears and put them in military-run internment camps in Oklahoma. The exchange was completed last fall and the land is now under the management of the Fort Sill Apache Tribe.\n\nEvery fall semester\, NMHU’s Media Arts Seminar class collaborates with a cultural or community-based organization to develop an exhibit. In the fall of 2023\, Professor Lauren Addario’s students Destiny Zukevich\, Emily Clark\, and Marlene Bad Warrior\, worked with Ethan Ortega\, Assistant Commissioner of Cultural Resources\, and archeologists Carlyn Stewart\, Anne Curry\, and Adesbah Foguth at the New Mexico State Land Office (NMSLO). The resulting exhibit highlights the recent accomplishments of the New Mexico State Land Office’s Land Back initiatives.\n\nThe exhibition includes a video with perspectives from Indigenous youth talking about what land back means to them\, a screen-based mapping component that draws attention to how tribal lands in the southwest are impacted by climate change\, two graphic panels\, and bookmarks that feature endangered animals and insects in southern New Mexico.\n\nNew Mexico Highlands University’s Media Arts &amp\; Technology Department has partnered with the New Mexico Department of Cultural Affairs since 2005. The program cultivates a homegrown pool of multimedia specialists working with cultural content and committed to serving their communities. You can access our presentation here
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Adams Alumni Center\, 1st Floor - Summerfield Room\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:7424c1253d79e5ad581c1e13836ea601
+URL:http://mcn2024.sched.com/event/7424c1253d79e5ad581c1e13836ea601
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T164000Z
+DTEND:20241024T170000Z
+SUMMARY:Expanding ARCH: Advancing Computational Research with Museum Collections
+DESCRIPTION:With support from Institute of Museum and Library Services\, the Internet Archive is expanding ARCH - a web-based computational research platform so that it can streamline gallery\, library\, archive\, and museum ability to support a wide range of users interested in working with museums collections at scale. Museum specific collection functionality includes but is not limited to AI and ML driven methods that enable to speech to text\, artwork color analysis\, and transcription of text found in photographs. The Internet Archive's development efforts on ARCH are directly informed by partners at the Indianapolis Museum of Art and the Williams College Museum of Art. In this presentation representatives from the project will provide an update on the ARCH development roadmap\, new functionality such as its ability to help users easily leverage AI and machine learning with museum collections\, as well as a call for broader museum participation in ARCH development and use.
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room B\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:f88f773921f77e4149f96264bbe63370
+URL:http://mcn2024.sched.com/event/f88f773921f77e4149f96264bbe63370
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T164000Z
+DTEND:20241024T170000Z
+SUMMARY:Responsive Way-finding for a 300 Year Old Historic Site
+DESCRIPTION:Los Luceros Historic Site sits on 150-acres of New Mexico land with apple orchards\, the Rio Grande\, historic buildings\, and a rich queer history including Maria Chabot and Georgia O’Keeffe. This historic site opened in 2019\, right before every museum and historic site in New Mexico closed due to the pandemic. In January of 2023 the Program for Interactivity and Cultural Technology (PICT) in Media Arts &amp\; Technology developed multiple installations for Los Luceros as they planned a grand re-opening.\n\nA 3D-Interactive 60”x44” CNC engraved table was created from trees that burned during the devastating Calf Canyon northern New Mexico fires of 2022. The table has 11 buttons 3D-printed buttons that each feature something significant about the location on site they are representing. Different historic structures\, animals\, and iconography were also created using Blender 3D- an open-source application. Buttons and buildings were 3D-printed in Becca Sharp’s home studio. Using open source hardware (the Arduino and the Museduino- developed in-house by Rianne Trujillo and Miriam Langer) to connect the buttons and LEDs\, which in turn illuminate historic buildings\, the acequia madre (the mother irrigation canal)\, and key features of this incredible site on the banks of the Rio Grande.\n\nWhat makes this table so special is the use of technology to enhance the historic site without requiring the visitor to use screen-based technology. Visitors can feel the corn-based plastic that houses the buttons and the wood that was given a second life through this project. The table also guides visitors as a way-finding tool and creates an exciting map for both adults and children to learn about all that the site has to offer.\n\nLink to Presentation: https://docs.google.com/presentation/d/1JsIXqsOWrQsBF5yCzSczY7iKvMquffYJzjpgiXukzR4/edit?usp=sharing
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room A\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:864314ba2f306f9d185555204a2200a2
+URL:http://mcn2024.sched.com/event/864314ba2f306f9d185555204a2200a2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T170000Z
+DTEND:20241024T181500Z
+SUMMARY:Networking Lunch
+DESCRIPTION:
+CATEGORIES:SOCIAL
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - All-American Room\, 1266 Oread Ave\, Lawrence\, KS 66044\, USA
+SEQUENCE:0
+UID:e4e14d17300a15feb2753446f58214a5
+URL:http://mcn2024.sched.com/event/e4e14d17300a15feb2753446f58214a5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T181500Z
+DTEND:20241024T183500Z
+SUMMARY:Maximizing engagement with fin-tastic weeklong content campaigns: Insights from the Monterey Bay Aquarium
+DESCRIPTION:This session will present a case study of Monterey Bay Aquarium’s “tentpole weeks”\, or specialized week-long cross-platform engagement campaigns: Shrimp Week & Sea Otter Awareness Week. From digital platforms across the web including social\, SMS\, and email\, we want to make people stop scrolling for long enough to laugh\, take a breath\, and be awed by the ocean and its animals. We also want to provide incentive and opportunity for people to build affinity\, deepen their relationship\, and ultimately take action for the ocean.\nIn the past\, we have participated in many more tentpole weeks such as shark week and cephalopod week. Overtime\, we found our participation with all of these were very overwhelming as well as caused a drop off in engagement on our social channels. After we scaled back\, we discovered a more focused approach yielded better engagement on our social channels and return on investment. In this session\, we’ll describe what these tentpole weeks are and why they work\, why sea otters and why shrimp. We’ll share general metrics and insights along with a video and a short presentation. We intend to include the audience in an interactive warm up with the infamous Shelly Skelly.
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room A\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:8d5de4c4511a7ae2a0eed4d8aaac4a16
+URL:http://mcn2024.sched.com/event/8d5de4c4511a7ae2a0eed4d8aaac4a16
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T181500Z
+DTEND:20241024T183500Z
+SUMMARY:Women in Museum Computing: Perspectives on Transformative Data 
+DESCRIPTION:Museum collections are many things\, but primarily they function as repositories of information\, where data-intensive work has been conducted for decades. Like other knowledge infrastructures\, the information in these collections is built on installed bases and requires highly skilled technicians to maintain these long-lasting digital systems. However\, in representations of this computing work\, women's voices and perspectives are under-appreciated\, even though they have significant labor contributions in this area. This presentation will share early results from my dissertation\, where I ask 1) What are the experiences of women doing computing work in museum collections? and 2) To what extent have they enacted non-normative/ transformative data practices in their work?\n\nI answer these questions through semi-structured interviews with women practitioners engaged in museum computing. This presentation will share early results of transformative data work currently happening in collections led by women practitioners. The transformative paradigm is a framework that “addresses power issues\, social justice\, and cultural complexity throughout the research process” (Mertens 2007). I will share the results of the ways that practitioners are transforming collection data in ways that similarly center social justice and challenge oppressive powers. Part of understanding women’s contributions to museum computing is to further unpack their resistance to the harmful legacies of museum collections and their data. It is apparent that many practitioners working in museums have goals for their data to be inclusive\, and to repair past harms of institutions\, yet these practices vary based on institutional history\, number of staff\, and available funding. This presentation will share empirical evidence of work currently happening\, adding to a more robust definition of what ‘museum computing’ can and should entail.\n\nThis research aligns with many conversations in critical data studies\, urging for a more intersectional approach to data creation\, maintenance\, use\, and reuse that is less oppressive to all (Benjamin 2019\; Cifor et al 2019\; D’Ignazio and Klein 2020). A further goal of this presentation is to deepen conversations between museum practitioners and work in big data studies\, and more importantly\, begin a conversation about what other data-intensive environments can learn from museum computing.
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Adams Alumni Center\, 1st Floor - Paul Adams Lounge\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:242b360c02584ac704f64192e236285a
+URL:http://mcn2024.sched.com/event/242b360c02584ac704f64192e236285a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T181500Z
+DTEND:20241024T190000Z
+SUMMARY:New Frontiers in Digital Art: The Maintenance Culture Field Guide for Preservation
+DESCRIPTION:This session will introduce brand new preservation guidance for new media art/digital media art/time-based media art/variable media art and facilitate exercises from “Maintenance Culture: Sustaining Access to Digital Creative Works\,” a Myriad project funded by the National Endowment for the Humanities (NEH). Maintenance Culture aims to provide practical\, realistic guidelines to support small to mid-sized art museums\, history museums\, museums at academic institutions\, and other cultural heritage institutions who steward complex\, born-digital\, creative works.\n\nThe session will introduce participants to the structure and content of the Maintenance Culture guidelines\, including describing some specific examples to illustrate the types of works this project addresses (digital design\, time-based media art\, augmented reality\, and net art) and their common preservation challenges. Facilitators will provide structure for the small group work within the session\, with the goal of connecting participants to each other and encouraging the growth of communities of practice around preserving digital creative works.\n\nPresenter will facilitate exercises from the Maintenance Culture workbook (to be published July 2024)\, including:\n• Identifying institutional strengths that support maintaining long-term access to born-digital\, creative works\n• Naming challenges to collecting and preserving complex\, born-digital creative works and connecting with others experiencing similar challenges\n• Taking steps towards drafting workflows for collecting and maintaining complex\, born-digital works\n\n
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Adams Alumni Center\, 1st Floor - Summerfield Room\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:4dfc5c99e029ce4bdd108be47021d693
+URL:http://mcn2024.sched.com/event/4dfc5c99e029ce4bdd108be47021d693
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T181500Z
+DTEND:20241024T190000Z
+SUMMARY:One Collection to Rule Them All
+DESCRIPTION:For the first time The Huntington Library\, Art Museum\, and Botanical Gardens is able to present its rich and varied collections in a single unified interface. We will discuss how over a 5 month period we were able to iterate our way to a high-fidelity collections prototype laying the groundwork for a production-ready online collection. This singular view on our holdings affords our audience a window into the various disciplines within our organisation and helps forward our transition to a more coherent\, less siloed public presentation.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room B\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:7fc6f90f5b244593e31c305d4cabeea4
+URL:http://mcn2024.sched.com/event/7fc6f90f5b244593e31c305d4cabeea4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T184000Z
+DTEND:20241024T190000Z
+SUMMARY:Breaking the silos –exploring new technology and innovative solutions to create new spaces for engaging new audiences.
+DESCRIPTION:Kunstsilo is a brand new art museum in Kristiansand\, Norway. A former grain silo has been remodeled into a distinctive gem for Nordic modernist art. In the same way the siloes inside the building was cut to create the open Silo Hall\, new technology has been explored to create new space for engaging the audience. Inside\, several innovations in immersive production and interactive content for families and teens are available. In this session\, we will explore three highly innovative solutions in Kunstsilo. We will go through the steps from early phase idea\, over the obstacles met during the way and to launch and visitor feedback. The session will use three projects as case studies. All the projects presented involve reaching new audiences through applying different technologies:\n\nPride and prejudice - How the immersive inhouse-production of “Fun fair” by Reidar Aulie became a success for audiences as well as art critiques. When Kunstsilo launched the idea of creating an immersive experience of the painting “Fun fair” by Reidar Aulie\, we were very aware of the poor critiques received by immersive productions elsewhere. We have experienced that the art community has prejudice against immersive productions\, and wanted to show that it can be done differently and respectfully. A major goal of the project was to create an immersive experience that made the original artwork shine and evoked more interest in the painting itself. &nbsp\;Catch me if you can - Using design thinking and escape room dramaturgy on the world’s largest tablet for teens. Many teenagers visit art museums as part of a school field trip\, but few of them come on their own initiative\, in their spare time. Through workshops with teens\, one of the things they highlighted as interesting was doing fun activities – such as escape rooms- together with their friends (without adult supervision). We took them by their word\, and through a series of tests\, failures and new prototypes\, we have created a detective game for groups from age 10 and up. The players must get through escape room–like tasks and use the exhibited art to solve puzzles to catch a spy in Paris in 1940 before the time runs out. The game combines a huge tablet with physical props and the art exhibited in the room.&nbsp\;The good\, the bad and the ugly – Overcoming hurdles in the process of going from audio guide to augmented reality guides. Based on audience feedback – especially from parents who seeked a way to introduce their younger children to art – Kunstsilo wanted to try out a new take on the classic audio guide. Together with LuzidLab we have created augmented reality (AR) guides\; one for families and one for individuals exploring Kunstsilo. The AR guide app allows for video and audio content\, music\, games\, 3D effects and artwork animations. However\, getting to a production worthy app has been a rocky road\, and we will share form our learnings
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room A\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:96633013c7ad59eae3bc7928f1fd4e5e
+URL:http://mcn2024.sched.com/event/96633013c7ad59eae3bc7928f1fd4e5e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T191500Z
+DTEND:20241024T193500Z
+SUMMARY:Above the Clouds: Integrating Machine Learning\, Virtual Reality and Immersive Technologies into the Amelia Earhart Hangar Museum
+DESCRIPTION:This session will dive into the Amelia Earhart Hangar Museum (AEHM)–a first-of-its-kind\, tech-focused exhibit where visitors explore Amelia’s remarkable story while immersing themselves in the Art Deco era and early years of flight.\n\nAEHM is not only innovative and inspiring but also highly educational and emphasizes STEM disciplines. The museum’s content was designed to engage students of all ages\, particularly those in surrounding rural communities. Two teacher resource documents are available that exceed the National Curriculum\, Kansas Curriculum\, and Missouri Standards of Learning.\n\nThe experience begins with a lifelike portrayal of Amelia\, who greets visitors and offers a sneak peek into her life. The digital display warranted 1\,000+ hours of research\, AI technology and computation to create. Archival photos and videos paired with human talent were used to ensure this portrayal of Amelia was as authentic as possible.\n\nInside the gallery\, audio interactives\, digital kiosks and imagery tell the story of Amelia’s youth. Visitors can listen to accounts of her relatives using an antique telephone and get a lesson in physics by cranking the cars of a model roller coaster inspired by Amelia’s homemade version.\n\n“Careers”–an augmented reality (AR) interactive–invites visitors to see themselves in the historical and modern-day professions Amelia employed. Participants step in front of a gesture-reactive screen\, then a digital image of their face is overlaid on an avatar that mirrors their movements and shows how they’d look in each uniform.\n\nA timeline wall and 3D holograms showcase the evolution of flight. The capacitive display\, accompanied by two aircraft engines and engine pieces\, allows visitors to learn how airplanes operate. When participants touch one of the engine pieces\, an illustration appears on the screen to showcase its function. Visitors can also test their mechanical eye in an effort to restore Muriel–the world’s last remaining Lockheed Electra 10-E and model Amelia piloted on her final flight.\n\nAn imitation of the Muriel cockpit equipped with real flight controls offers a sense of Amelia’s tight flying quarters. Outside the flight deck is a Garmin avionics suite and touchscreen where visitors can browse advancements since Amelia's era.\n\nAEHM’s mezzanine features “Amelia’s Guiding Lights”--a massive ceiling element designed to unveil how Amelia navigated flight paths. By pressing the buttons on the table\, each constellation illuminates overhead. Visitors can practice celestial navigation using a sextant\, analyze different atmospheric layers and get an up-close look at authentic tools.\n\nFinally\, visitors test their pilot skills in a VR flight experience. Stations include two steering yokes and VR headsets. Players embark on a lifelike flight path\, piloting to either land successfully in France or reroute to Ireland. AEHM was named one of USA TODAY’S 10Best Readers' Choice Awards for Best New Museum 2024.
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room A\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:e676f0ca6bcaac3fe84ce898d9910039
+URL:http://mcn2024.sched.com/event/e676f0ca6bcaac3fe84ce898d9910039
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T191500Z
+DTEND:20241024T200000Z
+SUMMARY:Bringing the Future of Accessibility Forward with AI-Assisted Image Descriptions 
+DESCRIPTION:As a group of US-based art museums\, we’ve been exploring the very real future of using multimodal AI to begin to bridge this gap: using AI “vision” to describe\, tag\, and provide image descriptions for artwork. After an initial convening in November 2023\, we’ve developed a collaborative\, inter-museum working group to explore this idea along with the technical\, practical\, ethical\, and conceptual challenges inherent in this arena. This group includes the National Gallery of Art\, The Metropolitan Museum of Art\, the Cleveland Museum of Art\, the Art Institute of Chicago\, the Getty\, the Harvard Art Museum\, the Georgia O’Keeffe Museum\, the Smithsonian Institute\, and other partners.\n\nThis multi-presenter session will focus on our initial findings\, insights\, and the next steps we hope to explore. Specifically\, the talk will roughly be divided into the “why”\, the “how”\, and the “what now.” The “how” section is our core and will feature comparisons of results across different models\, insights into prompt engineering\, strategies for systems architecture\, and explorations around evaluation and human feedback. The “what now” section will introduce where we intend to keep exploring\, with each presenting museum sharing current and upcoming efforts. Finally\, we will invite attendees to join us elsewhere at the conference (location TBC!) to explore individual use cases and\, when possible\, dig into working examples.
+CATEGORIES:45-MINUTE PRESENTATION
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room B\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:8dd7088bcd541d48eaa07dab21dec284
+URL:http://mcn2024.sched.com/event/8dd7088bcd541d48eaa07dab21dec284
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T194000Z
+DTEND:20241024T200000Z
+SUMMARY:Virtual Woodworking Studio: How to Create an Interactive Pilot for an Experimental Gallery Space While Your Museum is Expanding (Physically and Digitally)
+DESCRIPTION:Crystal Bridges Museum of American Art is increasing the size of its current facilities by 50 percent. Adding nearly 100\,000 square feet to the 200\,000-square-foot facility\, the expansion will allow the museum to showcase its growing collection and welcome more visitors to experience the power of art\, in an inclusive environment. Envisioned to support Crystal Bridges’ commitment to free access to art for all\, the new space will increase capacity for presenting art and exhibitions\, educational and outreach initiatives\, cultural programming\, and community events. Increased gallery space (by 65 percent) will allow the museum to present art with two new galleries while also adding to existing space for temporary exhibitions and offering new spaces for community displays and in-gallery engagements.\n\nThis past year\, Crystal Bridges Museum of American Art opened three experimental gallery spaces. One experimental space focuses on the art of American craft\; woodworking\, ceramics\, textiles. This space not only explores how we play with our collection\, but how we plan and execute both physical and digital engagements. This space plays a significant role in the institution’s digital expansion through a digital interactive pilot focused on contemporary artist processes of woodworking.\n\nThis presentation will illustrate the processes of creating this interactive pilot including leading an multi-departmental task force\, participating in a global web3 technology cohort and tech accelerator program (Web3 for Arts and Culture)\, and producing an experience that transcends the in-person experience through an online gaming platform (Spatial.io).\n\nThrough a tech accelerator program called Web3 for Arts and Culture (https://wac-lab.xyz)\, the museum partnered with a digital agency\, Broken Egg (brokenegg.io). Together\, they developed an immersive experience that guides visitors through the woodworking processes of various artists represented in the museum’s permanent collection.
+CATEGORIES:15-MINUTE PRESENTATION (+5 MINUTE Q&A)
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room A\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:bf498a45e55a3019f4a0557be53faa7e
+URL:http://mcn2024.sched.com/event/bf498a45e55a3019f4a0557be53faa7e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T015648Z
+DTSTART:20241024T201500Z
+DTEND:20241024T204500Z
+SUMMARY:Closing Remarks
+DESCRIPTION:Join members of the MCN board to recap the conference and explore what's next. Bring your feedback and ideas to this closing session!
+CATEGORIES:SOCIAL
+LOCATION:Jayhawk Welcome Center\, 2nd Floor - Berkley Presentation Room A and B\, 1266 Oread Ave\, Lawrence\, KS 66044
+SEQUENCE:0
+UID:ac2ca87989dabe82786e8e49229986bd
+URL:http://mcn2024.sched.com/event/ac2ca87989dabe82786e8e49229986bd
+END:VEVENT
+END:VCALENDAR

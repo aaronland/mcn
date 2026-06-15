@@ -1,8 +1,8 @@
 # github.com/anaskhan96/soup v1.2.5
 ## explicit; go 1.13
 github.com/anaskhan96/soup
-# github.com/arran4/golang-ical v0.1.0
-## explicit; go 1.13
+# github.com/arran4/golang-ical v0.3.5
+## explicit; go 1.20
 github.com/arran4/golang-ical
 # golang.org/x/net v0.0.0-20200114155413-6afb5195e5aa
 ## explicit; go 1.11
