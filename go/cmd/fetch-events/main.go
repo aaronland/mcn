@@ -11,10 +11,13 @@ package main
 import (
 	"flag"
 	"fmt"
+	"io"
 	"log"
 	"log/slog"
+	"net/http"
 	"os"
 	"path/filepath"
+	"strings"
 
 	"github.com/anaskhan96/soup"
 	"github.com/arran4/golang-ical"
@@ -25,7 +28,7 @@ func main() {
 	var path_ics string
 	var dest string
 
-	flag.StringVar(&path_ics, "ics", "", "The path to a local MCN schedule '.ics' file.")
+	flag.StringVar(&path_ics, "ics", "", "The URI, or path to a local file, for MCN schedule '.ics' file.")
 	flag.StringVar(&dest, "destination", "", "The folder where event data in the local MCN schedule '.ics' file will be written.")
 
 	flag.Parse()
@@ -36,15 +39,32 @@ func main() {
 		log.Fatalf("Failed to derive absolute path for %s, %v", dest, err)
 	}
 
-	r, err := os.Open(path_ics)
+	var ics_r io.ReadCloser
 
-	if err != nil {
-		log.Fatalf("Failed to open %s for reading, %v", path_ics, err)
+	if strings.HasPrefix(path_ics, "https://") {
+
+		rsp, err := http.Get(path_ics)
+
+		if err != nil {
+			log.Fatalf("Failed to retrieve %s for reading, %v", path_ics, err)
+		}
+
+		ics_r = rsp.Body
+
+	} else {
+
+		r, err := os.Open(path_ics)
+
+		if err != nil {
+			log.Fatalf("Failed to open %s for reading, %v", path_ics, err)
+		}
+
+		ics_r = r
 	}
 
-	defer r.Close()
+	defer ics_r.Close()
 
-	cal, err := ics.ParseCalendar(r)
+	cal, err := ics.ParseCalendar(ics_r)
 
 	if err != nil {
 		log.Fatalf("Failed to parse %s, %v", path_ics, err)
@@ -87,7 +107,7 @@ func main() {
 			logger.Info("Event file already exists, skipping")
 			continue
 		}
-		
+
 		wr, err := os.OpenFile(path, os.O_RDWR|os.O_CREATE, 0644)
 
 		if err != nil {
