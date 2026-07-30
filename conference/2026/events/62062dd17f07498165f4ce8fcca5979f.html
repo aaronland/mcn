@@ -1,0 +1,106 @@
+<div id="sched-content-inner">
+
+        
+                                                                                        
+          
+                              
+          
+                  
+  
+        
+    <div class="list-single">
+
+      <header class="list-single__header">
+        <!-- Show edit session link when on session permalink -->
+                
+        <div class="back-to-schedule">
+                      <a href="list/simple" class="schedule-dynamic-link" id="back_to_schedule">← Back to schedule</a>
+                  </div>
+
+              </header>
+
+      <div class="list-single__event">
+
+        <span class="event ev_2">
+                    <a href="#" style="padding-right: 15px" class="name" onclick="return false" id="62062dd17f07498165f4ce8fcca5979f"><span class="session-title">Collections Online in 3.5 Months: An Honest Look</span>
+                                              </a>
+        </span>
+                                </div>
+
+      <div class="list-single__details">
+    <div class="list-single__date">
+    Thursday October 22, 2026  2:15pm -  3:00pm <span class="tz">PDT</span>  </div>
+
+        <div class="list-single__location">
+      <a target="_blank" href="venue/512+Willapa">
+        512 Willapa      </a>
+          </div>
+  
+</div>
+
+      <div class="sched-container sched-container-wide">
+        <div class="sched-container-inner">
+
+          <div class="sched-event-details-container">
+            
+            <a name="video_stream" style="display: block; position: relative;"></a>
+            
+            <div class="sched-event-details" style="margin-left: 0px; border-left: none; padding-left: 0px; padding-bottom: 0px;">
+              
+                              <div id="checkin-success" class="notification-bar notification-bar--success notification-bar--simple notification-bar--icon" style="display: none;">
+                  <div class="notification-bar__content">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 200 201" fill="none">
+                      <path d="M183.333 92.9214V100.588C183.323 118.558 177.504 136.044 166.744 150.437C155.985 164.83 140.861 175.359 123.628 180.454C106.395 185.549 87.977 184.937 71.1204 178.71C54.2638 172.482 39.872 160.972 30.0912 145.897C20.3104 130.822 15.6648 112.989 16.8471 95.0574C18.0295 77.1261 24.9766 60.0575 36.6522 46.397C48.3278 32.7366 64.1064 23.2162 81.6347 19.2559C99.1631 15.2956 117.502 17.1075 133.917 24.4214M183.333 33.8737L99.9998 117.29L74.9998 92.2904" stroke="#079455" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </svg>
+                    <strong>You&#39;re checked in!</strong>
+                  </div>
+                </div>
+              
+              <!-- SELF-CHECKOUT -->
+              
+              <!-- SELF-CHECKIN -->
+                            
+
+            <!-- QRCODE-CHECKIN: NOT ADDED SESSION -->
+            
+      <!-- QRCODE-CHECKIN-->
+      
+    <!-- QRCODE-CHECKIN: hash is wrong -->
+    
+    
+        <div class="sched-scrollable-details">
+<div class="tip-description">
+<strong></strong>  In early 2026, LACMA shipped Collections Online — a public search and discovery site for the museum&#39;s collection — in roughly 3.5 months from kickoff to launch. The team was small (LACMA&#39;s digital team of two) and the work was deeply collaborative across overlapping skills: LACMA&#39;s Senior Director of Publishing — portfolio across editorial, design, and web/digital — anchoring the experience perspective and the internal advocacy that kept the work aligned across the organization; an independent backend engineer on the data platform application; the Folder Design team behind the visual design system and reference demos; the Urban Insight team behind the Netlify-hosted Next.js front end — search integration, frontend architecture, performance, and the discovery experience; and LACMA&#39;s Director of Digital Strategy &amp; Infrastructure, who architected the overall environment and built the systems around the data platform (image, AI, search, monitoring, admin tooling, data flows), iterated on intent, and held day-to-day validation, troubleshooting, and coordination.<br/> <br/> At the center sits a custom data platform — a FastAPI on ECS application backed by PostgreSQL/RDS — that ingests eleven TMS SQL views (about 1.1 million rows per cycle) plus 119,000 AI-enriched records from DynamoDB, applies user-defined transformation rulesets, and publishes through REST, GraphQL, and a bulk OpenSearch index. Two VPCs joined by peering, schema/rules admin UI, 6-hour ingest cadence with admin-triggered refresh.<br/> <br/> A Lambda + SQS image processing pipeline moves 68,000 image-bearing objects (and derivatives) into KMS-encrypted S3. An AI enrichment layer — a SageMaker-hosted SigLIP 2 vision model run ephemerally on g5.xlarge, plus a long-running EC2 service for visual descriptions, embeddings, and search-time text encoding — produces the metadata for hybrid vector search and accessibility. An OpenSearch cluster handles faceted keyword search. A pair of admin tools — diagnostic Lookups and editorial Overrides — keep curatorial, engineering, and the data pipeline honest about what is surfacing on the site.<br/> <br/> On the frontend, Next.js + Netlify deliver the public experience, CDN-optimized for scale.<br/> <br/> - End-to-End Architecture: the AWS/FastAPI stack, frontend delivery, and operations — with cost and performance numbers for each piece.<br/> <br/> - The Reality of AI-Assisted Engineering: where Claude and Gemini delivered 10x acceleration, where they introduced subtle costly bugs, and where we reverted to traditional engineering.<br/> <br/> - Operationalizing AI: prompt engineering, agent-based workflows, and the scaffolding that makes AI-assisted work repeatable across a hybrid team.<br/> <br/> In this session, we break down both the technical architecture and the collection discovery experience behind the build, sharing key architectural decisions, tradeoffs, lessons learned, and our playbook, including:<br/> <br/> The goal is to share a working playbook, with the rough edges visible, for any institution considering a similar build.
+</div>
+</div>
+<div class="tip-roles">
+<strong>Speakers</strong>  <div class="sched-event-details-roles has-avatars"><div class="sched-person-session"><a class="sched-avatar" href="speaker/bwyman1"><span><img src="//avatars.sched.co/d/15/2098234/avatar.jpg?358" alt="avatar for Bruce Wyman" onerror="this.onerror=null;this.src=&#39;//cdn.sched.co/common/img/avatar-empty.png&#39;;"/></span></a>
+<div><h2><a href="speaker/bwyman1" title="Bruce Wyman">Bruce Wyman</a></h2><div class="sched-event-details-role-company">Director of Digital Strategy &amp; Infrastructure, LACMA; also Principal, USD Design | MACH Consulting, LACMA</div><div class="sched-person-session-role">Bruce Wyman, Principal for USD Design | MACH Consulting, has worked with museums for nearly three decades, serving both as staff and consultant across art museums, zoos and aquariums, science centers, and other cultural institutions. His expertise spans museum strategy, exhibit design... <a href="speaker/bwyman1" title="Bruce Wyman">Read More →</a></div></div></div><div class="sched-person-session"><a class="sched-avatar" href="speaker/piotradamczyk"><span><img src="//avatars.sched.co/5/02/2407597/avatar.jpg?9fa" alt="avatar for Piotr Adamczyk" onerror="this.onerror=null;this.src=&#39;//cdn.sched.co/common/img/avatar-empty.png&#39;;"/></span></a>
+<div><h2><a href="speaker/piotradamczyk" title="Piotr Adamczyk">Piotr Adamczyk</a></h2><div class="sched-event-details-role-company">Independent Backend Engineer (contractor to LACMA), Independent</div><div class="sched-person-session-role">Piotr Adamczyk is a cultural heritage technologist and backend engineer. Recently, he helped build the LACMA Data Platform—a FastAPI/PostgreSQL engine transforming TMS data into REST/GraphQL APIs for Collections Online. He previously held data and product leadership roles at the... <a href="speaker/piotradamczyk" title="Piotr Adamczyk">Read More →</a></div></div></div><div class="sched-person-session"><a class="sched-avatar" href="speaker/schun6"><span><em class="sched-avatar-letter" style="color:#D0D0D3;">SC</em></span></a>
+<div><h2><a href="speaker/schun6" title="Susan Chun">Susan Chun</a></h2><div class="sched-event-details-role-company">Senior Director of Publishing, LACMA</div><div class="sched-person-session-role">Susan Chun is responsible for LACMA’s Publishing Division, which includes the editorial and interpretation team; graphic design; rights and reproductions; photographic services; and web and digital. She joined LACMA in 2024, developing the interpretive strategy for the David Geffen... <a href="speaker/schun6" title="Susan Chun">Read More →</a></div></div></div><div class="sched-person-session"><a class="sched-avatar" href="speaker/dischler1"><span><img src="//avatars.sched.co/1/d3/21389553/avatar.jpg?16e" alt="avatar for Mark Dischler" onerror="this.onerror=null;this.src=&#39;//cdn.sched.co/common/img/avatar-empty.png&#39;;"/></span></a>
+<div><h2><a href="speaker/dischler1" title="Mark Dischler">Mark Dischler</a></h2><div class="sched-event-details-role-company">Chief Technology Officer, Urban Insight</div><div class="sched-person-session-role">Mark Dischler is CTO at Urban Insight, where he works at the intersection of technology strategy, client advisory, and digital transformation for museums and cultural institutions. He partners with organizations such as LACMA, The Broad, JANM, and Gilcrease Museum to design scalable... <a href="speaker/dischler1" title="Mark Dischler">Read More →</a></div></div></div></div>
+</div>
+<div class="sched-event-details-timeandplace">
+Thursday October 22, 2026  2:15pm -  3:00pm <span class="tz">PDT</span>
+<br/><a href="venue/512+Willapa">512 Willapa</a>
+</div>
+<div class="sched-event-type">
+ <a href="type/45-minute+presentation"><span style="float: none; display: inline-block; margin-right: 0px; line-height: 14px;" class="box  ev_2"> </span> 45-minute presentation</a>       </div>
+
+      
+      
+                        <div id="sched-page-event-sharing">
+                                                              <h4><a href="/signup">Sign up</a> or <a href="/login">log in</a> to save this to your schedule, view media, leave feedback and see who&#39;s attending!</h4>
+                          
+          
+                      <div id="sched-page-event-shorturl">
+              <input value="https://sched.co/2RWri" id="shorturl" onclick="this.select()" type="text"/>
+            </div>
+            <div class="sched-share" style="height:32px">
+              <a target="_blank" class="sched-share-twitter" title="Share on Twitter" href="https://twitter.com/intent/tweet?text=I%27m+excited+to+attend+Collections+Online+in+3.5+Months%3A+An+Honest+Look+at+MCN+2026 https%3A%2F%2Fsched.co%2F2RWri  @sched"><span></span> Tweet</a>
+              <a target="_blank" class="sched-share-facebook" title="Share on Facebook" href="https://www.facebook.com/dialog/share?app_id=316098478409368&amp;display=popup&amp;href=https://sched.co/2RWri&amp;redirect_uri=https://sched.co/2RWri"><span></span> Share</a>
+            </div>
+                              </div>
+              
+    </div>    </div>    </div>    </div>
+                </div>            </div>

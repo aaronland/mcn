@@ -1,4 +1,4 @@
-module github.com/aaronland/mcn/go
+module github.com/aaronland/mcn
 
 go 1.26.5
 

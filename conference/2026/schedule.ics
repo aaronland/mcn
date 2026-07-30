@@ -1,0 +1,261 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:mcn2026 (schedule)
+X-WR-CALDESC:Event Calendar
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+PRODID:-//Sched.com MCN 2026//EN
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261021T221500Z
+DTEND:20261021T231500Z
+SUMMARY:First-Timers Meetup & SIG Welcome
+DESCRIPTION:Whether this is your first\, fifth\, fifteenth\, or fiftieth time attending MCN\, all are invited to join us in welcoming the newest members of the MCN community who are attending MCN for the first time. Get loose and break some ice ahead of the evening's Ignite reception.\n\nCash bar; complimentary light fare will be available\n
+CATEGORIES:SPECIAL EVENT
+LOCATION:502 Cowlitz\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:3d7f6b7e0d633de2fbd8217b8fe4a6d5@schedule
+URL:http://mcn2026.sched.com/event/3d7f6b7e0d633de2fbd8217b8fe4a6d5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261022T000000Z
+DTEND:20261022T020000Z
+SUMMARY:Ignite! Reception
+DESCRIPTION:Our signature welcome event\, Ignite\, showcases a series of rapid-fire talks from creative thinkers in the museum field. Expect lots of energy with fresh\, inspiring\, and timely ideas from familiar faces and emerging voices in the field and beyond. Talks follow the “Ignite” format\, in which presenters have five minutes and 20 slides (which advance automatically every 15 seconds) to enlighten\, entertain\, and inspire. Hear from several brave and visionary speakers sharing their experiences in a wide variety of disciplines. \n\nOne Team: Better Museums Through Collaboration\nMiranda Kerr\n\nLessons In Risk Management from an Avid Baker\nIsabel Cuellar\n\nGetting There: Female Pleasure as a Model for Transformative Museum Experiences\nSarah Wambold\n\nBefore I Tell You What I Learned\nSherman Bausch\n\nCan Technology Replace My Mom?\nNina Callaway\n\nMuseum Network Mycelium Network\nAndrea Montiel de Shuman\n\nCan We Still Trust Digital History\nSonya Norman\n\nHow to Touch Grass\nMaría-Elisa Heg\n\nThis reception is included in the registration cost; no separate ticket is required. Light appetizers and beverages will be provided. Each attendee will get one drink ticket.\n\n
+CATEGORIES:SPECIAL EVENT
+LOCATION:The Point at Pier 70\, 2801 Alaskan Wy\, Seattle\, WA 98121
+SEQUENCE:0
+UID:1b3bd551eceb27b145e3fc07e531d68f@schedule
+URL:http://mcn2026.sched.com/event/1b3bd551eceb27b145e3fc07e531d68f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261022T023000Z
+DTEND:20261022T043000Z
+SUMMARY:SIG Meetup
+DESCRIPTION:\n
+CATEGORIES:SPECIAL EVENT
+LOCATION:TBD\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:3dfdb7397ccbc14e823e3e7f7ddeff5e@schedule
+URL:http://mcn2026.sched.com/event/3dfdb7397ccbc14e823e3e7f7ddeff5e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261022T153000Z
+DTEND:20261022T230000Z
+SUMMARY:Community Partner Showcase
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:Level 5 Foyer\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:4103331f15754bd916535239b0a53fe0@schedule
+URL:http://mcn2026.sched.com/event/4103331f15754bd916535239b0a53fe0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261022T153000Z
+DTEND:20261022T171500Z
+SUMMARY:Continental Breakfast
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:Quinault Ballroom\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:95429c6b73291c663de8b71de00ff099@schedule
+URL:http://mcn2026.sched.com/event/95429c6b73291c663de8b71de00ff099
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261022T160000Z
+DTEND:20261022T170000Z
+SUMMARY:Opening Remarks
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:Elwah Ballroom\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:78771ff96b03b202fbab6171781d7817@schedule
+URL:http://mcn2026.sched.com/event/78771ff96b03b202fbab6171781d7817
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261022T171500Z
+DTEND:20261022T180000Z
+SUMMARY:Speed Networking
+DESCRIPTION:Meet other MCN attendees with some speed networking! A facilitator will guide attendees through a series of breakout conversations. Share with fellow attendees where you're from\, what you're curious about\, and more—just be quick!
+CATEGORIES:EVENT
+LOCATION:502 Cowlitz\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:9a6efd427cde963ac60d976f36948b88@schedule
+URL:http://mcn2026.sched.com/event/9a6efd427cde963ac60d976f36948b88
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261022T180000Z
+DTEND:20261022T181500Z
+SUMMARY:Refreshment Break
+DESCRIPTION:\n
+CATEGORIES:EVENT
+LOCATION:Level 5 Foyer\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:f692567e0a6b6a11d148c2a7b352f018@schedule
+URL:http://mcn2026.sched.com/event/f692567e0a6b6a11d148c2a7b352f018
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261022T201500Z
+DTEND:20261022T210000Z
+SUMMARY:Sponsor Session
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:501 Chiwawa\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:2fcc6f498baad8ead74ef01298a2b601@schedule
+URL:http://mcn2026.sched.com/event/2fcc6f498baad8ead74ef01298a2b601
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261022T220000Z
+DTEND:20261022T221500Z
+SUMMARY:Refreshment Break
+DESCRIPTION:\n
+CATEGORIES:EVENT
+LOCATION:Level 5 Foyer\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:6271f8e7e0e6f7828c84f95cbfe80779@schedule
+URL:http://mcn2026.sched.com/event/6271f8e7e0e6f7828c84f95cbfe80779
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261023T010000Z
+DTEND:20261023T030000Z
+SUMMARY:Evening Reception
+DESCRIPTION:\n
+CATEGORIES:SPECIAL EVENT
+LOCATION:Pacific Science Center\, 200 Sue Bird Court N.\, Seattle\, WA 98109
+SEQUENCE:0
+UID:6c9922bcd064bd9640b40c3170991248@schedule
+URL:http://mcn2026.sched.com/event/6c9922bcd064bd9640b40c3170991248
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261023T153000Z
+DTEND:20261023T223000Z
+SUMMARY:Community Partner Showcase
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:Level 5 Foyer\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:075f0d5cf4fcddef8888ab4db4f02adb@schedule
+URL:http://mcn2026.sched.com/event/075f0d5cf4fcddef8888ab4db4f02adb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261023T153000Z
+DTEND:20261023T164500Z
+SUMMARY:Continental Breakfast
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:Quinault Ballroom\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:267913857fdbc2c9b05f8cbc4ec8bc6f@schedule
+URL:http://mcn2026.sched.com/event/267913857fdbc2c9b05f8cbc4ec8bc6f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261023T153000Z
+DTEND:20261023T193000Z
+SUMMARY:Registration and Badge Pickup
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:Gallery\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:08b0c7d013424cc2a650c5305116b8a6@schedule
+URL:http://mcn2026.sched.com/event/08b0c7d013424cc2a650c5305116b8a6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261023T154500Z
+DTEND:20261023T163000Z
+SUMMARY:SIG Breakfast + Birds of a Feather
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:Elwah Ballroom\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:48157367e99a8e8f0a328178088d83d4@schedule
+URL:http://mcn2026.sched.com/event/48157367e99a8e8f0a328178088d83d4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261023T164500Z
+DTEND:20261023T173000Z
+SUMMARY:Speed Networking
+DESCRIPTION:Meet other MCN attendees with some speed networking! A facilitator will guide attendees through a series of breakout conversations. Share with fellow attendees where you're from\, what you're curious about\, and more—just be quick!
+CATEGORIES:EVENT
+LOCATION:502 Cowlitz\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:bc202f683e92968d7313acd7ec1a872b@schedule
+URL:http://mcn2026.sched.com/event/bc202f683e92968d7313acd7ec1a872b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261023T173000Z
+DTEND:20261023T174500Z
+SUMMARY:Refreshment Break
+DESCRIPTION:\n
+CATEGORIES:EVENT
+LOCATION:Level 5 Foyer\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:bbe04f88afce72607a335765d66bff2b@schedule
+URL:http://mcn2026.sched.com/event/bbe04f88afce72607a335765d66bff2b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261023T184500Z
+DTEND:20261023T193000Z
+SUMMARY:Sponsor Session
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:501 Chiwawa\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:6d47fc2bb7d438553c9f2f1890adefe9@schedule
+URL:http://mcn2026.sched.com/event/6d47fc2bb7d438553c9f2f1890adefe9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261023T193000Z
+DTEND:20261023T204500Z
+SUMMARY:Lunch
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:Quinault Ballroom\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:19181d6f7de5d872acd2c918d38523b1@schedule
+URL:http://mcn2026.sched.com/event/19181d6f7de5d872acd2c918d38523b1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261023T213000Z
+DTEND:20261023T214500Z
+SUMMARY:Refreshment Break
+DESCRIPTION:\n
+CATEGORIES:EVENT
+LOCATION:Level 5 Foyer\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:8dcc3a5b4101fa12593da2c82fc75c06@schedule
+URL:http://mcn2026.sched.com/event/8dcc3a5b4101fa12593da2c82fc75c06
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200829Z
+DTSTART:20261023T224500Z
+DTEND:20261023T233000Z
+SUMMARY:Closing Remarks
+DESCRIPTION:
+CATEGORIES:EVENT
+LOCATION:Elwah Ballroom\, Seattle\, WA\, USA
+SEQUENCE:0
+UID:fb0623a3a58199cb4c53a2e42938225f@schedule
+URL:http://mcn2026.sched.com/event/fb0623a3a58199cb4c53a2e42938225f
+END:VEVENT
+END:VCALENDAR
